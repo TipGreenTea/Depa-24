@@ -1,0 +1,1375 @@
+pclass,survived,name,sex,age,sibsp,parch,ticket,fare,embarked,home.dest,price,bmi,insurance_charges
+1,1,"Allen, Miss. Elisabeth Walton",0,29,0,0,24160,211.3375,S,"St Louis, MO",500,22.49080237694725,4084.850578846067
+1,1,"Allison, Master. Hudson Trevor",male,0.9167,1,2,113781,151.55,S,"Montreal, PQ / Chesterville, ON",500,34.01428612819832,13125.873568451416
+1,0,"Allison, Miss. Helen Loraine",female,2,1,2,113781,151.55,S,"Montreal, PQ / Chesterville, ON",500,29.639878836228103,6956.926198
+1,0,"Allison, Mr. Hudson Joshua Creighton",male,30,1,2,113781,151.55,S,"Montreal, PQ / Chesterville, ON",500,26.973169683940732,7964.851631980508
+1,0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",0,25,1,2,113781,151.55,S,"Montreal, PQ / Chesterville, ON",500,18.12037280884873,5708.883856296602
+1,1,"Anderson, Mr. Harry",male,48,0,0,19952,26.55,S,"New York, NY",10000,18.119890406724053,9097.787345806448
+1,1,"Andrews, Miss. Kornelia Theodosia",female,63,1,0,13502,77.9583,S,"Hudson, NY",500,16.161672243363988,2871.0961524828303
+,0,"Andrews, Mr. Thomas Jr",1,39,0,0,112050,0,S,"Belfast, NI",500,32.32352291549871,6170.682281
+1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53,2,0,11769,51.4792,S,"Bayside, Queens, NY",500,27.022300234864176,14556.47867386167
+1,0,"Artagaveytia, Mr. Ramon",male,71,0,0,PC 17609,49.5042,C,"Montevideo, Uruguay",500,29.16145155592091,4242.934774
+1,0,"Astor, Col. John Jacob",1,47,1,0,PC 17757,227.525,C,"New York, NY",500,15.411689885916049,10022.681635848738
+1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,1,0,PC 17757,227.525,C,"New York, NY",500,34.39819704323989,5215.255931258076
+1,1,"Aubart, Mme. Leontine Pauline",female,,0,0,PC 17477,69.3,C,"Paris, France",500,31.648852816008436,11715.36032245571
+1,1,"Barber, Miss. Ellen 'Nellie'",female,26,0,0,19877,78.85,S,?,10000,19.246782213565524,2397.6680804160724
+1,1,"Barkworth, Mr. Algernon Henry Wilson",1,80,0,0,27042,30,S,"Hessle, Yorks",500,18.636499344142013,14562.405153638898
+1,0,"Baumann, Mr. John D",1,?,0,0,PC 17318,25.925,S,"New York, NY",500,18.668090197068675,7079.948350062769
+1,0,"Baxter, Mr. Quigg Edmond",1,24,0,1,PC 17558,247.5208,C,"Montreal, PQ",500,21.084844859190753,3922.7317185237275
+1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50,0,1,PC 17558,247.5208,C,"Montreal, PQ",500,25.495128632644757,1565.7028362851836
+1,1,"Bazzani, Miss. Albina",female,32,0,0,11813,76.2917,C,?,500,23.638900372842315,2961.4896237693406
+1,0,"Beattie, Mr. Thomson",male,1050,0,0,13050,75.2417,C,"Winnipeg, MN",500,20.824582803960837,8036.722254062256
+,1,"Beckwith, Mr. Richard Leonard",male,37,1,1,11751,52.5542,S,"New York, NY",500,27.237057894447588,5386.546058253652
+1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47,1,1,11751,52.5542,S,"New York, NY",500,17.789877213040835,12518.808805297836
+1,1,"Behr, Mr. Karl Howell",male,26,0,0,111369,30,C,"New York, NY",500,20.842892970704362,6747.869093096186
+1,1,"Bidois, Miss. Rosalie",female,42,0,0,PC 17757,227.525,C,?,500,22.327236865873836,4106.356952520634
+1,1,"Bird, Miss. Ellen",female,29,0,0,PC 17483,221.7792,S,?,500,24.12139968434072,9448.602305758435
+1,0,"Birnbaum, Mr. Jakob",male,25,0,0,13905,26,C,"San Francisco, CA",500,30.703519227860273,10748.269644838965
+1,1,"Bishop, Mr. Dickinson H",male,25,1,0,11967,91.0792,C,"Dowagiac, MI",500,18.993475643167194,2922.107664563773
+1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,1,0,11967,91.0792,C,"Dowagiac, MI",500,25.284688768272233,2930.478636180606
+1,1,"Bissette, Miss. Amelia",female,35,0,0,PC 17760,135.6333,S,?,500,26.848291377240848,1031.735690536373
+1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28,0,0,110564,26.55,S,"Stockholm, Sweden / Washington, DC",500,15.929008254399955,11177.829218451787
+1,0,"Blackwell, Mr. Stephen Weart",male,45,0,0,113784,35.5,S,"Trenton, NJ",500,27.150897038028766,10125.165650516174
+1,1,"Blank, Mr. Henry",male,40,0,0,112277,31,C,"Glen Ridge, NJ",10000,18.41048247374583,7382.147698372301
+1,1,"Bonnell, Miss. Caroline",female,30,0,0,36928,164.8667,S,"Youngstown, OH",500,16.30103185970559,12740.471510053358
+1,1,"Bonnell, Miss. Elizabeth",female,58,0,0,113783,26.55,S,"Birkdale, England Cleveland, Ohio",500,33.977710745066666,12182.217217775771
+1,0,"Borebank, Mr. John James",male,42,0,0,110489,26.55,S,"London / Winnipeg, MB",500,34.31264066149119,8987.638283752905
+1,1,"Bowen, Miss. Grace Scott",female,45,0,0,PC 17608,262.375,C,"Cooperstown, NY",500,31.16794696232922,13089.933567442251
+1,1,"Bowerman, Miss. Elsie Edith",female,22,0,1,113505,55,S,"St Leonards-on-Sea, England Ohio",500,21.092275383467413,3484.697546
+1,1,"Bradley, Mr. George ('George Arthur Brayton')",male,?,0,0,111427,26.55,S,"Los Angeles, CA",500,16.95344228012768,2122.8344812670543
+1,0,"Brady, Mr. John Bertram",male,41,0,0,113054,30.5,S,"Pomeroy, WA",500,28.68466053024314,4411.3693669963495
+1,0,"Brandeis, Mr. Emil",male,48,0,0,PC 17591,50.4958,C,"Omaha, NE",500,23.803049874792027,1327.7594132950653
+1,0,"Brewe, Dr. Arthur Jackson",male,?,0,0,112379,39.6,C,"Philadelphia, PA",500,17.440764696895577,8201.958156014964
+1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44,0,0,PC 17610,27.7208,C,"Denver, CO",500,24.903538202225405,14080.782538276942
+1,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59,2,0,11769,51.4792,S,"Belmont, MA",500,15.687770422304368,1070.4813396933898
+1,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60,0,0,11813,76.2917,C,"Philadelphia, PA",500,33.18640804157564,2270.5937531453887
+1,1,"Burns, Miss. Elizabeth Margaret",female,41,0,0,16966,134.5,C,?,500,20.17559963200034,7056.885910109811
+1,0,"Butt, Major. Archibald Willingham",male,45,0,0,113050,26.55,S,"Washington, DC",500,28.25044568707964,14041.187754154622
+,0,"Cairns, Mr. Alexander",male,?,0,0,113798,31,S,?,500,21.234221521788218,5084.2635221628825
+,1,"Calderhead, Mr. Edward Pennington",male,42,0,0,PC 17476,26.2875,S,"New York, NY",500,25.401360423556216,7854.904725981691
+1,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53,0,0,PC 17606,27.4458,C,"Washington, DC",500,25.934205586865595,1102.8064562306854
+1,1,"Cardeza, Mr. Thomas Drake Martinez",male,,0,1,PC 17755,512.3292,C,"Austria-Hungary / Germantown, Philadelphia, PA",500,18.69708911051054,2650.9764139502886
+1,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58,0,1,PC 17755,512.3292,C,"Germantown, Philadelphia, PA",500,34.39169255529117,14806.13678290328
+1,0,"Carlsson, Mr. Frans Olof",male,33,0,0,695,5,S,"New York, NY",500,30.50265646722229,14494.22109832266
+1,0,"Carrau, Mr. Francisco M",male,28,0,0,113059,47.1,S,"Montevideo, Uruguay",500,33.78997883128378,571.6297235489394
+1,0,"Carrau, Mr. Jose Pedro",male,17,0,0,113059,47.1,S,"Montevideo, Uruguay",500,32.89654700855298,14301.270888636966
+1,1,"Carter, Master. William Thornton II",male,11,1,2,113760,120,S,"Bryn Mawr, PA",500,26.957999576221702,9767.239098324755
+1,1,"Carter, Miss. Lucile Polk",female,14,1,2,113760,120,S,"Bryn Mawr, PA",500,33.437484700462335,13084.81527054032
+1,1,"Carter, Mr. William Ernest",male,,1,2,113760,120,S,"Bryn Mawr, PA",500,16.76985004103839,7093.727906690957
+1,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,1050,1,2,113760,120,S,"Bryn Mawr, PA",500,18.919657248382904,7976.142414399129
+1,0,"Case, Mr. Howard Brown",male,49,0,0,19924,26,S,"Ascot, Berkshire / Rochester, NY",500,15.90454577821076,7588.275413725342
+1,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,?,0,0,17770,27.7208,C,"New York, NY",500,21.506606615265287,10169.531734418513
+1,0,"Cavendish, Mr. Tyrell William",male,,1,0,19877,78.85,S,"Little Onn Hall, Staffs",500,22.77354579378964,2524.943193966537
+,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76,1,0,19877,78.85,S,"Little Onn Hall, Staffs",500,20.426980635477918,934.6170531538303
+1,0,"Chaffee, Mr. Herbert Fuller",male,46,1,0,W.E.P. 5734,61.175,S,"Amenia, ND",500,31.57475018303859,4964.984153072268
+1,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47,1,0,W.E.P. 5734,61.175,S,"Amenia, ND",500,22.135066533871786,10717.871059681378
+1,1,"Chambers, Mr. Norman Campbell",male,27,1,0,113806,53.1,S,"New York, NY / Ithaca, NY",500,20.618690193747614,3426.875055782751
+1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,1050,1,0,113806,53.1,S,"New York, NY / Ithaca, NY",500,25.853921663164968,10264.770283211301
+1,1,"Chaudanson, Miss. Victorine",female,36,0,0,PC 17608,262.375,C,?,500,17.818484499495252,14563.724668555422
+1,1,"Cherry, Miss. Gladys",female,30,0,0,110152,86.5,S,"London, England",10000,31.043939615080795,1861.5603789465665
+1,1,"Chevre, Mr. Paul Romaine",male,45,0,0,PC 17594,29.7,C,"Paris, France",500,16.491012873595416,10252.730714264331
+1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,?,0,1,113505,55,S,"St Leonards-on-Sea, England Ohio",500,34.73773873201034,6934.378179916282
+1,0,"Chisholm, Mr. Roderick Robert Crispin",male,?,0,0,112051,0,S,"Liverpool, England / Belfast",10000,30.444895385933147,13088.062688473829
+1,0,"Clark, Mr. Walter Miller",male,27,1,0,13508,136.7792,C,"Los Angeles, CA",500,18.974313630683447,3068.6719469870955
+1,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26,1,0,13508,136.7792,C,"Los Angeles, CA",500,15.110442342472048,10543.076307279385
+1,1,"Cleaver, Miss. Alice",female,22,0,0,113781,151.55,S,?,500,31.309228569096682,12652.671699897599
+1,0,"Clifford, Mr. George Quincy",male,?,0,0,110465,52,S,"Stoughton, MA",500,29.137146876952343,14196.906182373337
+1,0,"Colley, Mr. Edward Pomeroy",male,,0,0,5727,25.5875,S,"Victoria, BC",10000,29.580143360819747,10407.096410199865
+1,1,"Compton, Miss. Sara Rebecca",female,39,1,1,PC 17756,83.1583,C,"Lakewood, NJ",500,30.425406933718914,7709.034078122196
+1,0,"Compton, Mr. Alexander Taylor Jr",male,37,1,1,PC 17756,83.1583,C,"Lakewood, NJ",500,16.480893034681806,9458.784982917601
+1,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64,0,2,PC 17756,83.1583,C,"Lakewood, NJ",500,22.16931457088545,13099.122274941414
+1,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55,2,0,11770,25.7,S,"New York, NY",500,17.317381190502594,8773.841326263031
+1,0,"Crafton, Mr. John Bertram",male,?,0,0,113791,26.55,S,"Roachdale, IN",500,32.26206851751187,940.6123656041344
+1,0,"Crosby, Capt. Edward Gifford",male,,1,1,WE/P 5735,71,S,"Milwaukee, WI",500,27.46596253655116,13998.756084851178
+1,1,"Crosby, Miss. Harriet R",female,36,0,2,WE/P 5735,71,S,"Milwaukee, WI",500,21.617960497052984,10498.137889957636
+1,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64,1,1,112901,26.55,S,"Milwaukee, WI",500,16.27116700572047,10309.444093770075
+1,0,"Cumings, Mr. John Bradley",male,39,1,0,PC 17599,71.2833,C,"New York, NY",500,21.219646434313244,3627.289709766899
+1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C,"New York, NY",500,21.503666440534943,10053.83931837353
+1,1,"Daly, Mr. Peter Denis",male,1050,0,0,113055,26.55,S,"Lima, Peru",500,29.59212356676128,6211.033881985298
+1,1,"Daniel, Mr. Robert Williams",male,27,0,0,113804,30.5,S,"Philadelphia, PA",500,27.751149427104263,9942.878167101635
+1,1,"Daniels, Miss. Sarah",female,,0,0,113781,151.55,S,?,500,32.744254851526534,2045.5989394658654
+1,0,"Davidson, Mr. Thornton",male,31,1,0,F.C. 12750,52,S,"Montreal, PQ",500,24.444298503238986,10038.756916744023
+1,1,"Davidson, Mrs. Thornton (Orian Hays)",female,27,1,2,F.C. 12750,52,S,"Montreal, PQ",500,17.391884918766035,14991.499023674665
+1,1,"Dick, Mr. Albert Adrian",male,31,1,0,17474,57,S,"Calgary, AB",500,29.26489574,1199.0745634780624
+1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17,1,0,17474,57,S,"Calgary, AB",10000,30.21570097233795,14669.025671209101
+1,1,"Dodge, Dr. Washington",male,53,1,1,33638,81.8583,S,"San Francisco, CA",500,26.225543951389923,6400.165430481624
+1,1,"Dodge, Master. Washington",male,4,0,2,33638,81.8583,S,"San Francisco, CA",500,30.41934359909122,13125.925029890257
+1,1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54,1,1,33638,81.8583,S,"San Francisco, CA",500,24.875911927287817,11844.589518844965
+1,0,"Douglas, Mr. Walter Donald",male,50,1,0,PC 17761,106.425,C,"Deephaven, MN / Cedar Rapids, IA",500,25.45465658763988,8721.735784306684
+1,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27,1,1,PC 17558,247.5208,C,"Montreal, PQ",500,23.550820367170992,11207.513534144235
+1,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48,1,0,PC 17761,106.425,C,"Deephaven, MN / Cedar Rapids, IA",500,15.508382534881903,13238.475638869544
+1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) ('Mrs Morgan')",female,48,1,0,11755,39.6,C,London / Paris,500,17.157828539866088,6360.034663939978
+1,1,"Duff Gordon, Sir. Cosmo Edmund ('Mr Morgan')",male,49,1,0,PC 17485,56.9292,C,London / Paris,500,15.628583713734685,5241.9808426669615
+1,0,"Dulles, Mr. William Crothers",male,,0,0,PC 17580,29.7,C,"Philadelphia, PA",500,27.72820822527561,10180.104090671979
+1,1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23,0,1,11767,83.1583,C,"Mt Airy, Philadelphia, PA",10000,21.287119621526532,12213.76615814825
+1,1,"Endres, Miss. Caroline Louise",female,38,0,0,PC 17757,227.525,C,"New York, NY",500,25.171413823294056,11553.134454260928
+1,1,"Eustis, Miss. Elizabeth Mussey",female,54,1,0,36947,78.2667,C,"Brookline, MA",500,33.15132947852186,12068.29791
+1,0,"Evans, Miss. Edith Corse",female,36,0,0,PC 17531,31.6792,C,"New York, NY",500,19.98584458,6815.958064787528
+1,0,"Farthing, Mr. John",male,?,0,0,PC 17483,221.7792,S,?,500,23.207658460712594,12358.596134537813
+1,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,,0,0,PC 17598,31.6833,S,"New York, NY",500,30.111022770860973,2243.0313028738224
+1,1,"Fleming, Miss. Margaret",female,,0,0,17421,110.8833,C,?,500,19.57596330983245,8395.091920432318
+1,1,"Flynn, Mr. John Irwin ('Irving')",male,36,0,0,PC 17474,26.3875,S,"Brooklyn, NY",500,16.53959819657586,583.5005772227628
+1,0,"Foreman, Mr. Benjamin Laventall",male,30,0,0,113051,27.75,C,"New York, NY",10000,20.79502905827536,5206.494534
+1,1,"Fortune, Miss. Alice Elizabeth",female,,3,2,19950,263,S,"Winnipeg, MB",500,18.22442574508009,5813.692255635269
+1,1,"Fortune, Miss. Ethel Flora",female,1050,3,2,19950,263,S,"Winnipeg, MB",500,33.59395304685146,6244.504028334203
+1,1,"Fortune, Miss. Mabel Helen",female,23,3,2,19950,263,S,"Winnipeg, MB",500,31.16240759128834,10584.274497003002
+1,0,"Fortune, Mr. Charles Alexander",male,19,3,2,19950,263,S,"Winnipeg, MB",500,27.668075130208468,6134.092468420014
+1,0,"Fortune, Mr. Mark",male,,1,4,19950,263,S,"Winnipeg, MB",500,32.429211803754356,7006.057528026695
+1,1,"Fortune, Mrs. Mark (Mary McDougald)",female,60,1,4,19950,263,S,"Winnipeg, MB",500,31.07344153798229,3944.389897677748
+1,1,"Francatelli, Miss. Laura Mabel",female,30,0,0,PC 17485,56.9292,C,?,500,18.731401177720716,5912.150978625431
+1,0,"Franklin, Mr. Thomas Parham",male,?,0,0,113778,26.55,S,"Westcliff-on-Sea, Essex",500,32.85117996979955,3795.4095953156966
+1,1,"Frauenthal, Dr. Henry William",male,,2,0,PC 17611,133.65,S,"New York, NY",500,25.786844838313016,1561.3408946424327
+1,1,"Frauenthal, Mr. Isaac Gerald",male,43,1,0,17765,27.7208,C,"New York, NY",500,31.14880310328125,9250.004604
+1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,1050,1,0,PC 17611,133.65,S,"New York, NY",500,32.92182599846986,10189.085579047736
+1,1,"Frolicher, Miss. Hedwig Margaritha",female,22,0,2,13568,49.5,C,"Zurich, Switzerland",500,21.360069499437277,9482.610017
+1,1,"Frolicher-Stehli, Mr. Maxmillian",male,1050,1,1,13567,79.2,C,"Zurich, Switzerland",500,17.201038490553536,7220.663635108299
+1,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48,1,1,13567,79.2,C,"Zurich, Switzerland",500,19.558703250838832,6006.8938125988325
+1,0,"Fry, Mr. Richard",male,?,0,0,112058,0,S,?,500,23.542155772525128,13018.337918791465
+1,0,"Futrelle, Mr. Jacques Heath",male,37,1,0,113803,53.1,S,"Scituate, MA",500,31.36029531844986,8026.685884475161
+1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,53.1,S,"Scituate, MA",500,32.21461166512687,7448.137225631099
+1,0,"Gee, Mr. Arthur H",male,47,0,0,111320,38.5,S,"St Anne's-on-Sea, Lancashire",500,15.139042610623815,871.8099541933175
+1,1,"Geiger, Miss. Amalie",female,35,0,0,113503,211.5,C,?,500,25.214946051551316,5448.093500579267
+1,1,"Gibson, Miss. Dorothy Winifred",female,22,0,1,112378,59.4,C,"New York, NY",500,23.348220062975578,6012.836472394927
+1,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,1050,0,1,112378,59.4,C,"New York, NY",500,19.442156209414605,6282.930323005057
+1,0,"Giglio, Mr. Victor",male,24,0,0,PC 17593,79.2,C,?,500,17.397307346673657,8912.499353796318
+1,1,"Goldenberg, Mr. Samuel L",male,,1,0,17453,89.1042,C,"Paris, France / New York, NY",500,21.75230342807256,8237.236927539738
+1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,?,1,0,17453,89.1042,C,"Paris, France / New York, NY",500,33.858194078250385,9314.623845504948
+1,0,"Goldschmidt, Mr. George B",male,71,0,0,PC 17754,34.6542,C,"New York, NY",500,21.464058640415104,11590.80729236086
+1,1,"Gracie, Col. Archibald IV",male,53,0,0,113780,28.5,C,"Washington, DC",500,25.37581243486732,12288.293211383356
+1,1,"Graham, Miss. Margaret Edith",female,1050,0,0,112053,30,S,"Greenwich, CT",500,29.060379177903556,10912.784605284169
+1,0,"Graham, Mr. George Edward",male,38,0,1,PC 17582,153.4625,S,"Winnipeg, MB",500,22.27259204758588,14355.093591346553
+1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58,0,1,PC 17582,153.4625,S,"Greenwich, CT",10000,34.435641654419214,764.3724488072437
+1,1,"Greenfield, Mr. William Bertram",male,23,0,1,PC 17759,63.3583,C,"New York, NY",500,34.24894589884222,3338.7807924114186
+1,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45,0,1,PC 17759,63.3583,C,"New York, NY",500,20.035645916507285,609.6616871830607
+,0,"Guggenheim, Mr. Benjamin",male,,0,0,PC 17593,79.2,C,"New York, NY",500,24.94497011784771,9888.383355241744
+1,1,"Harder, Mr. George Achilles",male,25,1,0,11765,55.4417,C,"Brooklyn, NY",500,21.017566196335395,13521.44295977481
+1,1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,1050,1,0,11765,55.4417,C,"Brooklyn, NY",500,20.696809887549353,4030.4933003563397
+1,1,"Harper, Mr. Henry Sleeper",male,48,1,0,PC 17572,76.7292,C,"New York, NY",500,15.737738947090655,13942.000899546447
+1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,1,0,PC 17572,76.7292,C,"New York, NY",500,27.191286679597937,1373.8771591986324
+1,0,"Harrington, Mr. Charles H",male,?,0,0,113796,42.4,S,?,10000,25.05358046457723,14049.322388679957
+1,0,"Harris, Mr. Henry Birkhardt",male,45,1,0,36973,83.475,S,"New York, NY",500,16.029575024999787,5598.528964974699
+1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35,1,0,36973,83.475,S,"New York, NY",500,20.57292928473223,1970.6020125136395
+1,0,"Harrison, Mr. William",male,1050,0,0,112059,0,S,?,500,33.165317719333075,7545.140508201722
+1,1,"Hassab, Mr. Hammad",male,27,0,0,PC 17572,76.7292,C,?,500,19.79123781333945,4223.260231947365
+1,1,"Hawksford, Mr. Walter James",male,?,0,0,16988,30,S,"Kingston, Surrey",500,17.897897441824462,4630.657078447881
+1,1,"Hays, Miss. Margaret Bechstein",female,24,0,0,11767,83.1583,C,"New York, NY",500,24.78905520555126,4955.7044914311555
+1,0,"Hays, Mr. Charles Melville",male,55,1,1,12749,93.5,S,"Montreal, PQ",500,34.71300908221201,12143.875518573619
+1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52,1,1,12749,93.5,S,"Montreal, PQ",500,19.84110543023001,8317.838512
+1,0,"Head, Mr. Christopher",male,42,0,0,113038,42.5,S,London / Middlesex,500,28.442710948117572,5013.961637762053
+1,0,"Hilliard, Mr. Herbert Henry",male,1050,0,0,17463,51.8625,S,"Brighton, MA",500,30.23239230657435,9349.839858008316
+1,0,"Hipkins, Mr. William Edward",male,55,0,0,680,50,S,London / Birmingham,500,19.752750879847994,10884.184776236307
+1,1,"Hippach, Miss. Jean Gertrude",female,,0,1,111361,57.9792,C,"Chicago, IL",500,29.56432697223719,4453.048010636239
+1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44,0,1,111361,57.9792,C,"Chicago, IL",500,22.355662654385064,6496.461972117597
+1,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51,1,0,13502,77.9583,S,"Hudson, NY",500,27.64611661187159,2267.3483533857398
+1,0,"Holverson, Mr. Alexander Oskar",male,42,1,0,113789,52,S,"New York, NY",500,27.670594215217893,3126.6655682528644
+1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,,1,0,113789,52,S,"New York, NY",500,25.71549368149517,10376.20888249225
+1,1,"Homer, Mr. Harry ('Mr E Haven')",male,35,0,0,111426,26.55,C,"Indianapolis, IN",500,16.805795401088165,3130.856041586591
+1,1,"Hoyt, Mr. Frederick Maxfield",male,38,1,0,19943,90,S,"New York, NY /  Stamford CT",500,31.70604991178476,8114.869063172372
+1,0,"Hoyt, Mr. William Fisher",male,?,0,0,PC 17600,30.6958,C,"New York, NY",500,21.415601299434716,10781.170794975274
+1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,,1,0,19943,90,S,"New York, NY /  Stamford CT",500,18.730370207997083,2049.7153848737858
+1,1,"Icard, Miss. Amelie",female,38,0,0,113572,80,?,?,500,15.815502831095278,8726.027185
+,0,"Isham, Miss. Ann Elizabeth",female,50,0,0,PC 17595,28.7125,C,"Paris, France New York, NY",500,26.817858863764837,4220.160363669775
+1,1,"Ismay, Mr. Joseph Bruce",male,49,0,0,112058,0,S,Liverpool,500,28.55128723684565,14462.439690944908
+1,0,"Jones, Mr. Charles Cresson",male,46,0,0,694,26,S,"Bennington, VT",500,15.331756578557123,7511.411877438909
+1,0,"Julian, Mr. Henry Forbes",male,50,0,0,113044,26,S,London,500,25.24186116598562,12186.891971739793
+1,0,"Keeping, Mr. Edwin",male,32.5,0,0,113503,211.5,C,?,500,19.529915503958758,8478.284861265796
+1,0,"Kent, Mr. Edward Austin",male,58,0,0,11771,29.7,C,"Buffalo, NY",500,27.903455808188998,1129.4817263948778
+1,0,"Kenyon, Mr. Frederick R",male,41,1,0,17464,51.8625,S,"Southington / Noank, CT",500,18.487328580099827,9680.694946113324
+1,1,"Kenyon, Mrs. Frederick R (Marion)",female,?,1,0,17464,51.8625,S,"Southington / Noank, CT",500,28.81875476204932,14295.348461996527
+1,1,"Kimball, Mr. Edwin Nelson Jr",male,,1,0,11753,52.5542,S,"Boston, MA",500,22.734706926010748,9223.371392121802
+1,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45,1,0,11753,52.5542,S,"Boston, MA",500,33.73459977473469,12378.238461688457
+1,0,"Klaber, Mr. Herman",male,?,0,0,113028,26.55,S,"Portland, OR",500,17.750418882919867,13320.993718551914
+1,1,"Kreuchen, Miss. Emilie",female,39,0,0,24160,211.3375,S,?,500,21.82132702100517,3807.156693259521
+,1,"Leader, Dr. Alice (Farnham)",female,,0,0,17465,25.9292,S,"New York, NY",500,17.269470424811782,3574.6501786692866
+1,1,"LeRoy, Miss. Bertha",female,30,0,0,PC 17761,106.425,C,?,500,33.49387236557126,9359.224338
+1,1,"Lesurer, Mr. Gustave J",male,35,0,0,PC 17755,512.3292,C,?,500,32.54678706761962,6459.912812197218
+1,0,"Lewy, Mr. Ervin G",male,?,0,0,PC 17612,27.7208,C,"Chicago, IL",500,20.15883255430311,12677.988891567446
+1,0,"Lindeberg-Lind, Mr. Erik Gustaf ('Mr Edward Lingrey')",male,42,0,0,17475,26.55,S,"Stockholm, Sweden",500,28.19968092068358,13550.335289271161
+1,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55,0,0,112377,27.7208,C,"Stockholm, Sweden",500,31.344444004024318,5624.609999889412
+1,1,"Lines, Miss. Mary Conover",female,16,0,1,PC 17592,39.4,S,"Paris, France",500,26.104016231989245,3934.6231051299897
+,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,1050,0,1,PC 17592,39.4,S,"Paris, France",500,25.59301156712013,11817.619971035996
+1,0,"Long, Mr. Milton Clyde",male,29,0,0,113501,30,S,"Springfield, MA",500,19.837045818009035,4484.687515447973
+1,1,"Longley, Miss. Gretchen Fiske",female,21,0,0,13502,77.9583,S,"Hudson, NY",500,16.862055356117985,12427.907618448337
+1,0,"Loring, Mr. Joseph Holland",male,30,0,0,113801,45.5,S,"London / New York, NY",500,32.944315159066534,6644.204677907061
+1,1,"Lurette, Miss. Elise",female,58,0,0,PC 17569,146.5208,C,?,500,33.00836114326661,10179.473539726321
+1,1,"Madill, Miss. Georgette Alexandra",female,15,0,1,24160,211.3375,S,"St Louis, MO",500,27.662029145465358,1885.2620506026885
+1,0,"Maguire, Mr. John Edward",male,,0,0,110469,26,S,"Brockton, MA",500,21.780595820974014,9545.960207810309
+1,1,"Maioni, Miss. Roberta",female,,0,0,110152,86.5,S,?,500,21.984191492253217,7050.631341689822
+1,1,"Marechal, Mr. Pierre",male,?,0,0,11774,29.7,C,"Paris, France",500,29.519113577404788,9005.822716044375
+1,0,"Marvin, Mr. Daniel Warner",male,19,1,0,113773,53.1,S,"New York, NY",500,32.94220519905154,2936.2060123005194
+1,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,1050,1,0,113773,53.1,S,"New York, NY",500,32.741728485302346,11184.669301690641
+,1,"Mayne, Mlle. Berthe Antonine ('Mrs de Villiers')",female,24,0,0,PC 17482,49.5042,C,"Belgium  Montreal, PQ",500,30.597510917152476,13010.557624376814
+1,0,"McCaffry, Mr. Thomas Francis",male,46,0,0,13050,75.2417,C,"Vancouver, BC",500,27.840632923085757,3642.7271013162467
+1,0,"McCarthy, Mr. Timothy J",male,1050,0,0,17463,51.8625,S,"Dorchester, MA",500,16.682799299900978,1887.861055042345
+1,1,"McGough, Mr. James Robert",male,36,0,0,PC 17473,26.2875,S,"Philadelphia, PA",500,18.232574281892276,842.7594976718777
+1,0,"Meyer, Mr. Edgar Joseph",male,28,1,0,PC 17604,82.1708,C,"New York, NY",500,32.97108377054158,9808.586756427358
+1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,,1,0,PC 17604,82.1708,C,"New York, NY",500,27.12858119,9302.863523
+1,0,"Millet, Mr. Francis Davis",male,65,0,0,13509,26.55,S,"East Bridgewater, MA",500,15.183941032332593,8427.112484354015
+1,0,"Minahan, Dr. William Edward",male,44,2,0,19928,90,Q,"Fond du Lac, WI",500,17.02943085732064,3863.2328936816434
+1,1,"Minahan, Miss. Daisy E",female,33,1,0,19928,90,Q,"Green Bay, WI",500,28.270035382161115,6168.136940629963
+1,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37,1,0,19928,90,Q,"Fond du Lac, WI",500,15.101231676924375,9119.90686
+1,1,"Mock, Mr. Philipp Edmund",male,30,1,0,13236,57.75,C,"New York, NY",500,18.216161028349973,7703.119453457956
+1,0,"Molson, Mr. Harry Markland",male,55,0,0,113787,30.5,S,"Montreal, PQ",500,25.974675787331723,14822.890043115865
+1,0,"Moore, Mr. Clarence Bloomfield",male,47,0,0,113796,42.4,S,"Washington, DC",500,28.837903953853864,2478.3764120726305
+,0,"Natsch, Mr. Charles H",male,37,0,1,PC 17596,29.7,C,"Brooklyn, NY",500,28.03922519005201,10579.59603369011
+1,1,"Newell, Miss. Madeleine",female,31,1,0,35273,113.275,C,"Lexington, MA",500,19.485386189211194,6362.622137512236
+1,1,"Newell, Miss. Marjorie",female,23,1,0,35273,113.275,C,"Lexington, MA",500,29.24358442695072,6708.894416421414
+1,0,"Newell, Mr. Arthur Webster",male,58,0,2,35273,113.275,C,"Lexington, MA",500,19.744981749936002,10905.167602043555
+1,1,"Newsom, Miss. Helen Monypeny",female,19,0,2,11752,26.2833,S,"New York, NY",500,21.507993963185356,10540.32419420336
+1,0,"Nicholson, Mr. Arthur Ernest",male,64,0,0,693,26,S,"Isle of Wight, England",500,29.92982810236048,14873.211908681731
+1,1,"Oliva y Ocana, Dona. Fermina",female,39,0,0,PC 17758,108.9,C,?,500,27.992657980944294,2361.717197084816
+1,1,"Omont, Mr. Alfred Fernand",male,?,0,0,F.C. 12998,25.7417,C,"Paris, France",500,31.98446820988356,2009.5899160704118
+1,1,"Ostby, Miss. Helene Ragnhild",female,22,0,1,113509,61.9792,C,"Providence, RI",500,28.15225784600687,11002.912848366746
+1,0,"Ostby, Mr. Engelhart Cornelius",male,65,0,1,113509,61.9792,C,"Providence, RI",500,26.36617206670943,8886.610296592931
+1,0,"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,PC 17562,27.7208,C,"?Havana, Cuba",500,16.87349535656185,4475.329665117185
+1,0,"Parr, Mr. William Henry Marsh",male,?,0,0,112052,0,S,Belfast,500,22.35431606118867,1651.5808503403057
+1,0,"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,S,"Surbiton Hill, Surrey",500,20.30404735363451,1742.0446191482429
+1,0,"Payne, Mr. Vivian Ponsonby",male,23,0,0,12749,93.5,S,"Montreal, PQ",500,19.87979286758167,13465.767682629716
+,0,"Pears, Mr. Thomas Clinton",male,29,1,0,113776,66.6,S,"Isleworth, England",500,34.46021109504891,3282.076208421772
+1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22,1,0,113776,66.6,S,"Isleworth, England",500,22.861954493335208,5188.887650675051
+1,0,"Penasco y Castellana, Mr. Victor de Satode",male,18,1,0,PC 17758,108.9,C,"Madrid, Spain",500,32.84093110354227,3786.517832291326
+1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,1,0,PC 17758,108.9,C,"Madrid, Spain",500,27.622772519945258,5647.446434563091
+,1,"Perreault, Miss. Anne",female,30,0,0,12749,93.5,S,?,10000,30.896226070832967,1506.6457198183539
+1,1,"Peuchen, Major. Arthur Godfrey",male,52,0,0,113786,30.5,S,"Toronto, ON",10000,25.052741862103844,8026.366968
+,0,"Porter, Mr. Walter Chamberlain",male,47,0,0,110465,52,S,"Worcester, MA",500,26.53807769252718,1480.382172087116
+1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,0,1,11767,83.1583,C,"Mt Airy, Philadelphia, PA",500,24.850353876377277,12105.169363424242
+1,0,"Reuchlin, Jonkheer. John George",male,38,0,0,19972,0,S,"Rotterdam, Netherlands",500,18.90485975596089,3888.825187701279
+,1,"Rheims, Mr. George Alexander Lucien",male,?,0,0,PC 17607,39.6,S,"Paris /  New York, NY",500,29.44904230523011,8330.172761765403
+1,0,"Ringhini, Mr. Sante",male,22,0,0,PC 17760,135.6333,C,?,500,20.615447248817116,13261.146769641146
+1,0,"Robbins, Mr. Victor",male,?,0,0,PC 17757,227.525,C,?,500,15.486319328629076,9937.721851184315
+1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43,0,1,24160,211.3375,S,"St Louis, MO",500,27.909445918143355,8227.887904994363
+1,0,"Roebling, Mr. Washington Augustus II",male,1050,0,0,PC 17590,50.4958,S,"Trenton, NJ",500,18.542213588140978,5202.839420172946
+1,1,"Romaine, Mr. Charles Hallace ('Mr C Rolmane')",male,45,0,0,111428,26.55,S,"New York, NY",500,33.80917168705829,5328.527739
+1,0,"Rood, Mr. Hugh Roscoe",male,?,0,0,113767,50,S,"Seattle, WA",500,34.07857154005175,10207.560850373757
+1,1,"Rosenbaum, Miss. Edith Louise",female,33,0,0,PC 17613,27.7208,C,"Paris, France",500,33.29728780440897,14915.02073770693
+1,0,"Rosenshine, Mr. George ('Mr George Thorne')",male,46,0,0,PC 17585,79.2,C,"New York, NY",500,22.403174005108887,10096.66825281599
+1,0,"Ross, Mr. John Hugo",male,36,0,0,13049,40.125,C,"Winnipeg, MB",500,15.309132330577349,8587.859551865362
+1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33,0,0,110152,86.5,S,"London  Vancouver, BC",500,33.56637125175451,11094.432398469069
+1,0,"Rothschild, Mr. Martin",male,55,1,0,PC 17603,59.4,C,"New York, NY",500,23.563682966346285,7245.481378113913
+1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,1050,1,0,PC 17603,59.4,C,"New York, NY",500,34.33309638087339,1372.0639677113857
+,0,"Rowe, Mr. Alfred G",male,1050,0,0,113790,26.55,S,London,500,34.272399541785056,8653.303830229692
+1,1,"Ryerson, Master. John Borie",male,1050,2,2,PC 17608,262.375,C,"Haverford, PA / Cooperstown, NY",500,32.06018911,14385.566625328012
+1,1,"Ryerson, Miss. Emily Borie",female,18,2,2,PC 17608,262.375,C,"Haverford, PA / Cooperstown, NY",500,20.888977841391714,3041.892664186065
+1,1,"Ryerson, Miss. Susan Parker 'Suzette'",female,21,2,2,PC 17608,262.375,C,"Haverford, PA / Cooperstown, NY",500,22.701954572038506,10505.070916899653
+1,0,"Ryerson, Mr. Arthur Larned",male,61,1,3,PC 17608,262.375,C,"Haverford, PA / Cooperstown, NY",500,32.02273343033714,3413.538485556319
+1,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48,1,3,PC 17608,262.375,C,"Haverford, PA / Cooperstown, NY",500,21.338440103125553,8269.501424859678
+1,1,"Saalfeld, Mr. Adolphe",male,?,0,0,19988,30.5,S,"Manchester, England",10000,18.38985493372185,1901.8085198774345
+1,1,"Sagesser, Mlle. Emma",female,,0,0,PC 17477,69.3,C,?,500,26.13602525,7030.378575743684
+1,1,"Salomon, Mr. Abraham L",male,?,0,0,111163,26,S,"New York, NY",500,33.723095483215616,11464.368268981068
+1,1,"Schabert, Mrs. Paul (Emma Mock)",female,35,1,0,13236,57.75,C,"New York, NY",500,28.92059593349946,5539.787101
+1,1,"Serepeca, Miss. Augusta",female,30,0,0,113798,31,C,?,500,26.4012234,10141.22000506466
+1,1,"Seward, Mr. Frederic Kimber",male,34,0,0,113794,26.55,S,"New York, NY",500,16.943529875415372,12034.024431451073
+1,1,"Shutes, Miss. Elizabeth W",female,40,0,0,PC 17582,153.4625,S,"New York, NY / Greenwich CT",500,27.300144533983396,13944.078382452064
+1,1,"Silverthorne, Mr. Spencer Victor",male,35,0,0,PC 17475,26.2875,S,"St Louis, MO",500,34.801077002085265,3902.3101869040765
+1,0,"Silvey, Mr. William Baird",male,50,1,0,13507,55.9,S,"Duluth, MN",500,17.801680304730482,6290.080779234968
+1,1,"Silvey, Mrs. William Baird (Alice Munger)",female,39,1,0,13507,55.9,S,"Duluth, MN",500,25.366593047274733,2710.032193291053
+1,1,"Simonius-Blumer, Col. Oberst Alfons",male,56,0,0,13213,35.5,C,"Basel, Switzerland",500,32.54746143855911,14891.010781296442
+,1,"Sloper, Mr. William Thompson",male,28,0,0,113788,35.5,S,"New Britain, CT",500,29.81537235508409,13941.514034902282
+1,0,"Smart, Mr. John Montgomery",male,56,0,0,113792,26.55,S,"New York, NY",500,28.94031481990536,8329.378389068113
+1,0,"Smith, Mr. James Clinch",male,,0,0,17764,30.6958,C,"St James, Long Island, NY",500,29.049681679742186,12709.482768458109
+1,0,"Smith, Mr. Lucien Philip",male,24,1,0,13695,60,S,"Huntington, WV",500,22.189823024395103,8053.890670444612
+1,0,"Smith, Mr. Richard William",male,?,0,0,113056,26,S,"Streatham, Surrey",500,20.871836885289866,9541.992476040015
+1,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,,1,0,13695,60,S,"Huntington, WV",500,31.187223109570272,1792.3042656822408
+1,1,"Snyder, Mr. John Pillsbury",male,24,1,0,21228,82.2667,S,"Minneapolis, MN",500,31.202267893583617,11451.421097203714
+,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,1,0,21228,82.2667,S,"Minneapolis, MN",500,32.341446371602075,2351.845512710905
+1,1,"Spedden, Master. Robert Douglas",male,6,0,2,16966,134.5,C,"Tuxedo Park, NY",500,33.26481105112943,12477.980638661662
+1,1,"Spedden, Mr. Frederic Oakley",male,45,1,1,16966,134.5,C,"Tuxedo Park, NY",500,25.226847977218757,11839.407271220596
+1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,1,1,16966,134.5,C,"Tuxedo Park, NY",500,25.030325893743992,10776.798117273158
+1,0,"Spencer, Mr. William Augustus",male,57,1,0,PC 17569,146.5208,C,"Paris, France",500,30.965903579335503,1024.3255176090506
+1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,?,1,0,PC 17569,146.5208,C,"Paris, France",500,27.999278615555305,4895.361161207265
+1,1,"Stahelin-Maeglin, Dr. Max",male,32,0,0,13214,30.5,C,"Basel, Switzerland",500,29.039337545154066,4315.132263707222
+,0,"Stead, Mr. William Thomas",male,62,0,0,113514,26.55,S,"Wimbledon Park, London / Hayling Island, Hants",500,30.91585338872202,5721.977908337027
+,1,"Stengel, Mr. Charles Emil Henry",male,54,1,0,11778,55.4417,C,"Newark, NJ",10000,32.800106836351326,1770.819828075659
+1,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43,1,0,11778,55.4417,C,"Newark, NJ",500,21.759903137030715,14085.888433950411
+1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52,1,0,36947,78.2667,C,"Haverford, PA",500,22.51165905279888,8530.132490329455
+,0,"Stewart, Mr. Albert A",male,,0,0,PC 17605,27.7208,C,"Gallipolis, Ohio / ? Paris / New York",10000,16.87963879681738,4930.102504541342
+,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62,0,0,113572,80,?,"Cincinatti, OH",500,26.56560281992348,6256.231998
+,0,"Straus, Mr. Isidor",male,67,1,0,PC 17483,221.7792,S,"New York, NY",500,15.718845475934842,6984.436837320117
+1,0,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63,1,0,PC 17483,221.7792,S,"New York, NY",500,24.311960362649202,9208.617833728951
+1,0,"Sutton, Mr. Frederick",male,61,0,0,36963,32.3208,S,"Haddenfield, NJ",500,25.85289269415153,7977.351701599217
+1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,1050,0,0,17466,25.9292,S,"Brooklyn, NY",500,20.730825042565687,13831.18361160905
+1,1,"Taussig, Miss. Ruth",female,18,0,2,110413,79.65,S,"New York, NY",10000,26.816665211380215,7705.970502134539
+1,0,"Taussig, Mr. Emil",male,52,1,1,110413,79.65,S,"New York, NY",500,15.610004998780989,14886.291214938034
+1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39,1,1,110413,79.65,S,"New York, NY",500,15.746963774984287,12845.661887303888
+1,1,"Taylor, Mr. Elmer Zebley",male,48,1,0,19996,52,S,"London /  East Orange, NJ",10000,31.452011213193167,3523.402458181369
+,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,?,1,0,19996,52,S,"London /  East Orange, NJ",500,22.203812828225256,13993.630612336785
+1,0,"Thayer, Mr. John Borland",male,49,1,1,17421,110.8833,C,"Haverford, PA",500,17.541210253037697,2187.3127693394035
+1,1,"Thayer, Mr. John Borland Jr",male,17,0,2,17421,110.8833,C,"Haverford, PA",500,25.444865201096086,12353.020773122278
+1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39,1,1,17421,110.8833,C,"Haverford, PA",500,30.399871061972217,6019.037755410412
+1,1,"Thorne, Mrs. Gertrude Maybelle",female,?,0,0,PC 17585,79.2,C,"New York, NY",500,19.316420549936865,13230.627646453508
+1,1,"Tucker, Mr. Gilbert Milligan Jr",male,31,0,0,2543,28.5375,C,"Albany, NY",500,27.457809516380006,13086.82200655803
+1,0,"Uruchurtu, Don. Manuel E",male,40,0,0,PC 17601,27.7208,C,"Mexico City, Mexico",500,16.70694929987536,12185.918301705507
+1,0,"Van der hoef, Mr. Wyckoff",male,61,0,0,111240,33.5,S,"Brooklyn, NY",500,16.033634423372153,11955.44132645239
+,0,"Walker, Mr. William Anderson",male,47,0,0,36967,34.0208,S,"East Orange, NJ",500,25.62709263136296,4917.847516921592
+1,1,"Ward, Miss. Anna",female,35,0,0,PC 17755,512.3292,C,?,500,25.81270243220213,1673.3296042431566
+1,0,"Warren, Mr. Frank Manley",male,64,1,0,110813,75.25,C,"Portland, OR",10000,27.748598029964132,6343.212592094841
+1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,,1,0,110813,75.25,C,"Portland, OR",500,29.52182667445323,3016.105467304376
+1,0,"Weir, Col. John",male,60,0,0,113800,26.55,S,"England Salt Lake City, Utah",500,34.517041589250695,10576.790789085695
+1,0,"White, Mr. Percival Wayland",male,54,0,1,35281,77.2875,S,"Brunswick, ME",500,25.326006966023908,5518.446035
+1,0,"White, Mr. Richard Frasar",male,21,0,1,35281,77.2875,S,"Brunswick, ME",500,21.45912945882492,14646.347912468766
+1,1,"White, Mrs. John Stuart (Ella Holmes)",female,55,0,0,PC 17760,135.6333,C,"New York, NY / Briarcliff Manor NY",500,30.903723895374075,9794.095121507315
+1,1,"Wick, Miss. Mary Natalie",female,,0,2,36928,164.8667,S,"Youngstown, OH",10000,20.416645025241486,12425.968172698234
+1,0,"Wick, Mr. George Dennick",male,57,1,1,36928,164.8667,S,"Youngstown, OH",500,23.779428414112722,2421.607754756802
+1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,,1,1,36928,164.8667,S,"Youngstown, OH",500,16.56912762684532,12999.209992953027
+1,0,"Widener, Mr. George Dunton",male,1050,1,1,113503,211.5,C,"Elkins Park, PA",500,15.50701486830915,13879.979262444218
+1,0,"Widener, Mr. Harry Elkins",male,27,0,2,113503,211.5,C,"Elkins Park, PA",500,34.25296829,7562.397822874571
+1,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50,1,1,113503,211.5,C,"Elkins Park, PA",500,31.719602410244118,9290.667597389172
+1,1,"Willard, Miss. Constance",female,21,0,0,113795,26.55,S,"Duluth, MN",500,28.91948412187396,11589.742113093434
+1,0,"Williams, Mr. Charles Duane",male,51,0,1,PC 17597,61.3792,C,"Geneva, Switzerland / Radnor, PA",500,23.179058888285397,3035.160095275982
+1,1,"Williams, Mr. Richard Norris II",male,21,0,1,PC 17597,61.3792,C,"Geneva, Switzerland / Radnor, PA",500,18.465886401416917,7787.208108719915
+,0,"Williams-Lambert, Mr. Fletcher Fellows",male,?,0,0,113510,35,S,"London, England",500,18.12874085342172,6280.613903
+1,1,"Wilson, Miss. Helen Alice",female,31,0,0,16966,134.5,C,?,500,20.004857963291908,2622.4228863526123
+1,1,"Woolner, Mr. Hugh",male,?,0,0,19947,35.5,S,"London, England",500,25.98453329412241,5829.249123227206
+1,0,"Wright, Mr. George",male,62,0,0,113807,26.55,S,"Halifax, NS",500,29.291918454001248,1488.4984860896568
+,1,"Young, Miss. Marie Grice",female,36,0,0,PC 17760,135.6333,C,"New York, NY / Washington, DC",500,28.203947534354626,874.2726507675612
+2,0,"Abelson, Mr. Samuel",male,30,1,0,P/PP 3381,24,C,"Russia New York, NY",400,20.598677938918858,2459.911193
+2,1,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,1050,1,0,P/PP 3381,24,C,"Russia New York, NY",400,34.097305613263885,14465.16911804302
+2,0,"Aldworth, Mr. Charles Augustus",male,30,0,0,248744,13,S,"Bryn Mawr, PA, USA",400,29.75793833391537,8468.178270477745
+2,0,"Andrew, Mr. Edgardo Samuel",male,18,0,0,231945,11.5,S,"Buenos Aires, Argentina / New Jersey, NJ",400,26.087081050228015,14504.421336721689
+2,0,"Andrew, Mr. Frank Thomas",male,25,0,0,C.A. 34050,10.5,S,"Cornwall, England Houghton, MI",400,27.234414924687044,6771.2192357869135
+,0,"Angle, Mr. William A",male,34,1,0,226875,26,S,"Warwick, England",400,23.392001248555797,5021.333929736264
+2,1,"Angle, Mrs. William A (Florence 'Mary' Agnes Hughes)",female,36,1,0,226875,26,S,"Warwick, England",400,19.95461979002315,7839.0570111835395
+2,0,"Ashby, Mr. John",male,57,0,0,244346,13,S,"West Hoboken, NJ",400,22.119453573025233,6872.919485177197
+2,0,"Bailey, Mr. Percy Andrew",male,18,0,0,29108,11.5,S,"Penzance, Cornwall / Akron, OH",400,30.156922209287384,2032.1379217952867
+,0,"Baimbrigge, Mr. Charles Robert",male,23,0,0,C.A. 31030,10.5,S,Guernsey,400,15.287869772595117,9791.981563
+,1,"Ball, Mrs. (Ada E Hall)",female,36,0,0,28551,13,S,"Bristol, Avon / Jacksonville, FL",400,17.321452810138325,3632.5536463891945
+2,0,"Banfield, Mr. Frederick James",male,28,0,0,C.A./SOTON 34068,10.5,S,"Plymouth, Dorset / Houghton, MI",400,15.920052840435055,9484.025346018529
+,0,"Bateman, Rev. Robert James",male,,0,0,S.O.P. 1166,12.525,S,"Jacksonville, FL",400,15.814576046379402,9927.915839773224
+2,1,"Beane, Mr. Edward",male,32,1,0,2908,26,S,"Norwich / New York, NY",10000,32.10921168022014,2704.3603703653976
+2,1,"Beane, Mrs. Edward (Ethel Clarke)",female,19,1,0,2908,26,S,"Norwich / New York, NY",400,29.073157187600472,1389.5695931046882
+2,0,"Beauchamp, Mr. Henry James",male,28,0,0,244358,26,S,England,400,24.483476581746505,11821.042997992377
+2,1,"Becker, Master. Richard F",male,1,2,1,230136,39,S,"Guntur, India / Benton Harbour, MI",400,16.95668321302003,7167.106144655143
+2,1,"Becker, Miss. Marion Louise",female,4,2,1,230136,39,S,"Guntur, India / Benton Harbour, MI",400,24.832317502336647,1343.375034829399
+2,1,"Becker, Miss. Ruth Elizabeth",female,12,2,1,230136,39,S,"Guntur, India / Benton Harbour, MI",400,24.469435415611315,14925.561598961624
+2,1,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36,0,3,230136,39,S,"Guntur, India / Benton Harbour, MI",400,18.464037398200304,1337.8181344473162
+2,1,"Beesley, Mr. Lawrence",male,34,0,0,248698,13,S,London,400,23.67703298475946,10578.010818449022
+2,1,"Bentham, Miss. Lilian W",female,19,0,0,28404,13,S,"Rochester, NY",400,22.97009468794747,14763.344416319498
+2,0,"Berriman, Mr. William John",male,23,0,0,28425,13,S,"St Ives, Cornwall / Calumet, MI",10000,27.31700196104433,3968.1115111309214
+2,0,"Botsford, Mr. William Hull",male,26,0,0,237670,13,S,"Elmira, NY / Orange, NJ",400,27.701873017352877,2562.6158459643448
+,0,"Bowenur, Mr. Solomon",male,42,0,0,211535,13,S,London,400,15.90608019544089,2260.0816216252188
+2,0,"Bracken, Mr. James H",male,27,0,0,220367,13,S,"Lake Arthur, Chavez County, NM",400,22.492252292529425,4897.489639730135
+2,1,"Brown, Miss. Amelia 'Mildred'",female,1050,0,0,248733,13,S,"London / Montreal, PQ",400,27.517198314284727,1965.164259654377
+2,1,"Brown, Miss. Edith Eileen",female,15,0,2,29750,39,S,"Cape Town, South Africa / Seattle, WA",400,25.062725171601755,10536.339454564913
+2,0,"Brown, Mr. Thomas William Solomon",male,60,1,1,29750,39,S,"Cape Town, South Africa / Seattle, WA",400,32.12979682376645,1403.231072885909
+2,1,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40,1,1,29750,39,S,"Cape Town, South Africa / Seattle, WA",400,28.17387263,7886.620858171951
+2,1,"Bryhl, Miss. Dagmar Jenny Ingeborg",female,20,1,0,236853,26,S,"Skara, Sweden / Rockford, IL",400,18.258688541628594,14952.104380868164
+2,0,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25,1,0,236853,26,S,"Skara, Sweden / Rockford, IL",400,16.411374948008596,12302.568907837272
+2,1,"Buss, Miss. Kate",female,36,0,0,27849,13,S,"Sittingbourne, England / San Diego, CA",400,27.84838556412631,9420.681854349657
+2,0,"Butler, Mr. Reginald Fenton",male,25,0,0,234686,13,S,"Southsea, Hants",400,15.530226210832437,4940.677501405869
+2,0,"Byles, Rev. Thomas Roussel Davids",male,42,0,0,244310,13,S,London,400,26.715511625469265,9546.489626228758
+2,1,"Bystrom, Mrs. (Karolina)",female,42,0,0,236852,13,S,"New York, NY",400,33.80460482849915,8142.101226718949
+2,1,"Caldwell, Master. Alden Gates",male,0.8333,0,2,248738,29,S,"Bangkok, Thailand / Roseville, IL",400,26.50948355751758,6678.209066410386
+2,1,"Caldwell, Mr. Albert Francis",male,26,1,1,248738,29,S,"Bangkok, Thailand / Roseville, IL",400,22.763398524130437,2395.3004627328924
+2,1,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22,1,1,248738,29,S,"Bangkok, Thailand / Roseville, IL",400,27.865764368847064,13355.761120986768
+2,1,"Cameron, Miss. Clear Annie",female,1050,0,0,F.C.C. 13528,21,S,"Mamaroneck, NY",400,24.165057809830333,7021.877407909176
+2,0,"Campbell, Mr. William",male,,0,0,239853,0,S,Belfast,400,25.91233579,3322.0264214010936
+2,0,"Carbines, Mr. William",male,19,0,0,28424,13,S,"St Ives, Cornwall / Calumet, MI",400,33.82929618,5832.510588
+2,0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44,1,0,244252,26,S,London,400,22.722052756015486,6504.881411669442
+2,0,"Carter, Rev. Ernest Courtenay",male,54,1,0,244252,26,S,London,400,34.22381127647829,12499.299485719677
+2,0,"Chapman, Mr. Charles Henry",male,52,0,0,248731,13.5,S,"Bronx, NY",400,33.107012839121275,11137.40851814033
+2,0,"Chapman, Mr. John Henry",male,37,1,0,SC/AH 29037,26,S,"Cornwall / Spokane, WA",400,18.915822695785927,11654.920957799428
+2,0,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29,1,0,SC/AH 29037,26,S,"Cornwall / Spokane, WA",400,16.38722601750331,659.9533342153846
+2,1,"Christy, Miss. Julie Rachel",female,25,1,1,237789,30,S,London,400,17.01556002754853,6534.232973606542
+2,1,"Christy, Mrs. (Alice Frances)",female,45,0,2,237789,30,S,London,400,15.364436513030995,7479.490198712193
+2,0,"Clarke, Mr. Charles Valentine",male,29,1,0,2003,26,S,"England / San Francisco, CA",400,16.88885921511857,778.2880139
+2,1,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28,1,0,2003,26,S,"England / San Francisco, CA",400,28.660135468327137,4267.2915268029965
+2,0,"Coleridge, Mr. Reginald Charles",male,29,0,0,W./C. 14263,10.5,S,"Hartford, Huntingdonshire",400,16.42377296920458,11524.202435270958
+2,0,"Collander, Mr. Erik Gustaf",male,,0,0,248740,13,S,"Helsinki, Finland Ashtabula, Ohio",400,21.379512605875227,2488.0907330704863
+2,1,"Collett, Mr. Sidney C Stuart",male,24,0,0,28034,10.5,S,"London / Fort Byron, NY",400,31.89750621938909,8261.996906062579
+2,1,"Collyer, Miss. Marjorie 'Lottie'",female,8,0,2,C.A. 31921,26.25,S,"Bishopstoke, Hants / Fayette Valley, ID",400,15.465438714716518,3620.427144249944
+2,0,"Collyer, Mr. Harvey",male,31,1,1,C.A. 31921,26.25,S,"Bishopstoke, Hants / Fayette Valley, ID",400,31.289369651778717,675.7512323364524
+,1,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31,1,1,C.A. 31921,26.25,S,"Bishopstoke, Hants / Fayette Valley, ID",400,20.6370955,3997.4211351933513
+2,1,"Cook, Mrs. (Selena Rogers)",female,22,0,0,W./C. 14266,10.5,S,Pennsylvania,400,17.363296552433127,14650.16944619578
+2,0,"Corbett, Mrs. Walter H (Irene Colvin)",female,30,0,0,237249,13,S,"Provo, UT",400,28.934743307283014,12122.28812230335
+2,0,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,?,0,0,F.C.C. 13534,21,S,"Upper Burma, India Pittsburgh, PA",400,27.57885693559768,14413.861342654984
+2,0,"Cotterill, Mr. Henry 'Harry'",male,21,0,0,29107,11.5,S,"Penzance, Cornwall / Akron, OH",400,32.54944027054106,7573.883636932255
+2,0,"Cunningham, Mr. Alfred Fleming",male,?,0,0,239853,0,S,Belfast,400,29.701420876077716,2091.174880823801
+2,1,"Davies, Master. John Morgan Jr",male,8,1,1,C.A. 33112,36.75,S,"St Ives, Cornwall / Hancock, MI",400,31.06961860769697,8445.412590118547
+2,0,"Davies, Mr. Charles Henry",male,,0,0,S.O.C. 14879,73.5,S,"Lyndhurst, England",400,20.64069145142613,7088.471351119433
+2,1,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)",female,48,0,2,C.A. 33112,36.75,S,"St Ives, Cornwall / Hancock, MI",400,18.548790875594456,12743.17769972443
+,1,"Davis, Miss. Mary",female,28,0,0,237668,13,S,"London / Staten Island, NY",400,30.012295032817168,1922.1974213715466
+2,0,"de Brito, Mr. Jose Joaquim",male,32,0,0,244360,13,S,"Portugal / Sau Paulo, Brazil",400,31.13669478534528,7579.496486815784
+2,0,"Deacon, Mr. Percy William",male,17,0,0,S.O.C. 14879,73.5,S,?,400,34.810102840013464,2675.705638062772
+2,0,"del Carlo, Mr. Sebastiano",male,29,1,0,SC/PARIS 2167,27.7208,C,"Lucca, Italy / California",400,23.25235353822853,5207.800939905869
+2,1,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24,1,0,SC/PARIS 2167,27.7208,C,"Lucca, Italy / California",400,22.440361715855662,11191.677622123096
+2,0,"Denbury, Mr. Herbert",male,1050,0,0,C.A. 31029,31.5,S,"Guernsey / Elizabeth, NJ",400,30.528259214839938,7402.262875847115
+2,0,"Dibden, Mr. William",male,18,0,0,S.O.C. 14879,73.5,S,"New Forest, England",400,21.816070805060356,5950.380134613655
+2,1,"Doling, Miss. Elsie",female,18,0,1,231919,23,S,Southampton,400,33.61514651207129,6219.906039265512
+2,1,"Doling, Mrs. John T (Ada Julia Bone)",female,34,0,1,231919,23,S,Southampton,400,32.16825503686024,7161.978141886806
+2,0,"Downton, Mr. William James",male,54,0,0,28403,26,S,"Holley, NY",400,23.579880547500366,11882.739885637326
+2,1,"Drew, Master. Marshall Brines",male,8,0,2,28220,32.5,S,"Greenport, NY",400,30.017421355829946,13435.227989633398
+2,0,"Drew, Mr. James Vivian",male,42,1,1,28220,32.5,S,"Greenport, NY",400,30.090857481693646,14352.35295430696
+2,1,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34,1,1,28220,32.5,S,"Greenport, NY",400,17.062477376718654,11910.099100701778
+2,1,"Duran y More, Miss. Asuncion",female,27,1,0,SC/PARIS 2149,13.8583,C,"Barcelona, Spain / Havana, Cuba",10000,33.05105813359133,5073.399988346185
+2,1,"Duran y More, Miss. Florentina",female,30,1,0,SC/PARIS 2148,13.8583,C,"Barcelona, Spain / Havana, Cuba",400,25.105047448957144,10477.95323825486
+,0,"Eitemiller, Mr. George Floyd",male,23,0,0,29751,13,S,"England / Detroit, MI",400,31.529149322154833,6845.245298803183
+2,0,"Enander, Mr. Ingvar",male,21,0,0,236854,13,S,"Goteborg, Sweden / Rockford, IL",400,21.400992020612236,4192.724019667742
+,0,"Fahlstrom, Mr. Arne Jonas",male,18,0,0,236171,13,S,"Oslo, Norway Bayonne, NJ",10000,32.91046456992401,12692.637901675878
+2,0,"Faunthorpe, Mr. Harry",male,40,1,0,2926,26,S,"England / Philadelphia, PA",400,22.784033574683264,1057.1820599537125
+2,1,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29,1,0,2926,26,S,?,400,15.216753029605968,13575.54888596364
+2,0,"Fillbrook, Mr. Joseph Charles",male,18,0,0,C.A. 15185,10.5,S,"Cornwall / Houghton, MI",400,33.10763952838527,7191.423237058645
+2,0,"Fox, Mr. Stanley Hubert",male,,0,0,229236,13,S,"Rochester, NY",400,16.82573353572267,9739.421413720067
+2,0,"Frost, Mr. Anthony Wood 'Archie'",male,?,0,0,239854,0,S,Belfast,400,21.38627275,10060.63187198385
+2,0,"Funk, Miss. Annie Clemmer",female,38,0,0,237671,13,S,"Janjgir, India / Pennsylvania",400,34.001239341016095,13479.207240244777
+2,0,"Fynney, Mr. Joseph J",male,35,0,0,239865,26,S,"Liverpool / Montreal, PQ",400,34.012142938751126,9731.710391424505
+2,0,"Gale, Mr. Harry",male,38,1,0,28664,21,S,"Cornwall / Clear Creek, CO",10000,26.46875776246572,9402.036979020895
+2,0,"Gale, Mr. Shadrach",male,,1,0,28664,21,S,"Cornwall / Clear Creek, CO",400,27.636744243395984,1466.4545881300044
+2,1,"Garside, Miss. Ethel",female,34,0,0,243880,13,S,"Brooklyn, NY",400,23.968910439566397,8016.916318205459
+2,0,"Gaskell, Mr. Alfred",male,16,0,0,239865,26,S,"Liverpool / Montreal, PQ",400,20.86421543396129,2677.450511847104
+2,0,"Gavey, Mr. Lawrence",male,26,0,0,31028,10.5,S,"Guernsey / Elizabeth, NJ",400,21.57329090739832,11192.78964646154
+2,0,"Gilbert, Mr. William",male,,0,0,C.A. 30769,10.5,S,Cornwall,400,28.450369121540767,7927.217852
+,0,"Giles, Mr. Edgar",male,,1,0,28133,11.5,S,"Cornwall / Camden, NJ",400,30.04749059,10363.302798521123
+2,0,"Giles, Mr. Frederick Edward",male,21,1,0,28134,11.5,S,"Cornwall / Camden, NJ",400,30.83158087451697,1104.257058734572
+2,0,"Giles, Mr. Ralph",male,24,0,0,248726,13.5,S,"West Kensington, London",400,30.792362855891078,1729.4842326641467
+2,0,"Gill, Mr. John William",male,,0,0,233866,13,S,"Clevedon, England",400,16.824122060973806,10886.689126908892
+2,0,"Gillespie, Mr. William Henry",male,34,0,0,12233,13,S,"Vancouver, BC",400,24.88840609405163,1545.2228719807638
+2,0,"Givard, Mr. Hans Kristensen",male,,0,0,250646,13,S,?,400,16.151175200332887,1533.2225525962497
+2,0,"Greenberg, Mr. Samuel",male,52,0,0,250647,13,S,"Bronx, NY",400,25.990577646474712,675.5728909
+2,0,"Hale, Mr. Reginald",male,30,0,0,250653,13,S,"Auburn, NY",400,23.83061002746754,14369.270275342462
+2,1,"Hamalainen, Master. Viljo",male,0.6667,1,1,250649,14.5,S,"Detroit, MI",400,32.75408365516599,11193.87121
+2,1,"Hamalainen, Mrs. William (Anna)",female,24,0,2,250649,14.5,S,"Detroit, MI",400,22.018300251041573,5622.145423279931
+2,0,"Harbeck, Mr. William H",male,44,0,0,248746,13,S,"Seattle, WA / Toledo, OH",400,17.341340328552118,4799.765929
+2,1,"Harper, Miss. Annie Jessie 'Nina'",female,,0,1,248727,33,S,"Denmark Hill, Surrey / Chicago",400,17.859833641056717,5570.696831314818
+2,0,"Harper, Rev. John",male,28,0,1,248727,33,S,"Denmark Hill, Surrey / Chicago",400,30.230212634349446,11732.476202127136
+2,1,"Harris, Mr. George",male,62,0,0,S.W./PP 752,10.5,S,London,400,27.364361266325222,10089.87386052101
+2,0,"Harris, Mr. Walter",male,30,0,0,W/C 14208,10.5,S,"Walthamstow, England",400,17.022453522455805,3185.335734078285
+2,1,"Hart, Miss. Eva Miriam",female,7,0,2,F.C.C. 13529,26.25,S,"Ilford, Essex / Winnipeg, MB",400,16.682136122299948,3024.585362344223
+2,0,"Hart, Mr. Benjamin",male,43,1,1,F.C.C. 13529,26.25,S,"Ilford, Essex / Winnipeg, MB",10000,29.01938263,1926.736920844261
+2,1,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45,1,1,F.C.C. 13529,26.25,S,"Ilford, Essex / Winnipeg, MB",400,16.45526012728387,10074.389435669404
+2,1,"Herman, Miss. Alice",female,24,1,2,220845,65,S,"Somerset / Bernardsville, NJ",400,31.437201185807126,11583.40360221517
+2,1,"Herman, Miss. Kate",female,24,1,2,220845,65,S,"Somerset / Bernardsville, NJ",400,29.124844543129925,4343.173210712558
+2,0,"Herman, Mr. Samuel",male,49,1,2,220845,65,S,"Somerset / Bernardsville, NJ",400,16.626975612837995,803.7019349482358
+2,1,"Herman, Mrs. Samuel (Jane Laver)",female,1050,1,2,220845,65,S,"Somerset / Bernardsville, NJ",400,16.69675428170384,1691.4891784081965
+2,1,"Hewlett, Mrs. (Mary D Kingcome)",female,55,0,0,248706,16,S,"India / Rapid City, SD",400,34.73279157002351,14533.970505252943
+2,0,"Hickman, Mr. Leonard Mark",male,24,2,0,S.O.C. 14879,73.5,S,"West Hampstead, London / Neepawa, MB",400,22.485415915122406,4783.949273422594
+2,0,"Hickman, Mr. Lewis",male,32,2,0,S.O.C. 14879,73.5,S,"West Hampstead, London / Neepawa, MB",400,22.412842941337818,11653.735643652937
+2,0,"Hickman, Mr. Stanley George",male,21,2,0,S.O.C. 14879,73.5,S,"West Hampstead, London / Neepawa, MB",400,31.25599134515005,9557.621748386824
+2,0,"Hiltunen, Miss. Marta",female,18,1,1,250650,13,S,"Kontiolahti, Finland / Detroit, MI",400,33.94497154767718,6038.124775
+2,1,"Hocking, Miss. Ellen 'Nellie'",female,20,2,1,29105,23,S,"Cornwall / Akron, OH",400,34.720021276457416,3482.465301835549
+2,0,"Hocking, Mr. Richard George",male,23,2,1,29104,11.5,S,"Cornwall / Akron, OH",400,30.067563705178834,2260.1030633113933
+2,0,"Hocking, Mr. Samuel James Metcalfe",male,36,0,0,242963,13,S,"Devonport, England",400,22.525191710618316,9417.688036563566
+2,1,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54,1,3,29105,23,S,"Cornwall / Akron, OH",400,16.670014333973377,11732.189819247926
+2,0,"Hodges, Mr. Henry Price",male,50,0,0,250643,13,S,Southampton,400,30.542938318548735,9836.611676346394
+2,0,"Hold, Mr. Stephen",male,44,1,0,26707,26,S,"England / Sacramento, CA",400,26.16808499,8189.380932112796
+2,1,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29,1,0,26707,26,S,"England / Sacramento, CA",400,23.484440184939526,1108.292739758726
+,0,"Hood, Mr. Ambrose Jr",male,,0,0,S.O.C. 14879,73.5,S,"New Forest, England",400,33.12708770189472,14543.087275118565
+2,1,"Hosono, Mr. Masabumi",male,42,0,0,237798,13,S,"Tokyo, Japan",400,17.223949646123028,12081.355778991332
+2,0,"Howard, Mr. Benjamin",male,63,1,0,24065,26,S,"Swindon, England",10000,24.852502085817182,4745.919532163989
+2,0,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60,1,0,24065,26,S,"Swindon, England",400,15.227072895348382,14709.569775703334
+2,0,"Hunt, Mr. George Henry",male,33,0,0,SCO/W 1585,12.275,S,"Philadelphia, PA",400,24.373212839882527,9227.28305
+2,1,"Ilett, Miss. Bertha",female,17,0,0,SO/C 14885,10.5,S,Guernsey,400,16.126065513636746,8945.128544005074
+2,0,"Jacobsohn, Mr. Sidney Samuel",male,42,1,0,243847,27,S,London,400,17.376358325361437,11347.061101728215
+,1,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24,2,1,243847,27,S,London,400,17.350524935542097,12270.661927306994
+2,0,"Jarvis, Mr. John Denzil",male,47,0,0,237565,15,S,"North Evington, England",400,27.984206042321272,10018.93980630679
+2,0,"Jefferys, Mr. Clifford Thomas",male,24,2,0,C.A. 31029,31.5,S,"Guernsey / Elizabeth, NJ",400,29.920897585308467,2357.3883223099006
+2,0,"Jefferys, Mr. Ernest Wilfred",male,22,2,0,C.A. 31029,31.5,S,"Guernsey / Elizabeth, NJ",400,26.667375301943192,5404.878836920227
+2,0,"Jenkin, Mr. Stephen Curnow",male,,0,0,C.A. 33111,10.5,S,"St Ives, Cornwall / Houghton, MI",400,34.24345096949084,13957.21278472772
+2,1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23,0,0,SC/AH Basle 541,13.7917,C,"New York, NY",400,22.49741159047408,3756.926371735853
+2,0,"Kantor, Mr. Sinai",male,34,1,0,244367,26,S,"Moscow / Bronx, NY",400,20.714241725637216,5896.421845643943
+2,1,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24,1,0,244367,26,S,"Moscow / Bronx, NY",400,32.37198256,6765.114802690842
+2,0,"Karnes, Mrs. J Frank (Claire Bennett)",female,22,0,0,F.C.C. 13534,21,S,"India / Pittsburgh, PA",400,19.471916770389054,6871.372350569557
+2,1,"Keane, Miss. Nora A",female,?,0,0,226593,12.35,Q,"Harrisburg, PA",400,34.264450788812226,9387.623946
+2,0,"Keane, Mr. Daniel",male,35,0,0,233734,12.35,Q,?,400,15.243089493796326,14174.59964729826
+2,1,"Kelly, Mrs. Florence 'Fannie'",female,45,0,0,223596,13.5,S,"London / New York, NY",400,34.39757653415278,3990.0443215713217
+2,0,"Kirkland, Rev. Charles Leonard",male,57,0,0,219533,12.35,Q,"Glasgow / Bangor, ME",400,15.863198239011522,2261.769956363312
+2,0,"Knight, Mr. Robert J",male,?,0,0,239855,0,S,Belfast,400,32.82286227396142,3363.3221029690912
+2,0,"Kvillner, Mr. Johan Henrik Johannesson",male,31,0,0,C.A. 18723,10.5,S,"Sweden / Arlington, NJ",400,25.554022181725998,13360.411053034408
+2,0,"Lahtinen, Mrs. William (Anna Sylfven)",female,26,1,1,250651,26,S,"Minneapolis, MN",400,34.85929592,9864.256783500487
+2,0,"Lahtinen, Rev. William",male,30,1,1,250651,26,S,"Minneapolis, MN",400,16.475931294707976,4645.648443967822
+,0,"Lamb, Mr. John Joseph",male,?,0,0,240261,10.7083,Q,?,400,26.077085688026415,12331.23061504495
+2,1,"Laroche, Miss. Louise",female,1,1,2,SC/Paris 2123,41.5792,C,Paris / Haiti,400,34.38605071238198,12989.864947269822
+2,1,"Laroche, Miss. Simonne Marie Anne Andree",female,3,1,2,SC/Paris 2123,41.5792,C,Paris / Haiti,400,25.461956883402976,12774.45791100903
+2,0,"Laroche, Mr. Joseph Philippe Lemercier",male,25,1,2,SC/Paris 2123,41.5792,C,Paris / Haiti,400,27.58797276270525,13824.43473777354
+2,1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22,1,2,SC/Paris 2123,41.5792,C,Paris / Haiti,400,28.914973779692343,4157.494792513743
+2,1,"Lehmann, Miss. Bertha",female,17,0,0,SC 1748,12,C,"Berne, Switzerland / Central City, IA",400,24.090821295355465,11448.107966821035
+2,1,"Leitch, Miss. Jessie Wills",female,?,0,0,248727,33,S,"London / Chicago, IL",400,27.55116160168127,7177.82271
+2,1,"Lemore, Mrs. (Amelia Milley)",female,,0,0,C.A. 34260,10.5,S,"Chicago, IL",400,26.686286238462003,12708.979016905892
+2,0,"Levy, Mr. Rene Jacques",male,36,0,0,SC/Paris 2163,12.875,C,"Montreal, PQ",400,33.02316020981978,11063.11481884339
+2,0,"Leyson, Mr. Robert William Norman",male,24,0,0,C.A. 29566,10.5,S,?,400,15.908927606829158,11758.487974246007
+2,0,"Lingane, Mr. John",male,,0,0,235509,12.35,Q,?,400,20.619263791844606,10014.346646375538
+,0,"Louch, Mr. Charles Alexander",male,50,1,0,SC/AH 3085,26,S,"Weston-Super-Mare, Somerset",400,34.008229681531176,3072.717157
+2,1,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42,1,0,SC/AH 3085,26,S,"Weston-Super-Mare, Somerset",400,32.80527567781833,8402.890324005606
+,0,"Mack, Mrs. (Mary)",female,57,0,0,S.O./P.P. 3,10.5,S,"Southampton / New York, NY",400,24.11313505571426,14777.711223105369
+2,0,"Malachard, Mr. Noel",male,?,0,0,237735,15.0458,C,Paris,400,27.402651956030734,14092.126964208224
+2,1,"Mallet, Master. Andre",male,1,0,2,S.C./PARIS 2079,37.0042,C,"Paris / Montreal, PQ",400,20.547623659622655,1126.0191690566692
+2,0,"Mallet, Mr. Albert",male,,1,1,S.C./PARIS 2079,37.0042,C,"Paris / Montreal, PQ",400,18.762423194475225,2889.8148280768382
+,1,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24,1,1,S.C./PARIS 2079,37.0042,C,"Paris / Montreal, PQ",400,24.273968098799642,2410.067215091148
+2,0,"Mangiavacchi, Mr. Serafino Emilio",male,?,0,0,SC/A.3 2861,15.5792,C,"New York, NY",400,22.067044560521055,11026.708694786785
+2,0,"Matthews, Mr. William John",male,30,0,0,28228,13,S,"St Austall, Cornwall",400,26.67312223701744,12357.887282925703
+2,0,"Maybery, Mr. Frank Hubert",male,40,0,0,239059,16,S,"Weston-Super-Mare / Moose Jaw, SK",400,16.554692739299696,3595.914811504743
+2,0,"McCrae, Mr. Arthur Gordon",male,32,0,0,237216,13.5,S,"Sydney, Australia",400,34.48789615332333,7834.864048
+2,0,"McCrie, Mr. James Matthew",male,30,0,0,233478,13,S,"Sarnia, ON",400,34.724214889592055,12690.19391
+2,0,"McKane, Mr. Peter David",male,46,0,0,28403,26,S,"Rochester, NY",400,28.963234280394904,11125.622399110634
+2,1,"Mellinger, Miss. Madeleine Violet",female,13,0,1,250644,19.5,S,"England / Bennington, VT",10000,25.72192732688241,8362.43948
+2,1,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,1050,0,1,250644,19.5,S,"England / Bennington, VT",400,21.190552325726554,9060.041511652207
+2,1,"Mellors, Mr. William John",male,19,0,0,SW/PP 751,10.5,S,"Chelsea, London",400,31.275900394138972,7871.22793
+2,0,"Meyer, Mr. August",male,39,0,0,248723,13,S,"Harrow-on-the-Hill, Middlesex",400,28.694623451077586,4814.452544122898
+2,0,"Milling, Mr. Jacob Christian",male,48,0,0,234360,13,S,"Copenhagen, Denmark",400,18.252338786897827,8692.818896455734
+2,0,"Mitchell, Mr. Henry Michael",male,70,0,0,C.A. 24580,10.5,S,"Guernsey / Montclair, NJ and/or Toledo, Ohio",400,33.21854368987685,10488.836879726316
+2,0,"Montvila, Rev. Juozas",male,27,0,0,211536,13,S,"Worcester, MA",400,31.45074485846338,13163.182279981711
+,0,"Moraweck, Dr. Ernest",male,54,0,0,29011,14,S,"Frankfort, KY",400,33.99599826583848,9726.224632699097
+2,0,"Morley, Mr. Henry Samuel ('Mr Henry Marshall')",male,39,0,0,250655,26,S,?,400,29.51439017,11536.262287125792
+2,0,"Mudd, Mr. Thomas Charles",male,16,0,0,S.O./P.P. 3,10.5,S,"Halesworth, England",400,27.268303918715798,2821.0387068413083
+2,0,"Myles, Mr. Thomas Francis",male,62,0,0,240276,9.6875,Q,"Cambridge, MA",400,23.364860725812377,7192.583379086954
+2,0,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,C,"New York, NY",400,33.65456966708027,635.3084874928528
+2,1,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,0,237736,30.0708,C,"New York, NY",400,32.32127779000817,4076.843535563534
+2,1,"Navratil, Master. Edmond Roger",male,2,1,1,230080,26,S,"Nice, France",400,15.904373402123788,11033.69486913857
+2,1,"Navratil, Master. Michel M",male,3,1,1,230080,26,S,"Nice, France",400,15.52733948994504,14881.24429456577
+2,0,"Navratil, Mr. Michel ('Louis M Hoffman')",male,36.5,0,2,230080,26,S,"Nice, France",400,22.52926733756099,1938.0824440146307
+2,0,"Nesson, Mr. Israel",male,26,0,0,244368,13,S,"Boston, MA",400,31.211066615636657,6321.66758
+2,0,"Nicholls, Mr. Joseph Charles",male,19,1,1,C.A. 33112,36.75,S,"Cornwall / Hancock, MI",400,34.74552258629889,12101.029046137814
+,0,"Norman, Mr. Robert Douglas",male,28,0,0,218629,13.5,S,Glasgow,400,18.008337822070565,3458.516702119033
+2,1,"Nourney, Mr. Alfred ('Baron von Drachstedt')",male,20,0,0,SC/PARIS 2166,13.8625,C,"Cologne, Germany",400,26.88261431,8548.731765
+2,1,"Nye, Mrs. (Elizabeth Ramell)",female,29,0,0,C.A. 29395,10.5,S,"Folkstone, Kent / New York, NY",400,22.61781713262043,11129.533792430284
+2,0,"Otter, Mr. Richard",male,39,0,0,28213,13,S,"Middleburg Heights, OH",400,34.398287956292066,9431.789028772597
+2,1,"Oxenham, Mr. Percy Thomas",male,22,0,0,W./C. 14260,10.5,S,"Pondersend, England / New Durham, NJ",400,31.842378462714173,3226.358651923534
+2,1,"Padro y Manent, Mr. Julian",male,?,0,0,SC/PARIS 2146,13.8625,C,"Spain / Havana, Cuba",400,31.766574094222758,5653.076245943222
+,0,"Pain, Dr. Alfred",male,,0,0,244278,10.5,S,"Hamilton, ON",400,24.373863195899407,11864.98087503826
+2,1,"Pallas y Castello, Mr. Emilio",male,29,0,0,SC/PARIS 2147,13.8583,C,"Spain / Havana, Cuba",400,23.296390046753302,8536.284454914241
+2,0,"Parker, Mr. Clifford Richard",male,28,0,0,SC 14888,10.5,S,"St Andrews, Guernsey",400,20.468141438614126,575.8293963722347
+2,0,"Parkes, Mr. Francis 'Frank'",male,?,0,0,239853,0,S,Belfast,400,16.127509933018544,11534.36602040736
+2,1,"Parrish, Mrs. (Lutie Davis)",female,50,0,1,230433,26,S,"Woodford County, KY",400,32.29444752510106,1012.0146466334666
+,0,"Pengelly, Mr. Frederick William",male,19,0,0,28665,10.5,S,"Gunnislake, England / Butte, MT",400,31.258020182601552,11313.139849602867
+2,0,"Pernot, Mr. Rene",male,?,0,0,SC/PARIS 2131,15.05,C,?,400,34.99435346572261,3435.9681223959424
+2,0,"Peruschitz, Rev. Joseph Maria",male,41,0,0,237393,13,S,?,400,34.93273674147811,14392.065461731014
+2,1,"Phillips, Miss. Alice Frances Louisa",female,21,0,1,S.O./P.P. 2,21,S,"Ilfracombe, Devon",400,26.10863411205255,5835.140893880225
+2,1,"Phillips, Miss. Kate Florence ('Mrs Kate Louise Phillips Marshall')",female,19,0,0,250655,26,S,"Worcester, England",400,30.37974830361021,5240.508436902147
+2,0,"Phillips, Mr. Escott Robert",male,43,0,1,S.O./P.P. 2,21,S,"Ilfracombe, Devon",400,33.89531459764856,2658.876729820448
+2,1,"Pinsky, Mrs. (Rosa)",female,,0,0,234604,13,S,Russia,400,31.99294781354823,4931.261124608116
+2,0,"Ponesell, Mr. Martin",male,1050,0,0,250647,13,S,"Denmark / New York, NY",400,19.946962034863954,13211.436046508908
+2,1,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,,0,0,C.A. 34644,12.7375,C,"Milford, NH",10000,24.01088270620187,14946.847895595087
+2,0,"Pulbaum, Mr. Franz",male,27,0,0,SC/PARIS 2168,15.0333,C,Paris,400,17.5831883,5840.488192349301
+,1,"Quick, Miss. Phyllis May",female,2,1,1,26360,26,S,"Plymouth, Devon / Detroit, MI",400,34.08102054517445,7004.854148840867
+2,1,"Quick, Miss. Winifred Vera",female,8,1,1,26360,26,S,"Plymouth, Devon / Detroit, MI",400,27.123492689017603,10970.028603939687
+2,1,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33,0,2,26360,26,S,"Plymouth, Devon / Detroit, MI",400,19.572856110069253,13349.83881674358
+2,0,"Reeves, Mr. David",male,36,0,0,C.A. 17248,10.5,S,"Brighton, Sussex",400,28.434013688117133,9099.142846
+2,0,"Renouf, Mr. Peter Henry",male,34,1,0,31027,21,S,"Elizabeth, NJ",400,27.362564809157917,6177.122623578525
+,1,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30,3,0,31027,21,S,"Elizabeth, NJ",400,22.16325436065681,6483.016692305045
+2,1,"Reynaldo, Ms. Encarnacion",female,,0,0,230434,13,S,Spain,400,17.27115184399258,10586.46312
+2,0,"Richard, Mr. Emile",male,23,0,0,SC/PARIS 2133,15.0458,C,"Paris / Montreal, PQ",400,28.431463911855992,546.6648222620408
+2,1,"Richards, Master. George Sibley",male,1050,1,1,29106,18.75,S,"Cornwall / Akron, OH",400,25.406154018075867,9484.045393
+2,1,"Richards, Master. William Rowe",male,3,1,1,29106,18.75,S,"Cornwall / Akron, OH",400,30.446367834712788,5654.648651399682
+,1,"Richards, Mrs. Sidney (Emily Hocking)",female,24,2,3,29106,18.75,S,"Cornwall / Akron, OH",400,25.403270022239866,12015.861303517722
+2,1,"Ridsdale, Miss. Lucy",female,50,0,0,W./C. 14258,10.5,S,"London, England / Marietta, Ohio and Milwaukee, WI",400,32.043630006370805,1848.3642774354164
+2,0,"Rogers, Mr. Reginald Harry",male,19,0,0,28004,10.5,S,?,400,26.03813677548971,9028.932870751662
+2,1,"Rugg, Miss. Emily",female,21,0,0,C.A. 31026,10.5,S,"Guernsey / Wilmington, DE",400,26.218759430707724,7474.106903348795
+2,0,"Schmidt, Mr. August",male,26,0,0,248659,13,S,"Newark, NJ",400,32.53307205,9813.720125625798
+2,0,"Sedgwick, Mr. Charles Frederick Waddington",male,25,0,0,244361,13,S,Liverpool,400,23.06965732424794,1440.377120003041
+2,0,"Sharp, Mr. Percival James R",male,27,0,0,244358,26,S,"Hornsey, England",400,17.680304569012815,8909.764917707904
+,1,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25,0,1,230433,26,S,"Deer Lodge, MT",400,15.57565352626678,8641.526525413094
+2,1,"Silven, Miss. Lyyli Karoliina",female,18,0,2,250652,13,S,"Finland / Minneapolis, MN",10000,30.10274511347238,8629.571369034478
+2,1,"Sincock, Miss. Maude",female,20,0,0,C.A. 33112,36.75,S,"Cornwall / Hancock, MI",400,27.406191027069294,9250.571165648595
+2,1,"Sinkkonen, Miss. Anna",female,30,0,0,250648,13,S,"Finland / Washington, DC",400,29.081595361984473,10308.785089782252
+2,0,"Sjostedt, Mr. Ernst Adolf",male,,0,0,237442,13.5,S,"Sault St Marie, ON",400,19.259283230178216,12172.340495371162
+2,1,"Slayter, Miss. Hilda Mary",female,30,0,0,234818,12.35,Q,"Halifax, NS",400,17.727429511735394,4412.400441859108
+2,0,"Slemen, Mr. Richard James",male,35,0,0,28206,10.5,S,Cornwall,400,15.290893313357639,12463.21645
+2,1,"Smith, Miss. Marion Elsie",female,40,0,0,31418,13,S,?,400,22.011751176131938,7724.707392820078
+2,0,"Sobey, Mr. Samuel James Hayden",male,25,0,0,C.A. 29178,13,S,"Cornwall / Houghton, MI",400,26.79835373709266,1617.3450474478018
+2,0,"Stanton, Mr. Samuel Ward",male,1050,0,0,237734,15.0458,C,"New York, NY",400,22.844880901994646,1348.9884740376983
+2,0,"Stokes, Mr. Philip Joseph",male,25,0,0,F.C.C. 13540,10.5,S,"Catford, Kent / Detroit, MI",400,23.749498440474582,5346.455621092881
+2,0,"Swane, Mr. George",male,18.5,0,0,248734,13,S,?,400,33.08317388987497,11881.006168116279
+2,0,"Sweet, Mr. George Frederick",male,14,0,0,220845,65,S,"Somerset / Bernardsville, NJ",400,21.965109340466007,10761.373553743279
+2,1,"Toomey, Miss. Ellen",female,50,0,0,F.C.C. 13531,10.5,S,"Indianapolis, IN",400,25.279789783196215,11934.916987749893
+,0,"Troupiansky, Mr. Moses Aaron",male,23,0,0,233639,13,S,?,400,30.67306025482286,8000.401318403336
+2,1,"Trout, Mrs. William H (Jessie L)",female,28,0,0,240929,12.65,S,"Columbus, OH",400,22.930855646425403,6882.885470354613
+2,1,"Troutt, Miss. Edwina Celia 'Winnie'",female,27,0,0,34218,10.5,S,"Bath, England / Massachusetts",400,27.44173400455747,2638.0616372411173
+,0,"Turpin, Mr. William John Robert",male,29,1,0,11668,21,S,"Plymouth, England",400,32.24727417,5258.794927335018
+2,0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,1,0,11668,21,S,"Plymouth, England",10000,33.990412473152844,6793.280809521191
+2,0,"Veal, Mr. James",male,,0,0,28221,13,S,"Barre, Co Washington, VT",400,17.941469618580758,1784.7062303544499
+2,1,"Walcroft, Miss. Nellie",female,31,0,0,F.C.C. 13528,21,S,"Mamaroneck, NY",400,33.53175250322989,3698.8733143125633
+2,0,"Ware, Mr. John James",male,30,1,0,CA 31352,21,S,"Bristol, England / New Britain, CT",400,24.842325861590766,9174.266763924214
+,0,"Ware, Mr. William Jeffery",male,,1,0,28666,10.5,S,?,400,20.164887765979167,11167.115156468253
+,1,"Ware, Mrs. John James (Florence Louise Long)",female,31,0,0,CA 31352,21,S,"Bristol, England / New Britain, CT",400,24.182715124765227,14976.03891519777
+,0,"Watson, Mr. Ennis Hastings",male,?,0,0,239856,0,S,Belfast,400,34.60065150570954,14030.143304481586
+2,1,"Watt, Miss. Bertha J",female,12,0,0,C.A. 33595,15.75,S,"Aberdeen / Portland, OR",400,24.85236187985739,9817.195393260277
+2,1,"Watt, Mrs. James (Elizabeth 'Bessie' Inglis Milne)",female,40,0,0,C.A. 33595,15.75,S,"Aberdeen / Portland, OR",400,21.575032205750166,6608.096772764044
+2,1,"Webber, Miss. Susan",female,,0,0,27267,13,S,"England / Hartford, CT",400,27.668017086334515,9724.571788269375
+2,0,"Weisz, Mr. Leopold",male,27,1,0,228414,26,S,"Bromsgrove, England / Montreal, PQ",400,19.80291237556386,11891.948462163364
+2,1,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,1050,1,0,228414,26,S,"Bromsgrove, England / Montreal, PQ",400,16.51726656217328,2215.874768389116
+2,1,"Wells, Master. Ralph Lester",male,,1,1,29103,23,S,"Cornwall / Akron, OH",400,17.577594438212984,6443.620900596179
+2,1,"Wells, Miss. Joan",female,4,1,1,29103,23,S,"Cornwall / Akron, OH",400,17.56091677915545,12677.13314171645
+2,1,"Wells, Mrs. Arthur Henry ('Addie' Dart Trevaskis)",female,,0,2,29103,23,S,"Cornwall / Akron, OH",400,18.038053870245886,6065.5778030291385
+,1,"West, Miss. Barbara J",female,0.9167,1,2,C.A. 34651,27.75,S,"Bournmouth, England",400,17.776543452988204,8792.147932794205
+2,1,"West, Miss. Constance Mirium",female,5,1,2,C.A. 34651,27.75,S,"Bournmouth, England",400,27.817494896064293,9022.655732501875
+2,0,"West, Mr. Edwy Arthur",male,36,1,2,C.A. 34651,27.75,S,"Bournmouth, England",400,18.637601687982897,3174.905670437771
+2,1,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,1050,1,2,C.A. 34651,27.75,S,"Bournmouth, England",400,21.913345666477262,5752.413903958181
+2,0,"Wheadon, Mr. Edward H",male,66,0,0,C.A. 24579,10.5,S,"Guernsey, England / Edgewood, RI",400,32.935768198120236,5350.413686758016
+2,0,"Wheeler, Mr. Edwin 'Frederick'",male,?,0,0,SC/PARIS 2159,12.875,S,?,400,24.479232805257446,879.8522737149395
+,1,"Wilhelms, Mr. Charles",male,1050,0,0,244270,13,S,"London, England",400,28.351154770420543,850.7805764
+2,1,"Williams, Mr. Charles Eugene",male,?,0,0,244373,13,S,"Harrow, England",400,18.446397424032597,12559.607133298716
+2,1,"Wright, Miss. Marion",female,26,0,0,220844,13.5,S,"Yoevil, England / Cottage Grove, OR",400,18.845780376173416,4459.526745
+2,0,"Yrois, Miss. Henriette ('Mrs Harbeck')",female,24,0,0,248747,13,S,Paris,400,15.817372325329577,8012.142110462823
+3,0,"Abbing, Mr. Anthony",male,42,0,0,C.A. 5547,7.55,S,?,100,18.37870126144329,4831.520817037209
+,0,"Abbott, Master. Eugene Joseph",male,13,0,2,C.A. 2673,20.25,S,"East Providence, RI",100,20.57180678063917,14139.849054172437
+3,0,"Abbott, Mr. Rossmore Edward",male,,1,1,C.A. 2673,20.25,S,"East Providence, RI",100,18.540209685534936,4259.8030035537195
+3,1,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35,1,1,C.A. 2673,20.25,S,"East Providence, RI",100,16.774050675141112,6730.023784714559
+3,1,"Abelseth, Miss. Karen Marie",female,16,0,0,348125,7.65,S,"Norway Los Angeles, CA",100,17.412717422012015,13154.588632026727
+3,1,"Abelseth, Mr. Olaus Jorgensen",male,25,0,0,348122,7.65,S,"Perkins County, SD",100,24.215575360654515,12708.036718481226
+3,1,"Abrahamsson, Mr. Abraham August Johannes",male,20,0,0,SOTON/O2 3101284,7.925,S,"Taalintehdas, Finland Hoboken, NJ",100,19.12667436811585,3198.470558771021
+3,1,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,0,0,2657,7.2292,C,"Greensburg, PA",100,22.28539722096151,12138.32799
+3,0,"Adahl, Mr. Mauritz Nils Martin",male,30,0,0,C 7076,7.25,S,"Asarum, Sweden Brooklyn, NY",100,25.068345417097138,7143.709857699443
+3,0,"Adams, Mr. John",male,26,0,0,341826,8.05,S,"Bournemouth, England",100,28.807896572587307,7503.048645237651
+3,0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,1050,1,0,7546,9.475,S,"Sweden Akeley, MN",100,15.786242796821979,2435.459600031185
+3,1,"Aks, Master. Philip Frank",male,0.8333,0,1,392091,9.35,S,"London, England Norfolk, VA",100,30.988207978180853,1668.7219494783076
+3,1,"Aks, Mrs. Sam (Leah Rosen)",female,18,0,1,392091,9.35,S,"London, England Norfolk, VA",100,27.558007789818156,11055.119951119595
+3,1,"Albimona, Mr. Nassef Cassem",male,26,0,0,2699,18.7875,C,"Syria Fredericksburg, VA",100,16.635180638977438,7698.686709151846
+3,0,"Alexander, Mr. William",male,26,0,0,3474,7.8875,S,"England Albion, NY",100,32.47157248213554,6834.335187920104
+3,0,"Alhomaki, Mr. Ilmari Rudolf",male,20,0,0,SOTON/O2 3101287,7.925,S,"Salo, Finland Astoria, OR",10000,33.417448010636264,11077.869315459753
+3,0,"Ali, Mr. Ahmed",male,24,0,0,SOTON/O.Q. 3101311,7.05,S,?,100,16.221559197097275,11599.937035371091
+3,0,"Ali, Mr. William",male,25,0,0,SOTON/O.Q. 3101312,7.05,S,Argentina,100,20.537552962944076,2804.168431205627
+3,0,"Allen, Mr. William Henry",male,35,0,0,373450,8.05,S,"Lower Clapton, Middlesex or Erdington, Birmingham",100,31.124025595861227,9348.264667
+3,0,"Allum, Mr. Owen George",male,18,0,0,2223,8.3,S,"Windsor, England New York, NY",100,29.965193807673167,2462.6341930264402
+3,0,"Andersen, Mr. Albert Karvin",male,32,0,0,C 4001,22.525,S,"Bergen, Norway",100,18.690420387127546,11394.938747421162
+3,1,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19,1,0,350046,7.8542,S,?,100,19.186986466734204,10025.849765873523
+3,0,"Andersson, Master. Sigvard Harald Elias",male,4,4,2,347082,31.275,S,"Sweden Winnipeg, MN",100,22.40944205582764,14370.91200571014
+3,0,"Andersson, Miss. Ebba Iris Alfrida",female,6,4,2,347082,31.275,S,"Sweden Winnipeg, MN",100,24.690459703820427,1499.8912371681072
+3,0,"Andersson, Miss. Ellis Anna Maria",female,2,4,2,347082,31.275,S,"Sweden Winnipeg, MN",100,27.36509543060592,1327.2934566931876
+3,1,"Andersson, Miss. Erna Alexandra",female,17,4,2,3101281,7.925,S,"Ruotsinphyhtaa, Finland New York, NY",100,22.37827279139545,4591.712583051402
+3,0,"Andersson, Miss. Ida Augusta Margareta",female,38,4,2,347091,7.775,S,"Vadsbro, Sweden Ministee, MI",100,24.25069432266296,4294.732414170637
+3,0,"Andersson, Miss. Ingeborg Constanzia",female,9,4,2,347082,31.275,S,"Sweden Winnipeg, MN",100,29.94941876267513,4081.1925865439975
+3,0,"Andersson, Miss. Sigrid Elisabeth",female,11,4,2,347082,31.275,S,"Sweden Winnipeg, MN",100,15.733664057811957,13640.691417555032
+3,0,"Andersson, Mr. Anders Johan",male,,1,5,347082,31.275,S,"Sweden Winnipeg, MN",100,20.048738886880415,4118.419897817838
+3,1,"Andersson, Mr. August Edvard ('Wennerstrom')",male,27,0,0,350043,7.7958,S,?,100,29.26699171769105,4443.271029
+3,0,"Andersson, Mr. Johan Samuel",male,26,0,0,347075,7.775,S,"Hartford, CT",100,32.904136753743984,11511.274805060473
+3,0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,,1,5,347082,31.275,S,"Sweden Winnipeg, MN",100,25.233548842313322,7021.227716
+3,0,"Andreasson, Mr. Paul Edvin",male,20,0,0,347466,7.8542,S,"Sweden Chicago, IL",100,25.642269705306312,11762.303075850128
+3,0,"Angheloff, Mr. Minko",male,,0,0,349202,7.8958,S,"Bulgaria Chicago, IL",100,17.14344022679552,1447.809284683586
+3,0,"Arnold-Franchi, Mr. Josef",male,25,1,0,349237,17.8,S,"Altdorf, Switzerland",100,23.948247336469095,7569.7823082640725
+3,0,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18,1,0,349237,17.8,S,"Altdorf, Switzerland",100,25.652345329100463,987.3972026575982
+3,0,"Aronsson, Mr. Ernst Axel Algot",male,1050,0,0,349911,7.775,S,"Sweden Joliet, IL",100,19.849410072694592,1408.4714501026406
+3,0,"Asim, Mr. Adola",male,35,0,0,SOTON/O.Q. 3101310,7.05,S,?,100,20.38486461898762,13643.34307349396
+3,0,"Asplund, Master. Carl Edgar",male,,4,2,347077,31.3875,S,"Sweden  Worcester, MA",100,22.545683262092453,2519.057881
+3,0,"Asplund, Master. Clarence Gustaf Hugo",male,9,4,2,347077,31.3875,S,"Sweden Worcester, MA",100,15.401423955554527,8220.099892990647
+3,1,"Asplund, Master. Edvin Rojj Felix",male,3,4,2,347077,31.3875,S,"Sweden Worcester, MA",100,21.441583311663564,6460.886237710245
+3,0,"Asplund, Master. Filip Oscar",male,13,4,2,347077,31.3875,S,"Sweden Worcester, MA",100,19.228960139930894,5536.478230753219
+3,1,"Asplund, Miss. Lillian Gertrud",female,5,4,2,347077,31.3875,S,"Sweden Worcester, MA",100,21.549947043558294,13547.583512465451
+3,0,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40,1,5,347077,31.3875,S,"Sweden  Worcester, MA",100,17.395242636385024,816.4392532445978
+3,1,"Asplund, Mr. Johan Charles",male,23,0,0,350054,7.7958,S,"Oskarshamn, Sweden Minneapolis, MN",100,32.81054561,10124.950449546042
+3,1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,1,5,347077,31.3875,S,"Sweden  Worcester, MA",100,26.871849071080973,14469.21929609648
+3,1,"Assaf Khalil, Mrs. Mariana ('Miriam')",female,45,0,0,2696,7.225,C,"Ottawa, ON",100,28.582046382889793,8622.438660196709
+3,0,"Assaf, Mr. Gerios",male,21,0,0,2692,7.225,C,"Ottawa, ON",100,30.783424772146766,14083.92569947983
+,0,"Assam, Mr. Ali",male,23,0,0,SOTON/O.Q. 3101309,7.05,S,?,100,24.968843978581145,1257.7392496473446
+3,0,"Attalah, Miss. Malake",female,17,0,0,2627,14.4583,C,?,100,16.738405761748474,6572.5031265753405
+3,0,"Attalah, Mr. Sleiman",male,30,0,0,2694,7.225,C,"Ottawa, ON",100,25.742130836370954,4272.287968949742
+3,0,"Augustsson, Mr. Albert",male,23,0,0,347468,7.8542,S,"Krakoryd, Sweden Bloomington, IL",100,26.736822360417584,11096.903992220581
+3,1,"Ayoub, Miss. Banoura",female,,0,0,2687,7.2292,C,"Syria Youngstown, OH",100,29.90878948,14728.807812210076
+3,0,"Baccos, Mr. Raffull",male,20,0,0,2679,7.225,C,?,100,23.63319092459359,4219.685905441594
+3,0,"Backstrom, Mr. Karl Alfred",male,32,1,0,3101278,15.85,S,"Ruotsinphytaa, Finland New York, NY",10000,17.551606055911275,9985.531721
+3,1,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33,3,0,3101278,15.85,S,"Ruotsinphytaa, Finland New York, NY",100,20.67551811597449,3372.415675016232
+3,1,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,C,"Syria New York, NY",100,22.26164593,8697.288691288344
+,1,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,C,"Syria New York, NY",100,27.918344826632023,7227.021056980875
+,1,"Baclini, Miss. Marie Catherine",female,5,2,1,2666,19.2583,C,"Syria New York, NY",100,26.41556609337824,14594.077279657287
+3,1,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24,0,3,2666,19.2583,C,"Syria New York, NY",100,22.121934517956923,9323.645454098765
+3,1,"Badman, Miss. Emily Louisa",female,,0,0,A/4 31416,8.05,S,"London Skanteales, NY",100,34.730304975859596,5567.842395258873
+3,0,"Badt, Mr. Mohamed",male,40,0,0,2623,7.225,C,?,100,27.115496387137743,2154.388880875034
+3,0,"Balkic, Mr. Cerin",male,26,0,0,349248,7.8958,S,?,100,19.74453583471989,2693.079016656551
+,1,"Barah, Mr. Hanna Assi",male,20,0,0,2663,7.2292,C,?,100,17.035649452408073,3767.0954842929086
+3,0,"Barbara, Miss. Saiide",female,18,0,1,2691,14.4542,C,"Syria Ottawa, ON",100,18.057182783686642,4139.016589434321
+3,0,"Barbara, Mrs. (Catherine David)",female,45,0,1,2691,14.4542,C,"Syria Ottawa, ON",100,19.919154567690164,12833.932838696499
+3,0,"Barry, Miss. Julia",female,27,0,0,330844,7.8792,Q,"New York, NY",100,18.213627465191113,8637.730430096612
+3,0,"Barton, Mr. David John",male,22,0,0,324669,8.05,S,"England New York, NY",100,18.731340481026116,8089.168214928313
+,0,"Beavan, Mr. William Thomas",male,19,0,0,323951,8.05,S,England,100,20.70190337387694,2164.1486421036534
+3,0,"Bengtsson, Mr. John Viktor",male,26,0,0,347068,7.775,S,"Krakudden, Sweden Moune, IL",100,18.467471905895096,12972.025553566808
+3,0,"Berglund, Mr. Karl Ivar Sven",male,22,0,0,PP 4348,9.35,S,"Tranvik, Finland New York",100,32.935308492528506,10980.807396523014
+3,0,"Betros, Master. Seman",male,?,0,0,2622,7.2292,C,?,100,16.604674913232845,1481.191247550023
+3,0,"Betros, Mr. Tannous",male,,0,0,2648,4.0125,C,Syria,100,25.490227791405093,10763.608909831646
+3,1,"Bing, Mr. Lee",male,,0,0,1601,56.4958,S,"Hong Kong New York, NY",100,23.20793653979323,8381.304151468368
+,0,"Birkeland, Mr. Hans Martin Monsen",male,1050,0,0,312992,7.775,S,"Brennes, Norway New York",100,34.647572338172125,1685.0175133282846
+3,0,"Bjorklund, Mr. Ernst Herbert",male,18,0,0,347090,7.75,S,"Stockholm, Sweden New York",100,17.240778043361047,7145.359302165519
+3,0,"Bostandyeff, Mr. Guentcho",male,26,0,0,349224,7.8958,S,"Bulgaria Chicago, IL",10000,22.95711198091483,7528.096163385681
+3,0,"Boulos, Master. Akar",male,6,1,1,2678,15.2458,C,"Syria Kent, ON",100,34.389408665507375,2903.7308323674984
+3,0,"Boulos, Miss. Nourelain",female,9,1,1,2678,15.2458,C,"Syria Kent, ON",100,32.310142517879605,14212.623131504093
+3,0,"Boulos, Mr. Hanna",male,?,0,0,2664,7.225,C,Syria,100,31.34144142,12824.642886469597
+3,0,"Boulos, Mrs. Joseph (Sultana)",female,?,0,2,2678,15.2458,C,"Syria Kent, ON",100,20.158056540898798,10200.82389127207
+3,0,"Bourke, Miss. Mary",female,?,0,2,364848,7.75,Q,"Ireland Chicago, IL",100,18.417751747801315,7203.285634508805
+3,0,"Bourke, Mr. John",male,40,1,1,364849,15.5,Q,"Ireland Chicago, IL",100,28.37286439848862,6470.600352975373
+3,0,"Bourke, Mrs. John (Catherine)",female,32,1,1,364849,15.5,Q,"Ireland Chicago, IL",10000,33.587519782551716,9939.115273688836
+3,0,"Bowen, Mr. David John 'Dai'",male,21,0,0,54636,16.1,S,"Treherbert, Cardiff, Wales",100,26.135257860278596,8408.762106400129
+3,1,"Bradley, Miss. Bridget Delia",female,22,0,0,334914,7.725,Q,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",100,26.432253789397997,1402.9600352873415
+3,0,"Braf, Miss. Elin Ester Maria",female,20,0,0,347471,7.8542,S,"Medeltorp, Sweden Chicago, IL",100,20.599581873205683,7931.288407
+3,0,"Braund, Mr. Lewis Richard",male,29,1,0,3460,7.0458,S,"Bridgerule, Devon",100,30.389858663838737,12192.852449876173
+3,0,"Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,7.25,S,"Bridgerule, Devon",100,18.74087497115047,7158.978225155892
+,0,"Brobeck, Mr. Karl Rudolf",male,22,0,0,350045,7.7958,S,"Sweden Worcester, MA",100,21.473584728084873,1253.370374536892
+3,0,"Brocklebank, Mr. William Alfred",male,35,0,0,364512,8.05,S,"Broomfield, Chelmsford, England",100,23.508728772328336,11901.03389106848
+3,0,"Buckley, Miss. Katherine",female,18.5,0,0,329944,7.2833,Q,"Co Cork, Ireland Roxbury, MA",100,25.15220757,3419.7748409716287
+3,1,"Buckley, Mr. Daniel",male,,0,0,330920,7.8208,Q,"Kingwilliamstown, Co Cork, Ireland New York, NY",100,19.848194648301604,4250.002105876562
+3,0,"Burke, Mr. Jeremiah",male,19,0,0,365222,6.75,Q,"Co Cork, Ireland Charlestown, MA",100,17.29673649478407,2888.2421247682905
+3,0,"Burns, Miss. Mary Delia",female,18,0,0,330963,7.8792,Q,"Co Sligo, Ireland New York, NY",100,27.21240084883265,5288.118440636715
+3,0,"Cacic, Miss. Manda",female,21,0,0,315087,8.6625,S,?,100,20.772611064805115,11472.896832485209
+3,0,"Cacic, Miss. Marija",female,,0,0,315084,8.6625,S,?,100,26.624764428452245,8031.094962807091
+3,0,"Cacic, Mr. Jego Grga",male,18,0,0,315091,8.6625,S,?,100,18.087254305484045,3470.778475185332
+3,0,"Cacic, Mr. Luka",male,38,0,0,315089,8.6625,S,Croatia,100,24.62280203709635,13228.536133204592
+3,0,"Calic, Mr. Jovo",male,17,0,0,315093,8.6625,S,?,100,25.651788651031715,13253.936896797173
+3,0,"Calic, Mr. Petar",male,,0,0,315086,8.6625,S,?,100,16.03647073644854,13123.38716
+3,0,"Canavan, Miss. Mary",female,21,0,0,364846,7.75,Q,?,100,21.73208556387841,3962.5450650323196
+3,0,"Canavan, Mr. Patrick",male,21,0,0,364858,7.75,Q,"Ireland Philadelphia, PA",100,17.688293538779483,7042.970490624328
+3,0,"Cann, Mr. Ernest Charles",male,21,0,0,A./5. 2152,8.05,S,?,100,16.267499409455354,14782.35001404269
+3,0,"Caram, Mr. Joseph",male,?,1,0,2689,14.4583,C,"Ottawa, ON",100,34.79920465,11694.180906494861
+3,0,"Caram, Mrs. Joseph (Maria Elias)",female,?,1,0,2689,14.4583,C,"Ottawa, ON",100,21.44707689949446,893.9276077706173
+3,0,"Carlsson, Mr. August Sigfrid",male,28,0,0,350042,7.7958,S,"Dagsas, Sweden Fower, MN",100,31.19748892,1445.4665732771348
+3,0,"Carlsson, Mr. Carl Robert",male,24,0,0,350409,7.8542,S,"Goteborg, Sweden Huntley, IL",100,20.092813095275275,7227.004963778825
+3,1,"Carr, Miss. Helen 'Ellen'",female,16,0,0,367231,7.75,Q,"Co Longford, Ireland New York, NY",100,28.630054444478585,13683.692984992622
+3,0,"Carr, Miss. Jeannie",female,37,0,0,368364,7.75,Q,"Co Sligo, Ireland Hartford, CT",100,30.204557197793733,8311.176070314355
+3,0,"Carver, Mr. Alfred John",male,28,0,0,392095,7.25,S,"St Denys, Southampton, Hants",100,26.912774812156886,7718.281366497208
+3,0,"Celotti, Mr. Francesco",male,24,0,0,343275,8.05,S,London,100,24.431523771003167,2029.3686493711434
+3,0,"Charters, Mr. David",male,1050,0,0,A/5. 13032,7.7333,Q,"Ireland New York, NY",100,23.23681828294537,10023.311518502263
+3,1,"Chip, Mr. Chang",male,32,0,0,1601,56.4958,S,"Hong Kong New York, NY",100,21.977365330859907,12420.49582870327
+3,0,"Christmann, Mr. Emil",male,29,0,0,343276,8.05,S,?,100,33.59058288495652,6016.090108859654
+3,0,"Chronopoulos, Mr. Apostolos",male,26,1,0,2680,14.4542,C,Greece,100,31.612388155754584,11746.371838417248
+3,0,"Chronopoulos, Mr. Demetrios",male,18,1,0,2680,14.4542,C,Greece,10000,34.30053821333025,14484.911481561769
+3,0,"Coelho, Mr. Domingos Fernandeo",male,20,0,0,SOTON/O.Q. 3101307,7.05,S,Portugal,100,17.485944469710894,3454.613657351492
+3,1,"Cohen, Mr. Gurshon 'Gus'",male,18,0,0,A/5 3540,8.05,S,"London Brooklyn, NY",100,29.617349504072884,8088.279652323748
+3,0,"Colbert, Mr. Patrick",male,24,0,0,371109,7.25,Q,"Co Limerick, Ireland Sherbrooke, PQ",100,33.766809136420754,4663.500392226345
+3,0,"Coleff, Mr. Peju",male,1050,0,0,349210,7.4958,S,"Bulgaria Chicago, IL",100,18.62466132,11996.38907599067
+3,0,"Coleff, Mr. Satio",male,24,0,0,349209,7.4958,S,?,100,16.32992534733555,8875.103805276784
+3,0,"Conlon, Mr. Thomas Henry",male,31,0,0,21332,7.7333,Q,"Philadelphia, PA",100,29.82241298580118,9701.445054479405
+3,0,"Connaghton, Mr. Michael",male,31,0,0,335097,7.75,Q,"Ireland Brooklyn, NY",100,26.489462263598238,12069.755314430464
+3,1,"Connolly, Miss. Kate",female,,0,0,370373,7.75,Q,Ireland,100,31.83657553516544,6241.571853605596
+3,0,"Connolly, Miss. Kate",female,30,0,0,330972,7.6292,Q,Ireland,100,17.79544753252579,13768.805991902127
+3,0,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,Q,?,100,30.905346237197804,8228.918575069029
+3,0,"Cook, Mr. Jacob",male,43,0,0,A/5 3536,8.05,S,?,100,19.032546400954892,2790.344931112546
+3,0,"Cor, Mr. Bartol",male,35,0,0,349230,7.8958,S,Austria,100,18.27311885731409,10590.537213447635
+3,0,"Cor, Mr. Ivan",male,27,0,0,349229,7.8958,S,Austria,100,18.285315958619858,12002.28958135469
+3,0,"Cor, Mr. Liudevit",male,19,0,0,349231,7.8958,S,Austria,100,31.29149440462764,5093.044317479137
+3,0,"Corn, Mr. Harry",male,30,0,0,SOTON/OQ 392090,8.05,S,London,100,28.303944413924004,12929.099226481918
+3,1,"Coutts, Master. Eden Leslie 'Neville'",male,9,1,1,C.A. 37671,15.9,S,"England Brooklyn, NY",100,25.461308495382386,13639.077194103613
+3,1,"Coutts, Master. William Loch 'William'",male,3,1,1,C.A. 37671,15.9,S,"England Brooklyn, NY",100,22.17660968247005,4515.115066978229
+3,1,"Coutts, Mrs. William (Winnie 'Minnie' Treanor)",female,36,0,2,C.A. 37671,15.9,S,"England Brooklyn, NY",100,32.544010816262166,14761.06135437072
+3,0,"Coxon, Mr. Daniel",male,1050,0,0,364500,7.25,S,"Merrill, WI",100,22.84890214845271,2540.317156706997
+3,0,"Crease, Mr. Ernest James",male,19,0,0,S.P. 3464,8.1583,S,"Bristol, England Cleveland, OH",100,31.33198878943154,3429.2271918361043
+3,1,"Cribb, Miss. Laura Alice",female,17,0,1,371362,16.1,S,"Bournemouth, England Newark, NJ",10000,23.78269817140437,3171.260168951379
+,0,"Cribb, Mr. John Hatfield",male,44,0,1,371362,16.1,S,"Bournemouth, England Newark, NJ",100,22.538888588498153,13462.850795114122
+,0,"Culumovic, Mr. Jeso",male,17,0,0,315090,8.6625,S,Austria-Hungary,100,24.25359571339213,9987.242008711946
+,0,"Daher, Mr. Shedid",male,22.5,0,0,2698,7.225,C,?,100,21.02755748328284,2705.5121067229566
+3,1,"Dahl, Mr. Karl Edwart",male,45,0,0,7598,8.05,S,"Australia Fingal, ND",100,29.952187603525022,6884.6895663410605
+3,0,"Dahlberg, Miss. Gerda Ulrika",female,22,0,0,7552,10.5167,S,"Norrlot, Sweden Chicago, IL",100,25.05440780184958,9421.821364
+3,0,"Dakic, Mr. Branko",male,19,0,0,349228,10.1708,S,Austria,100,19.644253902936345,1710.2292323460576
+,1,"Daly, Miss. Margaret Marcella 'Maggie'",female,1050,0,0,382650,6.95,Q,"Co Athlone, Ireland New York, NY",100,32.99149146549137,13295.03734190641
+3,1,"Daly, Mr. Eugene Patrick",male,29,0,0,382651,7.75,Q,"Co Athlone, Ireland New York, NY",100,22.677824427464227,12152.25126390226
+3,0,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.3333,0,2,347080,14.4,S,"Stanton, IA",100,25.871057222279774,7825.498216861254
+3,0,"Danbom, Mr. Ernst Gilbert",male,34,1,1,347080,14.4,S,"Stanton, IA",100,33.12944221929094,14523.33592125797
+3,0,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28,1,1,347080,14.4,S,"Stanton, IA",100,27.484759918279842,6557.534199488946
+3,0,"Danoff, Mr. Yoto",male,27,0,0,349219,7.8958,S,"Bulgaria Chicago, IL",100,17.337960814167282,14769.599626029218
+3,0,"Dantcheff, Mr. Ristiu",male,25,0,0,349203,7.8958,S,"Bulgaria Chicago, IL",100,33.796642472269504,10184.839982652593
+3,0,"Davies, Mr. Alfred J",male,,2,0,A/4 48871,24.15,S,"West Bromwich, England Pontiac, MI",100,27.554161061428356,9702.733462182152
+3,0,"Davies, Mr. Evan",male,22,0,0,SC/A4 23568,8.05,S,?,100,21.698112293141723,2906.3459817888825
+3,0,"Davies, Mr. John Samuel",male,21,2,0,A/4 48871,24.15,S,"West Bromwich, England Pontiac, MI",100,17.785441453267744,13287.952495417338
+3,0,"Davies, Mr. Joseph",male,17,2,0,A/4 48873,8.05,S,"West Bromwich, England Pontiac, MI",100,30.88050378540592,6698.6004748489195
+3,0,"Davison, Mr. Thomas Henry",male,?,1,0,386525,16.1,S,"Liverpool, England Bedford, OH",100,27.40145511857027,2852.3843838459507
+,1,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,?,1,0,386525,16.1,S,"Liverpool, England Bedford, OH",100,25.66922183952643,682.8090396485061
+3,1,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1,0,345572,17.4,S,"Tampico, MT",100,32.87785166101915,8616.457412756547
+3,1,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,1050,1,0,345572,17.4,S,"Tampico, MT",100,30.771944224490614,8147.294520778807
+3,1,"de Mulder, Mr. Theodore",male,30,0,0,345774,9.5,S,"Belgium Detroit, MI",100,18.033497594655024,10930.62752
+3,0,"de Pelsmaeker, Mr. Alfons",male,,0,0,345778,9.5,S,?,100,21.234441355910963,13408.741768758131
+3,1,"Dean, Master. Bertram Vere",male,1,1,2,C.A. 2315,20.575,S,"Devon, England Wichita, KS",100,19.969782796289316,1651.3954773239282
+3,1,"Dean, Miss. Elizabeth Gladys 'Millvina'",female,0.1667,1,2,C.A. 2315,20.575,S,"Devon, England Wichita, KS",100,29.878925851453538,11106.699109935254
+3,0,"Dean, Mr. Bertram Frank",male,26,1,2,C.A. 2315,20.575,S,"Devon, England Wichita, KS",100,15.670648694715588,3217.473189414942
+,1,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33,1,2,C.A. 2315,20.575,S,"Devon, England Wichita, KS",100,26.39779369742633,12943.567270778878
+3,0,"Delalic, Mr. Redjo",male,25,0,0,349250,7.8958,S,?,100,30.24917371481381,12376.420950994014
+3,0,"Demetri, Mr. Marinko",male,?,0,0,349238,7.8958,S,?,100,32.53531273523499,8341.509447290393
+3,0,"Denkoff, Mr. Mitto",male,?,0,0,349225,7.8958,S,"Bulgaria Coon Rapids, IA",100,21.84163497431815,10798.520580038017
+3,0,"Dennis, Mr. Samuel",male,22,0,0,A/5 21172,7.25,S,?,100,31.425146093440258,5058.076641164352
+3,0,"Dennis, Mr. William",male,36,0,0,A/5 21175,7.25,S,?,100,17.212634739104146,7331.9345345258125
+,1,"Devaney, Miss. Margaret Delia",female,19,0,0,330958,7.8792,Q,"Kilmacowen, Co Sligo, Ireland New York, NY",100,31.929045834690363,12413.735016801838
+3,0,"Dika, Mr. Mirko",male,17,0,0,349232,7.8958,S,?,100,17.54977324663965,7159.345359011601
+3,0,"Dimic, Mr. Jovan",male,42,0,0,315088,8.6625,S,?,100,22.945745811207345,5688.074847218906
+3,0,"Dintcheff, Mr. Valtcho",male,43,0,0,349226,7.8958,S,?,100,30.94590731559107,7666.080485129349
+3,0,"Doharr, Mr. Tannous",male,?,0,0,2686,7.2292,C,?,100,17.998348546975475,12509.614160339666
+3,0,"Dooley, Mr. Patrick",male,32,0,0,370376,7.75,Q,"Ireland New York, NY",100,19.58502790465283,5360.516686877654
+3,1,"Dorking, Mr. Edward Arthur",male,19,0,0,A/5. 10482,8.05,S,"England Oglesby, IL",100,29.445051367861325,3019.543100468285
+3,1,"Dowdell, Miss. Elizabeth",female,,0,0,364516,12.475,S,"Union Hill, NJ",100,29.400730730921488,10824.203294796322
+3,0,"Doyle, Miss. Elizabeth",female,24,0,0,368702,7.75,Q,"Ireland New York, NY",100,27.822952657705947,12476.684084267186
+3,1,"Drapkin, Miss. Jennie",female,23,0,0,SOTON/OQ 392083,8.05,S,"London New York, NY",100,28.87896889,1959.2434385912334
+,0,"Drazenoic, Mr. Jozef",male,33,0,0,349241,7.8958,C,"Austria Niagara Falls, NY",100,25.854488866951925,3978.1746349611985
+3,0,"Duane, Mr. Frank",male,65,0,0,336439,7.75,Q,?,100,20.035981178139053,2558.5938515344114
+3,1,"Duquemin, Mr. Joseph",male,24,0,0,S.O./P.P. 752,7.55,S,"England Albion, NY",100,21.913919870078388,5545.1504679414165
+3,0,"Dyker, Mr. Adolf Fredrik",male,23,1,0,347072,13.9,S,"West Haven, CT",100,18.631954336028514,7030.0891941284835
+3,1,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22,1,0,347072,13.9,S,"West Haven, CT",100,33.169011226672566,11357.981885967944
+3,0,"Edvardsson, Mr. Gustaf Hjalmar",male,18,0,0,349912,7.775,S,"Tofta, Sweden Joliet, IL",100,26.66783589532241,9941.639980784275
+3,0,"Eklund, Mr. Hans Linus",male,16,0,0,347074,7.775,S,"Karberg, Sweden Jerome Junction, AZ",100,23.017028335272798,9503.464228437251
+3,0,"Ekstrom, Mr. Johan",male,45,0,0,347061,6.975,S,"Effington Rut, SD",100,24.240116072882653,5609.436725839989
+3,0,"Elias, Mr. Dibo",male,,0,0,2674,7.225,C,?,100,33.94566679223631,12700.989519729019
+3,0,"Elias, Mr. Joseph",male,39,0,2,2675,7.2292,C,"Syria Ottawa, ON",100,18.067028062321604,7333.663927273386
+3,0,"Elias, Mr. Joseph Jr",male,17,1,1,2690,7.2292,C,?,100,26.724596640335946,14697.02160121974
+,0,"Elias, Mr. Tannous",male,1050,1,1,2695,7.2292,C,Syria,100,25.11777357768932,9695.061005288184
+3,0,"Elsbury, Mr. William James",male,,0,0,A/5 3902,7.25,S,"Illinois, USA",100,27.229084708692955,2330.838753
+3,1,"Emanuel, Miss. Virginia Ethel",female,5,0,0,364516,12.475,S,"New York, NY",100,15.36220367641681,10304.574650093793
+,0,"Emir, Mr. Farred Chehab",male,?,0,0,2631,7.225,C,?,100,32.44247817888303,5214.008223759635
+3,0,"Everett, Mr. Thomas James",male,40.5,0,0,C.A. 6212,15.1,S,?,100,33.64236564967225,10451.744351948413
+3,0,"Farrell, Mr. James",male,40.5,0,0,367232,7.75,Q,"Aughnacliff, Co Longford, Ireland New York, NY",100,26.302663671784178,1509.7966483548832
+3,1,"Finoli, Mr. Luigi",male,?,0,0,SOTON/O.Q. 3101308,7.05,S,"Italy Philadelphia, PA",100,28.933016477537844,3035.780839051411
+,0,"Fischer, Mr. Eberhard Thelander",male,18,0,0,350036,7.7958,S,?,100,33.449987623545915,12908.190254133902
+3,0,"Fleming, Miss. Honora",female,?,0,0,364859,7.75,Q,?,100,29.144772686267974,3794.103576840966
+3,0,"Flynn, Mr. James",male,?,0,0,364851,7.75,Q,?,100,18.050780858285226,12637.096316022631
+3,0,"Flynn, Mr. John",male,?,0,0,368323,6.95,Q,?,100,26.525767203336265,4549.503282588951
+3,0,"Foley, Mr. Joseph",male,26,0,0,330910,7.8792,Q,"Ireland Chicago, IL",100,27.13430092765712,9821.787696
+3,0,"Foley, Mr. William",male,?,0,0,365235,7.75,Q,Ireland,100,23.48261342604772,10565.18331589255
+3,1,"Foo, Mr. Choong",male,?,0,0,1601,56.4958,S,"Hong Kong New York, NY",100,29.728884712494455,7933.493920603268
+3,0,"Ford, Miss. Doolina Margaret 'Daisy'",female,21,2,2,W./C. 6608,34.375,S,"Rotherfield, Sussex, England Essex Co, MA",100,33.687340295380295,4927.004812102604
+3,0,"Ford, Miss. Robina Maggie 'Ruby'",female,,2,2,W./C. 6608,34.375,S,"Rotherfield, Sussex, England Essex Co, MA",100,33.51137025813553,3583.3434573808936
+3,0,"Ford, Mr. Arthur",male,?,0,0,A/5 1478,8.05,S,"Bridgwater, Somerset, England",100,24.016787428082644,981.2456411551802
+3,0,"Ford, Mr. Edward Watson",male,18,2,2,W./C. 6608,34.375,S,"Rotherfield, Sussex, England Essex Co, MA",100,17.264760916815106,4907.222817990495
+,0,"Ford, Mr. William Neal",male,16,1,3,W./C. 6608,34.375,S,"Rotherfield, Sussex, England Essex Co, MA",100,34.696823979246695,9970.860462703604
+3,0,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48,1,3,W./C. 6608,34.375,S,"Rotherfield, Sussex, England Essex Co, MA",100,31.777961728918683,14105.419867502998
+3,0,"Fox, Mr. Patrick",male,?,0,0,368573,7.75,Q,"Ireland New York, NY",100,17.493253624065336,13132.464992814253
+3,0,"Franklin, Mr. Charles (Charles Fardon)",male,?,0,0,SOTON/O.Q. 3101314,7.25,S,?,100,33.416837652347446,11607.939259761888
+3,0,"Gallagher, Mr. Martin",male,25,0,0,36864,7.7417,Q,"New York, NY",100,32.39792724124256,11932.486477172832
+3,0,"Garfirth, Mr. John",male,?,0,0,358585,14.5,S,?,100,25.376761142521442,10142.281100401931
+3,0,"Gheorgheff, Mr. Stanio",male,?,0,0,349254,7.8958,C,?,100,26.825508714898586,4274.159434707043
+3,0,"Gilinski, Mr. Eliezer",male,22,0,0,14973,8.05,S,?,100,22.980054077402606,13654.327945234532
+3,1,"Gilnagh, Miss. Katherine 'Katie'",female,16,0,0,35851,7.7333,Q,"Co Longford, Ireland New York, NY",100,16.095232776440625,10225.618522634593
+3,1,"Glynn, Miss. Mary Agatha",female,1050,0,0,335677,7.75,Q,"Co Clare, Ireland Washington, DC",100,21.70394483291802,8626.389149216378
+3,1,"Goldsmith, Master. Frank John William 'Frankie'",male,9,0,2,363291,20.525,S,"Strood, Kent, England Detroit, MI",100,31.057068971960227,2109.3473035954758
+3,0,"Goldsmith, Mr. Frank John",male,33,1,1,363291,20.525,S,"Strood, Kent, England Detroit, MI",100,15.092640460092056,6982.305385193169
+3,0,"Goldsmith, Mr. Nathan",male,41,0,0,SOTON/O.Q. 3101263,7.85,S,"Philadelphia, PA",10000,21.669983433822885,7175.194932427931
+3,1,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31,1,1,363291,20.525,S,"Strood, Kent, England Detroit, MI",100,22.963373871818867,13036.172338078715
+3,0,"Goncalves, Mr. Manuel Estanslas",male,38,0,0,SOTON/O.Q. 3101306,7.05,S,Portugal,100,25.74791205875846,8426.399192722933
+3,0,"Goodwin, Master. Harold Victor",male,9,5,2,CA 2144,46.9,S,"Wiltshire, England Niagara Falls, NY",100,33.39711232825521,6015.80796
+3,0,"Goodwin, Master. Sidney Leonard",male,1,5,2,CA 2144,46.9,S,"Wiltshire, England Niagara Falls, NY",100,21.926919887319226,14663.60476340456
+3,0,"Goodwin, Master. William Frederick",male,11,5,2,CA 2144,46.9,S,"Wiltshire, England Niagara Falls, NY",100,21.939064037924553,2105.448603231577
+3,0,"Goodwin, Miss. Jessie Allis",female,,5,2,CA 2144,46.9,S,"Wiltshire, England Niagara Falls, NY",100,29.750024962194967,6626.952210523197
+3,0,"Goodwin, Miss. Lillian Amy",female,16,5,2,CA 2144,46.9,S,"Wiltshire, England Niagara Falls, NY",100,24.044358817796144,1109.3577899853767
+3,0,"Goodwin, Mr. Charles Edward",male,,5,2,CA 2144,46.9,S,"Wiltshire, England Niagara Falls, NY",100,19.49209645879964,11228.60975112049
+3,0,"Goodwin, Mr. Charles Frederick",male,40,1,6,CA 2144,46.9,S,"Wiltshire, England Niagara Falls, NY",100,24.04879032265387,13812.110006887684
+3,0,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43,1,6,CA 2144,46.9,S,"Wiltshire, England Niagara Falls, NY",100,17.817140407595996,4560.5412784820965
+3,0,"Green, Mr. George Henry",male,51,0,0,21440,8.05,S,"Dorking, Surrey, England",100,18.527739730124466,12945.954313587254
+3,0,"Gronnestad, Mr. Daniel Danielsen",male,32,0,0,8471,8.3625,S,"Foresvik, Norway Portland, ND",100,24.967355454789594,4737.164341697518
+,0,"Guest, Mr. Robert",male,?,0,0,376563,8.05,S,?,100,23.378508990090957,13706.16734383677
+3,0,"Gustafsson, Mr. Alfred Ossian",male,20,0,0,7534,9.8458,S,"Waukegan, Chicago, IL",100,33.29691802,11432.447602153366
+3,0,"Gustafsson, Mr. Anders Vilhelm",male,37,2,0,3101276,7.925,S,"Ruotsinphytaa, Finland New York, NY",100,22.24787798233266,12171.14826420086
+3,0,"Gustafsson, Mr. Johan Birger",male,28,2,0,3101277,7.925,S,"Ruotsinphytaa, Finland New York, NY",100,26.611767005560868,761.0950562065902
+3,0,"Gustafsson, Mr. Karl Gideon",male,19,0,0,347069,7.775,S,"Myren, Sweden New York, NY",100,27.645285758390607,14460.750177573376
+3,0,"Haas, Miss. Aloisia",female,24,0,0,349236,8.85,S,?,100,15.261889131766672,11036.729385019687
+3,0,"Hagardon, Miss. Kate",female,17,0,0,AQ/3. 30631,7.7333,Q,?,100,28.270747440334212,4918.890883098933
+3,0,"Hagland, Mr. Ingvald Olai Olsen",male,1050,1,0,65303,19.9667,S,?,100,18.560719337395028,12526.222640453281
+,0,"Hagland, Mr. Konrad Mathias Reiersen",male,?,1,0,65304,19.9667,S,?,100,34.221406349389106,4582.057377016485
+3,0,"Hakkarainen, Mr. Pekka Pietari",male,28,1,0,STON/O2. 3101279,15.85,S,?,100,17.973254555062258,13154.930673708855
+3,1,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24,1,0,STON/O2. 3101279,15.85,S,?,100,23.292482474540474,2132.4156609730867
+,0,"Hampe, Mr. Leon",male,20,0,0,345769,9.5,S,?,100,16.706993361572877,10703.44667318154
+3,0,"Hanna, Mr. Mansour",male,23.5,0,0,2693,7.2292,C,?,100,34.93748503691895,8340.127911
+,0,"Hansen, Mr. Claus Peter",male,41,2,0,350026,14.1083,S,?,100,25.04390020662485,1899.7498178338917
+3,0,"Hansen, Mr. Henrik Juul",male,26,1,0,350025,7.8542,S,?,100,26.907700346400876,4007.4605097531653
+3,0,"Hansen, Mr. Henry Damsgaard",male,21,0,0,350029,7.8542,S,?,100,16.34152954776855,679.8585260210644
+3,1,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45,1,0,350026,14.1083,S,?,100,29.999209407983557,7297.1354992353345
+,0,"Harknett, Miss. Alice Phoebe",female,?,0,0,W./C. 6609,7.55,S,?,100,19.198111861911716,4868.346281020005
+3,0,"Harmer, Mr. Abraham (David Lishin)",male,25,0,0,374887,7.25,S,?,100,32.96108578881427,9176.183522317502
+3,0,"Hart, Mr. Henry",male,?,0,0,394140,6.8583,Q,?,100,19.102792809640142,4809.948211774949
+3,0,"Hassan, Mr. Houssein G N",male,11,0,0,2699,18.7875,C,?,100,18.81375441327333,4848.827116851278
+3,1,"Healy, Miss. Hanora 'Nora'",female,?,0,0,370375,7.75,Q,?,100,15.730993356961898,11276.30138160825
+3,1,"Hedman, Mr. Oskar Arvid",male,27,0,0,347089,6.975,S,?,100,24.441338902199984,1198.071121686125
+3,1,"Hee, Mr. Ling",male,?,0,0,1601,56.4958,S,?,100,26.29682266525233,13591.977430283814
+3,0,"Hegarty, Miss. Hanora 'Nora'",female,18,0,0,365226,6.75,Q,?,100,16.31417278856705,12857.82617867213
+3,1,"Heikkinen, Miss. Laina",female,26,0,0,STON/O2. 3101282,7.925,S,?,100,30.51055233390021,10183.167906782894
+3,0,"Heininen, Miss. Wendla Maria",female,23,0,0,STON/O2. 3101290,7.925,S,?,100,24.06577669496055,9101.712766557072
+,1,"Hellstrom, Miss. Hilda Maria",female,22,0,0,7548,8.9625,S,?,100,25.48780539,13438.386223024958
+3,0,"Hendekovic, Mr. Ignjac",male,28,0,0,349243,7.8958,S,?,100,23.815254938764564,3187.2876031663595
+3,0,"Henriksson, Miss. Jenny Lovisa",female,28,0,0,347086,7.775,S,?,100,23.01526121750652,1645.0528517670148
+3,0,"Henry, Miss. Delia",female,?,0,0,382649,7.75,Q,?,100,26.19280662616436,3972.8974636883027
+3,1,"Hirvonen, Miss. Hildur E",female,2,0,1,3101298,12.2875,S,?,100,18.10480491861425,12021.385041152758
+3,1,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22,1,1,3101298,12.2875,S,?,100,18.63856260990542,1002.7188675340082
+3,0,"Holm, Mr. John Fredrik Alexander",male,43,0,0,C 7075,6.45,S,?,100,32.235712420270346,8950.699109
+3,0,"Holthen, Mr. Johan Martin",male,28,0,0,C 4001,22.525,S,?,100,33.922309242672654,14933.843984773994
+3,1,"Honkanen, Miss. Eliina",female,27,0,0,STON/O2. 3101283,7.925,S,?,100,22.46618632559506,12907.593360644321
+,0,"Horgan, Mr. John",male,?,0,0,370377,7.75,Q,?,10000,20.414893462871074,8060.962491132047
+3,1,"Howard, Miss. May Elizabeth",female,?,0,0,A. 2. 39186,8.05,S,?,100,27.879990864780314,1422.793184656314
+3,0,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42,0,0,348121,7.65,S,?,100,23.174683421961927,12554.915958592792
+3,1,"Hyman, Mr. Abraham",male,?,0,0,3470,7.8875,S,?,100,15.507727113206897,9185.188368569552
+3,0,"Ibrahim Shawah, Mr. Yousseff",male,30,0,0,2685,7.2292,C,?,100,18.12305194732381,2166.528457363719
+3,0,"Ilieff, Mr. Ylio",male,?,0,0,349220,7.8958,S,?,100,29.31944457694795,1860.9306299386649
+3,0,"Ilmakangas, Miss. Ida Livija",female,27,1,0,STON/O2. 3101270,7.925,S,?,100,28.178478838203027,13689.58888183059
+3,0,"Ilmakangas, Miss. Pieta Sofia",female,25,1,0,STON/O2. 3101271,7.925,S,?,100,15.54191985006967,10203.403812602137
+3,0,"Ivanoff, Mr. Kanio",male,?,0,0,349201,7.8958,S,?,100,19.43944323865899,12524.658590092955
+3,1,"Jalsevac, Mr. Ivan",male,29,0,0,349240,7.8958,C,?,100,19.621495931761427,13245.194054092875
+3,1,"Jansson, Mr. Carl Olof",male,21,0,0,350034,7.7958,S,?,100,28.43785487197457,8790.699104700672
+,0,"Jardin, Mr. Jose Neto",male,?,0,0,SOTON/O.Q. 3101305,7.05,S,?,100,15.394210755087283,8002.972100448099
+3,0,"Jensen, Mr. Hans Peder",male,20,0,0,350050,7.8542,S,?,100,17.082171639691477,6741.197449654358
+,0,"Jensen, Mr. Niels Peder",male,48,0,0,350047,7.8542,S,?,100,30.998321707463788,5095.725523
+3,0,"Jensen, Mr. Svend Lauritz",male,17,1,0,350048,7.0542,S,?,10000,18.570893241086672,6801.641432451321
+,1,"Jermyn, Miss. Annie",female,?,0,0,14313,7.75,Q,?,100,28.054922157037495,11721.255008087268
+3,1,"Johannesen-Bratthammer, Mr. Bernt",male,?,0,0,65306,8.1125,S,?,100,19.76365562093453,9227.889749719408
+,0,"Johanson, Mr. Jakob Alfred",male,34,0,0,3101264,6.4958,S,?,100,16.988827855186905,13441.587704345267
+3,1,"Johansson Palmquist, Mr. Oskar Leander",male,26,0,0,347070,7.775,S,?,100,19.863443819989083,6929.010208498222
+3,0,"Johansson, Mr. Erik",male,22,0,0,350052,7.7958,S,?,100,29.44533863711318,9302.798891421933
+,0,"Johansson, Mr. Gustaf Joel",male,,0,0,7540,8.6542,S,?,100,32.11392936212572,9653.959519833836
+3,0,"Johansson, Mr. Karl Johan",male,31,0,0,347063,7.775,S,?,100,31.604397291339833,9079.608853
+3,0,"Johansson, Mr. Nils",male,29,0,0,347467,7.8542,S,?,100,22.943670592369095,10688.189709739987
+3,1,"Johnson, Master. Harold Theodor",male,1050,1,1,347742,11.1333,S,?,100,28.361702731412922,3942.785291434691
+3,1,"Johnson, Miss. Eleanor Ileen",female,1,1,1,347742,11.1333,S,?,10000,19.09968590831642,7929.274774413964
+3,0,"Johnson, Mr. Alfred",male,49,0,0,LINE,0,S,?,100,20.862954605220267,2011.2596407210413
+3,0,"Johnson, Mr. Malkolm Joackim",male,33,0,0,347062,7.775,S,?,100,32.92671637,6075.414250849782
+3,0,"Johnson, Mr. William Cahoone Jr",male,19,0,0,LINE,0,S,?,100,15.26003847021472,7571.1724950083335
+3,1,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,,0,2,347742,11.1333,S,?,100,16.71017061708936,9957.251763409351
+3,0,"Johnston, Master. William Arthur 'Willie'",male,?,1,2,W./C. 6607,23.45,S,?,100,19.157725102920548,14282.700262499951
+3,0,"Johnston, Miss. Catherine Helen 'Carrie'",female,?,1,2,W./C. 6607,23.45,S,?,100,15.530644077476394,9209.440465
+3,0,"Johnston, Mr. Andrew G",male,?,1,2,W./C. 6607,23.45,S,?,100,18.628708701795947,11282.111784560117
+,0,"Johnston, Mrs. Andrew G (Elizabeth 'Lily' Watson)",female,?,1,2,W./C. 6607,23.45,S,?,100,26.66083121939384,7840.857863
+3,0,"Jonkoff, Mr. Lalio",male,23,0,0,349204,7.8958,S,?,100,23.42849101184996,9694.508454956804
+3,1,"Jonsson, Mr. Carl",male,32,0,0,350417,7.8542,S,?,100,32.853434221539494,1528.5171339397148
+3,0,"Jonsson, Mr. Nils Hilding",male,27,0,0,350408,7.8542,S,?,100,31.34887123476882,4188.677922206782
+3,0,"Jussila, Miss. Katriina",female,20,1,0,4136,9.825,S,?,100,21.83634703395752,5746.869851474511
+3,0,"Jussila, Miss. Mari Aina",female,21,1,0,4137,9.825,S,?,100,20.18846866862585,7351.153647594447
+3,1,"Jussila, Mr. Eiriik",male,,0,0,STON/O 2. 3101286,7.925,S,?,100,22.59384816334534,1161.906809784564
+3,0,"Kallio, Mr. Nikolai Erland",male,17,0,0,STON/O 2. 3101274,7.125,S,?,100,26.805898850296156,2530.3494145231066
+3,0,"Kalvik, Mr. Johannes Halvorsen",male,21,0,0,8475,8.4333,S,?,100,20.361272816457525,4513.807462973934
+3,0,"Karaic, Mr. Milan",male,30,0,0,349246,7.8958,S,?,100,27.482978156982682,14587.224018065235
+3,1,"Karlsson, Mr. Einar Gervasius",male,21,0,0,350053,7.7958,S,?,100,23.18823304382481,5304.531602994236
+3,0,"Karlsson, Mr. Julius Konrad Eugen",male,33,0,0,347465,7.8542,S,?,100,26.040943617039606,7489.595342625196
+3,0,"Karlsson, Mr. Nils August",male,22,0,0,350060,7.5208,S,?,100,23.722530582706334,3343.4168347066975
+3,1,"Karun, Miss. Manca",female,4,0,1,349256,13.4167,C,?,100,20.889315190838353,9356.311031
+3,1,"Karun, Mr. Franz",male,39,0,1,349256,13.4167,C,?,100,33.96906613924313,4569.906624981628
+3,0,"Kassem, Mr. Fared",male,?,0,0,2700,7.2292,C,?,100,30.272115883195216,3501.3923873571885
+3,0,"Katavelas, Mr. Vassilios ('Catavelas Vassilios')",male,18.5,0,0,2682,7.2292,C,?,100,17.802263515329052,7990.303112466697
+3,0,"Keane, Mr. Andrew 'Andy'",male,?,0,0,12460,7.75,Q,?,100,32.36935951795826,579.8340878
+,0,"Keefe, Mr. Arthur",male,?,0,0,323592,7.25,S,?,100,24.748623964990273,611.1284734137672
+3,1,"Kelly, Miss. Anna Katherine 'Annie Kate'",female,?,0,0,9234,7.75,Q,?,100,32.891044537881825,3676.4977319769378
+3,1,"Kelly, Miss. Mary",female,?,0,0,14312,7.75,Q,?,100,30.997105118946305,1032.4597562619065
+3,0,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,Q,?,100,23.50427008938467,2066.3734348950247
+3,0,"Kelly, Mr. James",male,44,0,0,363592,8.05,S,?,100,15.449386166402348,5413.479415411898
+3,1,"Kennedy, Mr. John",male,?,0,0,368783,7.75,Q,?,100,20.37354718769892,12137.492353907286
+3,0,"Khalil, Mr. Betros",male,,1,0,2660,14.4542,C,?,100,25.832684293217337,8794.705328854861
+,0,"Khalil, Mrs. Betros (Zahie 'Maria' Elias)",female,?,1,0,2660,14.4542,C,?,100,27.669564396522944,7933.682026368038
+3,0,"Kiernan, Mr. John",male,?,1,0,367227,7.75,Q,?,100,20.157753708664046,4755.587936517763
+,0,"Kiernan, Mr. Philip",male,?,1,0,367229,7.75,Q,?,10000,17.78712148145648,14010.428931775838
+3,0,"Kilgannon, Mr. Thomas J",male,?,0,0,36865,7.7375,Q,?,10000,31.69860473598598,6256.718097939279
+3,0,"Kink, Miss. Maria",female,22,2,0,315152,8.6625,S,?,100,34.68804361407104,1762.8451185386866
+3,0,"Kink, Mr. Vincenz",male,26,2,0,315151,8.6625,S,?,100,25.513803646053717,9447.464483708118
+3,1,"Kink-Heilmann, Miss. Luise Gretchen",female,4,0,2,315153,22.025,S,?,100,18.43358571696607,2150.6567054107204
+3,1,"Kink-Heilmann, Mr. Anton",male,29,3,1,315153,22.025,S,?,100,20.44614653038738,5505.735570624535
+3,1,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26,1,1,315153,22.025,S,?,100,15.367813530949334,7857.473111408229
+3,0,"Klasen, Miss. Gertrud Emilia",female,1,1,1,350405,12.1833,S,?,100,33.28597613120998,13176.226607935048
+3,0,"Klasen, Mr. Klas Albin",male,18,1,1,350404,7.8542,S,?,100,17.355021657802823,7656.425415
+3,0,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36,0,2,350405,12.1833,S,?,100,26.53032951028507,10682.752107459131
+3,0,"Kraeff, Mr. Theodor",male,?,0,0,349253,7.8958,C,?,10000,20.48110441374412,14895.84416548652
+3,1,"Krekorian, Mr. Neshan",male,25,0,0,2654,7.2292,C,?,100,26.083560050315867,2406.5922385207336
+3,0,"Lahoud, Mr. Sarkis",male,?,0,0,2624,7.225,C,?,100,28.028407767037283,4483.6071200330325
+3,0,"Laitinen, Miss. Kristina Sofia",female,37,0,0,4135,9.5875,S,?,100,31.594836074144034,6221.353096165873
+3,0,"Laleff, Mr. Kristo",male,?,0,0,349217,7.8958,S,?,100,19.128425435212066,6616.508588813055
+3,1,"Lam, Mr. Ali",male,?,0,0,1601,56.4958,S,?,10000,15.219916573169609,6459.805591350414
+3,0,"Lam, Mr. Len",male,?,0,0,1601,56.4958,S,?,100,17.737712601376145,13660.359537070046
+3,1,"Landergren, Miss. Aurora Adelia",female,22,0,0,C 7077,7.25,S,?,100,33.00037284,10853.473344769418
+3,0,"Lane, Mr. Patrick",male,?,0,0,7935,7.75,Q,?,100,32.47780155,9314.625604315204
+3,1,"Lang, Mr. Fang",male,26,0,0,1601,56.4958,S,?,100,26.948262043406167,4985.904409010341
+3,0,"Larsson, Mr. August Viktor",male,29,0,0,7545,9.4833,S,?,100,27.010337208673068,12444.960571208772
+3,0,"Larsson, Mr. Bengt Edvin",male,29,0,0,347067,7.775,S,?,100,28.30073349092511,14348.37741653234
+,0,"Larsson-Rondberg, Mr. Edvard A",male,22,0,0,347065,7.775,S,?,100,18.507425572468993,12407.375096978285
+3,1,"Leeni, Mr. Fahim ('Philip Zenni')",male,,0,0,2620,7.225,C,?,100,33.28823892,522.6940252763571
+3,0,"Lefebre, Master. Henry Forbes",male,?,3,1,4133,25.4667,S,?,100,23.37541049784146,9727.819867659402
+3,0,"Lefebre, Miss. Ida",female,?,3,1,4133,25.4667,S,?,100,22.66277056498995,1241.4630309104605
+3,0,"Lefebre, Miss. Jeannie",female,?,3,1,4133,25.4667,S,?,100,25.37835410565675,4235.3046948389665
+,0,"Lefebre, Miss. Mathilde",female,?,3,1,4133,25.4667,S,?,100,15.93931934,1363.1081550426895
+3,0,"Lefebre, Mrs. Frank (Frances)",female,?,0,4,4133,25.4667,S,?,10000,18.32566737512159,9255.034067766122
+3,0,"Leinonen, Mr. Antti Gustaf",male,32,0,0,STON/O 2. 3101292,7.925,S,?,100,29.76067232852741,10455.55375
+3,0,"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,6.4375,C,?,100,16.65597335850253,2160.070751955624
+3,0,"Lennon, Miss. Mary",female,?,1,0,370371,15.5,Q,?,100,27.063042189327764,6065.663804152203
+3,0,"Lennon, Mr. Denis",male,1050,1,0,370371,15.5,Q,?,100,19.90698219362642,7115.429379855359
+3,0,"Leonard, Mr. Lionel",male,36,0,0,LINE,0,S,?,100,22.785912280839533,5851.268815533291
+3,0,"Lester, Mr. James",male,39,0,0,A/4 48871,24.15,S,?,100,20.773874735413997,2254.862507035299
+3,0,"Lievens, Mr. Rene Aime",male,24,0,0,345781,9.5,S,?,100,22.113454329298982,6574.742957718394
+3,0,"Lindahl, Miss. Agda Thorilda Viktoria",female,25,0,0,347071,7.775,S,?,100,29.38091810368491,11392.081693222062
+3,0,"Lindblom, Miss. Augusta Charlotta",female,45,0,0,347073,7.75,S,?,100,20.94243431,1529.6111357322043
+3,0,"Lindell, Mr. Edvard Bengtsson",male,36,1,0,349910,15.55,S,?,100,26.328092805937942,1662.610204
+3,0,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,,1,0,349910,15.55,S,?,100,24.521008043981993,5644.183731621771
+3,1,"Lindqvist, Mr. Eino William",male,20,1,0,STON/O 2. 3101285,7.925,S,?,100,28.273423307252962,14155.022818474414
+3,0,"Linehan, Mr. Michael",male,,0,0,330971,7.8792,Q,?,100,33.73659478649516,10194.303377482254
+3,0,"Ling, Mr. Lee",male,28,0,0,1601,56.4958,S,?,100,29.651441944205004,10340.71437175219
+3,0,"Lithman, Mr. Simon",male,?,0,0,S.O./P.P. 251,7.55,S,?,100,19.298807571815136,5747.839867149042
+3,0,"Lobb, Mr. William Arthur",male,30,1,0,A/5. 3336,16.1,S,?,100,15.623662701225694,9108.081472523807
+3,0,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,1050,1,0,A/5. 3336,16.1,S,?,100,20.24528089,646.9021684
+3,0,"Lockyer, Mr. Edward",male,,0,0,1222,7.8792,S,?,100,26.901558614005097,9723.392672938362
+3,0,"Lovell, Mr. John Hall ('Henry')",male,1050,0,0,A/5 21173,7.25,S,?,100,16.028516269685007,13742.660739855433
+3,1,"Lulic, Mr. Nikola",male,27,0,0,315098,8.6625,S,?,100,24.927324944024726,9382.315290999879
+3,0,"Lundahl, Mr. Johan Svensson",male,,0,0,347743,7.0542,S,?,100,26.936856978337783,13168.629605262004
+3,1,"Lundin, Miss. Olga Elida",female,23,0,0,347469,7.8542,S,?,100,21.684877816339217,10997.60930425836
+3,1,"Lundstrom, Mr. Thure Edvin",male,32,0,0,350403,7.5792,S,?,100,30.418244074916437,2248.0970378535085
+3,0,"Lyntakoff, Mr. Stanko",male,?,0,0,349235,7.8958,S,?,100,17.131965062675437,13585.572955644706
+3,0,"MacKay, Mr. George William",male,?,0,0,C.A. 42795,7.55,S,?,100,16.502755634716173,1463.4357431587357
+,1,"Madigan, Miss. Margaret 'Maggie'",female,?,0,0,370370,7.75,Q,?,100,29.563775124072066,8242.528351942574
+,1,"Madsen, Mr. Fridtjof Arne",male,,0,0,C 17369,7.1417,S,?,100,24.90982632412397,2560.988295005136
+3,0,"Maenpaa, Mr. Matti Alexanteri",male,22,0,0,STON/O 2. 3101275,7.125,S,?,100,28.768047928554722,669.7458556
+3,0,"Mahon, Miss. Bridget Delia",female,?,0,0,330924,7.8792,Q,?,100,23.696546772074925,6619.496771850766
+,0,"Mahon, Mr. John",male,,0,0,AQ/4 3130,7.75,Q,?,100,19.928040664782138,4778.090260985266
+3,0,"Maisner, Mr. Simon",male,?,0,0,A/S 2816,8.05,S,?,100,31.382046353483993,7547.007160065244
+,0,"Makinen, Mr. Kalle Edvard",male,29,0,0,STON/O 2. 3101268,7.925,S,?,100,30.988317579379586,8869.398357650987
+3,1,"Mamee, Mr. Hanna",male,,0,0,2677,7.2292,C,?,100,28.893929417088536,1134.2165484797367
+,0,"Mangan, Miss. Mary",female,30.5,0,0,364850,7.75,Q,?,100,20.442902744599255,2283.5477792943116
+3,1,"Mannion, Miss. Margareth",female,?,0,0,36866,7.7375,Q,?,100,26.804613337381742,8600.314748531167
+3,0,"Mardirosian, Mr. Sarkis",male,,0,0,2655,7.2292,C,?,100,22.219477938800537,5475.926621003544
+3,0,"Markoff, Mr. Marin",male,35,0,0,349213,7.8958,C,?,100,16.831641466532684,11073.015569466996
+3,0,"Markun, Mr. Johann",male,,0,0,349257,7.8958,S,?,100,33.34627150924486,9958.228904583126
+3,1,"Masselmani, Mrs. Fatima",female,?,0,0,2649,7.225,C,?,100,17.736372618379228,12761.263263353649
+3,0,"Matinoff, Mr. Nicola",male,?,0,0,349255,7.8958,C,?,100,34.00474707641605,10541.145986703767
+3,1,"McCarthy, Miss. Catherine 'Katie'",female,?,0,0,383123,7.75,Q,?,10000,23.920115459159113,6734.0006221571475
+3,1,"McCormack, Mr. Thomas Joseph",male,?,0,0,367228,7.75,Q,?,100,18.702658576772393,10258.016024719269
+3,1,"McCoy, Miss. Agnes",female,?,2,0,367226,23.25,Q,?,10000,25.838018947567164,4493.0270267035685
+3,1,"McCoy, Miss. Alicia",female,?,2,0,367226,23.25,Q,?,100,32.45891671752817,4941.545732284084
+3,1,"McCoy, Mr. Bernard",male,?,2,0,367226,23.25,Q,?,100,29.644497728191222,11940.284818851504
+3,1,"McDermott, Miss. Brigdet Delia",female,?,0,0,330932,7.7875,Q,?,100,31.131222957228996,6973.0829878229415
+3,0,"McEvoy, Mr. Michael",male,?,0,0,36568,15.5,Q,?,100,28.175667334214346,12076.51493751611
+3,1,"McGovern, Miss. Mary",female,?,0,0,330931,7.8792,Q,?,100,28.845531290357048,12425.124418190037
+3,1,"McGowan, Miss. Anna 'Annie'",female,1050,0,0,330923,8.0292,Q,?,10000,31.983913031306386,12934.653896088614
+3,0,"McGowan, Miss. Katherine",female,35,0,0,9232,7.75,Q,?,100,19.993360177183717,13791.210919697505
+3,0,"McMahon, Mr. Martin",male,,0,0,370372,7.75,Q,?,100,24.788499272862808,6749.285697442796
+3,0,"McNamee, Mr. Neal",male,24,1,0,376566,16.1,S,?,100,19.424188836392045,5123.5688656565135
+3,0,"McNamee, Mrs. Neal (Eileen O'Leary)",female,1050,1,0,376566,16.1,S,?,10000,34.75336015993294,8941.881825614651
+3,0,"McNeill, Miss. Bridget",female,?,0,0,370368,7.75,Q,?,100,33.88118679373227,5882.00014
+3,0,"Meanwell, Miss. (Marion Ogden)",female,?,0,0,SOTON/O.Q. 392087,8.05,S,?,100,15.788536227370118,9215.575418603377
+3,0,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,?,0,0,343095,8.05,S,?,100,29.11150345031377,10730.995008335456
+3,0,"Meo, Mr. Alfonzo",male,,0,0,A.5. 11206,8.05,S,?,100,33.50496634831332,10481.872768135985
+,0,"Mernagh, Mr. Robert",male,?,0,0,368703,7.75,Q,?,100,18.611506902546672,5931.016862
+3,1,"Midtsjo, Mr. Karl Albert",male,21,0,0,345501,7.775,S,?,100,26.35890461105259,2919.4729246319157
+3,0,"Miles, Mr. Frank",male,?,0,0,359306,8.05,S,?,100,33.30976595176084,6742.675408
+3,0,"Mineff, Mr. Ivan",male,24,0,0,349233,7.8958,S,?,100,15.678919571715976,2567.615089187677
+3,0,"Minkoff, Mr. Lazar",male,21,0,0,349211,7.8958,S,?,100,28.94840534,13406.407010165221
+3,0,"Mionoff, Mr. Stoytcho",male,28,0,0,349207,7.8958,S,?,100,20.946980147451015,5515.223180698932
+3,0,"Mitkoff, Mr. Mito",male,?,0,0,349221,7.8958,S,?,100,33.48792390753061,2739.666334738195
+3,1,"Mockler, Miss. Helen Mary 'Ellie'",female,?,0,0,330980,7.8792,Q,?,100,34.42116490330736,868.9925186333877
+3,0,"Moen, Mr. Sigurd Hansen",male,25,0,0,348123,7.65,S,?,100,33.88532978226868,9864.424601154022
+3,1,"Moor, Master. Meier",male,6,0,1,392096,12.475,S,?,10000,24.484284333149276,9735.083603093777
+3,1,"Moor, Mrs. (Beila)",female,27,0,1,392096,12.475,S,?,100,32.24085301978627,5438.760415428729
+3,0,"Moore, Mr. Leonard Charles",male,?,0,0,A4. 54510,8.05,S,?,100,31.890987970701406,1539.8223882909397
+3,1,"Moran, Miss. Bertha",female,?,1,0,371110,24.15,Q,?,100,21.382009464865114,6439.618975980864
+,0,"Moran, Mr. Daniel J",male,?,1,0,371110,24.15,Q,?,100,31.57830948301355,5012.653678419207
+3,0,"Moran, Mr. James",male,?,0,0,330877,8.4583,Q,?,100,15.740152694309852,10318.249276157636
+3,0,"Morley, Mr. William",male,34,0,0,364506,8.05,S,?,100,26.92539756964106,9283.799117
+3,0,"Morrow, Mr. Thomas Rowan",male,?,0,0,372622,7.75,Q,?,100,19.600176745754062,5786.609059
+3,1,"Moss, Mr. Albert Johan",male,,0,0,312991,7.775,S,?,100,17.411337715545578,3659.4420366973563
+3,1,"Moubarek, Master. Gerios",male,?,1,1,2661,15.2458,C,?,100,16.539064032584182,14826.521509256081
+3,1,"Moubarek, Master. Halim Gonios ('William George')",male,?,1,1,2661,15.2458,C,?,100,28.925775517562794,7083.023507343665
+3,1,"Moubarek, Mrs. George (Omine 'Amenia' Alexander)",female,?,0,2,2661,15.2458,C,?,100,21.79749927536132,10479.976418813438
+3,1,"Moussa, Mrs. (Mantoura Boulos)",female,?,0,0,2626,7.2292,C,?,100,29.495335430575228,2538.0180298862315
+,0,"Moutal, Mr. Rahamin Haim",male,?,0,0,374746,8.05,S,?,100,16.307126815978847,7541.050645061268
+3,1,"Mullens, Miss. Katherine 'Katie'",female,?,0,0,35852,7.7333,Q,?,10000,21.305806756612206,899.2824381072495
+3,1,"Mulvihill, Miss. Bertha E",female,24,0,0,382653,7.75,Q,?,100,25.789825847506744,7829.099209701524
+3,0,"Murdlin, Mr. Joseph",male,?,0,0,A./5. 3235,8.05,S,?,100,30.81446329677927,14478.252403206683
+,1,"Murphy, Miss. Katherine 'Kate'",female,?,1,0,367230,15.5,Q,?,100,21.37505006,6070.997338294103
+3,1,"Murphy, Miss. Margaret Jane",female,?,1,0,367230,15.5,Q,?,100,27.51782752874018,1065.442182336218
+3,1,"Murphy, Miss. Nora",female,?,0,0,36568,15.5,Q,?,100,32.71955496472374,948.8589683304812
+3,0,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18,0,0,347078,7.75,S,?,100,27.317263763646093,6125.808019229607
+3,0,"Naidenoff, Mr. Penko",male,22,0,0,349206,7.8958,S,?,100,19.659189495072674,2820.3615787163135
+3,1,"Najib, Miss. Adele Kiamie 'Jane'",female,15,0,0,2667,7.225,C,?,100,15.48801563113076,838.6053967586957
+3,1,"Nakid, Miss. Maria ('Mary')",female,1,0,2,2653,15.7417,C,?,100,32.401977478018594,11465.097402277564
+3,1,"Nakid, Mr. Sahid",male,20,1,1,2653,15.7417,C,?,100,15.425388217007743,7148.583628787414
+3,1,"Nakid, Mrs. Said (Waika 'Mary' Mowad)",female,19,1,1,2653,15.7417,C,?,100,32.49403345368399,4694.0491936034905
+3,0,"Nancarrow, Mr. William Henry",male,33,0,0,A./5. 3338,8.05,S,?,100,25.578742680544238,13551.20615373897
+3,0,"Nankoff, Mr. Minko",male,?,0,0,349218,7.8958,S,?,100,33.781353970257925,2184.0149229076214
+3,0,"Nasr, Mr. Mustafa",male,?,0,0,2652,7.2292,C,?,100,30.975664715473307,14360.823019852129
+3,0,"Naughton, Miss. Hannah",female,?,0,0,365237,7.75,Q,?,100,34.95868221066675,5052.517401971616
+3,0,"Nenkoff, Mr. Christo",male,1050,0,0,349234,7.8958,S,?,100,22.014236309034203,13381.853248475878
+,1,"Nicola-Yarred, Master. Elias",male,12,1,0,2651,11.2417,C,?,100,30.343765778622537,9242.671708952192
+3,1,"Nicola-Yarred, Miss. Jamila",female,14,1,0,2651,11.2417,C,?,100,23.03861827218484,12487.256716251568
+3,0,"Nieminen, Miss. Manta Josefina",female,29,0,0,3101297,7.925,S,?,100,24.597512406078177,14768.190866551731
+3,0,"Niklasson, Mr. Samuel",male,28,0,0,363611,8.05,S,?,100,27.55010926,4681.878848371813
+3,1,"Nilsson, Miss. Berta Olivia",female,18,0,0,347066,7.775,S,?,100,32.47354228372677,14436.464538410099
+3,1,"Nilsson, Miss. Helmina Josefina",female,26,0,0,347470,7.8542,S,?,100,34.681669383985906,6147.487476085095
+3,0,"Nilsson, Mr. August Ferdinand",male,21,0,0,350410,7.8542,S,?,100,30.365468277290365,6089.922618685374
+3,0,"Nirva, Mr. Iisakki Antino Aijo",male,41,0,0,SOTON/O2 3101272,7.125,S,"Finland Sudbury, ON",100,23.355335643346674,5435.613011690332
+3,1,"Niskanen, Mr. Juha",male,39,0,0,STON/O 2. 3101289,7.925,S,?,100,23.427140045541403,8350.410306539985
+3,0,"Nosworthy, Mr. Richard Cater",male,1050,0,0,A/4. 39886,7.8,S,?,100,29.75164603177783,2735.1031260880627
+3,0,"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,C,?,100,19.775542915366046,8528.816537691162
+3,1,"Nysten, Miss. Anna Sofia",female,1050,0,0,347081,7.75,S,?,100,17.209482262627894,8354.719779945059
+,0,"Nysveen, Mr. Johan Hansen",male,,0,0,345364,6.2375,S,?,100,22.09244315281553,11547.576282770615
+3,0,"O'Brien, Mr. Thomas",male,?,1,0,370365,15.5,Q,?,100,20.744779833081633,12587.924448094991
+3,0,"O'Brien, Mr. Timothy",male,?,0,0,330979,7.8292,Q,?,100,20.92616241,6886.399579530149
+3,1,"O'Brien, Mrs. Thomas (Johanna 'Hannah' Godfrey)",female,,1,0,370365,15.5,Q,?,100,19.672155020998197,4883.832116
+3,0,"O'Connell, Mr. Patrick D",male,?,0,0,334912,7.7333,Q,?,100,15.841863792727239,4260.356011
+3,0,"O'Connor, Mr. Maurice",male,?,0,0,371060,7.75,Q,?,100,15.357478694668277,3322.0456322206433
+3,0,"O'Connor, Mr. Patrick",male,,0,0,366713,7.75,Q,?,100,34.75444779472063,1335.8899418858607
+3,0,"Odahl, Mr. Nils Martin",male,23,0,0,7267,9.225,S,?,100,23.555462674717248,5465.495693103343
+3,0,"O'Donoghue, Ms. Bridget",female,?,0,0,364856,7.75,Q,?,100,22.686532943193633,4418.5915358963575
+3,1,"O'Driscoll, Miss. Bridget",female,?,0,0,14311,7.75,Q,?,10000,28.592945653861396,14513.052095062907
+3,1,"O'Dwyer, Miss. Ellen 'Nellie'",female,?,0,0,330959,7.8792,Q,?,100,19.365077757301282,8586.777980625637
+,1,"Ohman, Miss. Velin",female,22,0,0,347085,7.775,S,?,100,33.99922367900451,5535.517065942359
+3,1,"O'Keefe, Mr. Patrick",male,?,0,0,368402,7.75,Q,?,100,30.72690028831104,8916.780214408593
+3,1,"O'Leary, Miss. Hanora 'Norah'",female,?,0,0,330919,7.8292,Q,?,100,16.78822004624519,2518.3521695125846
+,1,"Olsen, Master. Artur Karl",male,9,0,1,C 17368,3.1708,S,?,100,23.35161551569857,6938.634363431942
+3,0,"Olsen, Mr. Henry Margido",male,28,0,0,C 4001,22.525,S,?,100,32.58236615124329,9580.397660605426
+,0,"Olsen, Mr. Karl Siegwart Andreas",male,42,0,1,4579,8.4042,S,?,100,33.89464044582821,7589.018560990545
+3,0,"Olsen, Mr. Ole Martin",male,,0,0,Fa 265302,7.3125,S,?,100,24.348030224997395,6325.792609487702
+3,0,"Olsson, Miss. Elina",female,31,0,0,350407,7.8542,S,?,10000,27.268227784214154,14910.801639045623
+3,0,"Olsson, Mr. Nils Johan Goransson",male,28,0,0,347464,7.8542,S,?,100,18.340678921841505,13264.564051159441
+,1,"Olsson, Mr. Oscar Wilhelm",male,32,0,0,347079,7.775,S,?,100,34.82337252273953,9539.386393311881
+3,0,"Olsvigen, Mr. Thor Anderson",male,20,0,0,6563,9.225,S,"Oslo, Norway Cameron, WI",100,19.63343402766887,8755.971737
+3,0,"Oreskovic, Miss. Jelka",female,23,0,0,315085,8.6625,S,?,100,33.85463548270251,9499.576957
+3,0,"Oreskovic, Miss. Marija",female,20,0,0,315096,8.6625,S,?,100,27.992932979847367,3419.025563425282
+3,0,"Oreskovic, Mr. Luka",male,20,0,0,315094,8.6625,S,?,100,27.154735897577183,6229.497277
+3,0,"Osen, Mr. Olaf Elon",male,16,0,0,7534,9.2167,S,?,10000,25.25377022033017,1072.1632269180402
+,1,"Osman, Mrs. Mara",female,31,0,0,349244,8.6833,S,?,100,19.613396234355175,7395.417543558987
+3,0,"O'Sullivan, Miss. Bridget Mary",female,?,0,0,330909,7.6292,Q,?,100,18.530560640110167,8373.856467386116
+3,0,"Palsson, Master. Gosta Leonard",male,2,3,1,349909,21.075,S,?,100,19.409724181403508,3802.371173496539
+3,0,"Palsson, Master. Paul Folke",male,,3,1,349909,21.075,S,?,100,18.72876524288509,14478.41828389995
+3,0,"Palsson, Miss. Stina Viola",female,3,3,1,349909,21.075,S,?,100,30.591689471335066,13687.091858590009
+3,0,"Palsson, Miss. Torborg Danira",female,8,3,1,349909,21.075,S,?,100,22.002505183334602,10971.076914110636
+3,0,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,1050,0,4,349909,21.075,S,?,100,16.156853531267927,8234.106117097757
+3,0,"Panula, Master. Eino Viljami",male,1,4,1,3101295,39.6875,S,?,100,34.38205260281622,13114.552814891433
+3,0,"Panula, Master. Juha Niilo",male,7,4,1,3101295,39.6875,S,?,100,32.67571769926852,2394.458985440212
+3,0,"Panula, Master. Urho Abraham",male,,4,1,3101295,39.6875,S,?,100,33.55504566390426,11962.392016985832
+3,0,"Panula, Mr. Ernesti Arvid",male,,4,1,3101295,39.6875,S,?,100,34.89815645,2309.9018025193004
+3,0,"Panula, Mr. Jaako Arnold",male,14,4,1,3101295,39.6875,S,?,100,18.477904984389745,12016.054606966378
+3,0,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41,0,5,3101295,39.6875,S,?,100,22.924840378053176,4498.629739644676
+3,0,"Pasic, Mr. Jakob",male,21,0,0,315097,8.6625,S,?,100,30.164769514081826,13217.813424763739
+3,0,"Patchett, Mr. George",male,19,0,0,358585,14.5,S,?,100,28.920412361075844,14188.610360468268
+,0,"Paulner, Mr. Uscher",male,?,0,0,3411,8.7125,C,?,100,18.07791813,2657.5415563741767
+3,0,"Pavlovic, Mr. Stefo",male,32,0,0,349242,7.8958,S,?,100,31.316662499812356,7208.796273448206
+3,0,"Peacock, Master. Alfred Edward",male,0.75,1,1,SOTON/O.Q. 3101315,13.775,S,?,10000,19.488811436733215,14724.316983358935
+3,0,"Peacock, Miss. Treasteall",female,3,1,1,SOTON/O.Q. 3101315,13.775,S,?,100,19.47635229645246,7509.407821610626
+3,0,"Peacock, Mrs. Benjamin (Edith Nile)",female,26,0,2,SOTON/O.Q. 3101315,13.775,S,?,100,25.739488457868273,13021.439076460905
+,0,"Pearce, Mr. Ernest",male,?,0,0,343271,7,S,?,100,26.858798696834064,9036.607070904138
+3,0,"Pedersen, Mr. Olaf",male,?,0,0,345498,7.775,S,?,100,26.601724156756223,5942.283664834227
+,0,"Peduzzi, Mr. Joseph",male,?,0,0,A/5 2817,8.05,S,?,100,16.829736747955096,4643.861555125118
+,0,"Pekoniemi, Mr. Edvard",male,1050,0,0,STON/O 2. 3101294,7.925,S,?,100,32.549217252607605,3446.7348207482655
+3,0,"Peltomaki, Mr. Nikolai Johannes",male,,0,0,STON/O 2. 3101291,7.925,S,?,100,20.312000851774123,11546.07377497661
+3,0,"Perkin, Mr. John Henry",male,22,0,0,A/5 21174,7.25,S,?,100,17.590298425656083,6104.837348933904
+3,1,"Persson, Mr. Ernst Ulrik",male,25,1,0,347083,7.775,S,?,100,32.774961597379544,7913.494201910892
+3,1,"Peter, Master. Michael J",male,?,1,1,2668,22.3583,C,?,100,34.113029964595064,7638.719460017138
+3,1,"Peter, Miss. Anna",female,?,1,1,2668,22.3583,C,?,100,32.242552345309015,8870.545923880403
+3,1,"Peter, Mrs. Catherine (Catherine Rizk)",female,?,0,2,2668,22.3583,C,?,100,31.19032149449756,13050.868611556007
+3,0,"Peters, Miss. Katie",female,?,0,0,330935,8.1375,Q,?,100,28.104839612780435,14720.720481959726
+3,0,"Petersen, Mr. Marius",male,24,0,0,342441,8.05,S,?,100,26.017147412182787,6409.971024320345
+3,0,"Petranec, Miss. Matilda",female,28,0,0,349245,7.8958,S,?,100,16.739735198228203,12499.024370541394
+3,0,"Petroff, Mr. Nedelio",male,19,0,0,349212,7.8958,S,?,100,23.169064261413975,11585.653022493407
+3,0,"Petroff, Mr. Pastcho ('Pentcho')",male,,0,0,349215,7.8958,S,?,100,22.45377034024628,8816.169796105813
+3,0,"Petterson, Mr. Johan Emil",male,25,1,0,347076,7.775,S,?,100,20.195075675206525,14362.68358237303
+3,0,"Pettersson, Miss. Ellen Natalia",female,18,0,0,347087,7.775,S,?,100,29.468402273771698,3406.8804751618404
+3,1,"Pickard, Mr. Berk (Berk Trembisky)",male,32,0,0,SOTON/O.Q. 392078,8.05,S,?,100,24.917514701575417,2084.3310494895104
+3,0,"Plotcharsky, Mr. Vasil",male,?,0,0,349227,7.8958,S,?,100,16.62092431815296,12882.44852085362
+3,0,"Pokrnic, Mr. Mate",male,17,0,0,315095,8.6625,S,?,100,19.403664038996226,6867.672341
+3,0,"Pokrnic, Mr. Tome",male,24,0,0,315092,8.6625,S,?,100,28.66517527319192,12781.048386002376
+3,0,"Radeff, Mr. Alexander",male,?,0,0,349223,7.8958,S,?,100,16.522617189806002,13449.807975333517
+3,0,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,?,0,0,65305,8.1125,S,?,100,32.02413828097537,1405.635107476536
+,0,"Razi, Mr. Raihed",male,?,0,0,2629,7.2292,C,?,100,24.902930540279485,13310.23906329788
+3,0,"Reed, Mr. James George",male,,0,0,362316,7.25,S,?,100,24.61173154653296,7000.626302856622
+3,0,"Rekic, Mr. Tido",male,38,0,0,349249,7.8958,S,?,100,26.848155693190353,7901.271090561367
+3,0,"Reynolds, Mr. Harold J",male,21,0,0,342684,8.05,S,?,100,31.493619318502983,9585.591410851548
+3,0,"Rice, Master. Albert",male,1050,4,1,382652,29.125,Q,?,100,21.95618415804386,13932.547797586258
+3,0,"Rice, Master. Arthur",male,4,4,1,382652,29.125,Q,?,100,28.56032305118127,777.1833692315785
+3,0,"Rice, Master. Eric",male,7,4,1,382652,29.125,Q,?,10000,26.31463927991582,7414.230290608348
+3,0,"Rice, Master. Eugene",male,2,4,1,382652,29.125,Q,?,100,20.340565403388425,10471.96961524313
+3,0,"Rice, Master. George Hugh",male,8,4,1,382652,29.125,Q,?,100,32.57259972710316,10979.250886624313
+,0,"Rice, Mrs. William (Margaret Norton)",female,39,0,5,382652,29.125,Q,?,100,30.94852043213856,10541.720257288065
+3,0,"Riihivouri, Miss. Susanna Juhantytar 'Sanni'",female,,0,0,3101295,39.6875,S,?,100,28.16903669316851,2449.309376417767
+3,0,"Rintamaki, Mr. Matti",male,35,0,0,STON/O 2. 3101273,7.125,S,?,100,32.011634581884834,4841.236031389378
+3,1,"Riordan, Miss. Johanna 'Hannah'",female,1050,0,0,334915,7.7208,Q,?,100,32.34588401919605,5701.375118546695
+,0,"Risien, Mr. Samuel Beard",male,?,0,0,364498,14.5,S,?,100,29.167259534300698,12164.339511352822
+3,0,"Risien, Mrs. Samuel (Emma)",female,?,0,0,364498,14.5,S,?,100,31.74026656727344,4542.018150011018
+,0,"Robins, Mr. Alexander A",male,50,1,0,A/5. 3337,14.5,S,?,100,28.949429233385672,3555.221976074446
+3,0,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47,1,0,A/5. 3337,14.5,S,?,100,28.602815435206008,14382.996276052394
+3,0,"Rogers, Mr. William John",male,?,0,0,S.C./A.4. 23567,8.05,S,?,100,27.372227564303685,628.5176341452991
+3,0,"Rommetvedt, Mr. Knud Paust",male,?,0,0,312993,7.775,S,?,100,30.054332791152824,14968.402407388683
+,0,"Rosblom, Miss. Salli Helena",female,2,1,1,370129,20.2125,S,?,100,18.172102105861473,10313.908833432237
+3,0,"Rosblom, Mr. Viktor Richard",male,18,1,1,370129,20.2125,S,?,100,32.617415183978565,12512.804842012198
+3,0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41,0,2,370129,20.2125,S,?,100,32.43687055490464,4771.981247019801
+3,1,"Roth, Miss. Sarah A",female,?,0,0,342712,8.05,S,?,100,15.584945660691183,707.5715261723697
+3,0,"Rouse, Mr. Richard Henry",male,50,0,0,A/5 3594,8.05,S,?,100,31.516335011295254,11199.108019142186
+3,0,"Rush, Mr. Alfred George John",male,1050,0,0,A/4. 20589,8.05,S,?,100,17.577397349468903,12595.096656509799
+3,1,"Ryan, Mr. Edward",male,?,0,0,383162,7.75,Q,?,100,21.70237708518284,11236.903913326027
+3,0,"Ryan, Mr. Patrick",male,?,0,0,371110,24.15,Q,?,100,29.870165125832155,2571.3291658621597
+3,0,"Saad, Mr. Amin",male,?,0,0,2671,7.2292,C,?,100,18.215197920966165,11424.704872726052
+3,0,"Saad, Mr. Khalil",male,25,0,0,2672,7.225,C,?,100,31.359340482381242,11649.380340560794
+3,0,"Saade, Mr. Jean Nassr",male,?,0,0,2676,7.225,C,?,100,31.64268355915484,10048.837477215797
+3,0,"Sadlier, Mr. Matthew",male,,0,0,367655,7.7292,Q,?,100,25.149354675216724,11608.68103
+3,0,"Sadowitz, Mr. Harry",male,?,0,0,LP 1588,7.575,S,?,100,15.127717434336672,12765.860875327116
+3,0,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,S,?,100,20.740762663498256,9397.259656443148
+3,0,"Sage, Master. Thomas Henry",male,1050,8,2,CA. 2343,69.55,S,?,100,27.338538367514843,1784.7683525603463
+,0,"Sage, Master. William Henry",male,14.5,8,2,CA. 2343,69.55,S,?,100,34.62372356054847,7570.603240174558
+3,0,"Sage, Miss. Ada",female,?,8,2,CA. 2343,69.55,S,?,100,27.636270540333367,1625.9153527382734
+3,0,"Sage, Miss. Constance Gladys",female,?,8,2,CA. 2343,69.55,S,?,100,20.196071621283195,6409.373949970247
+,0,"Sage, Miss. Dorothy Edith 'Dolly'",female,?,8,2,CA. 2343,69.55,S,?,100,27.680114061992228,6403.044092321601
+3,0,"Sage, Miss. Stella Anna",female,?,8,2,CA. 2343,69.55,S,?,100,25.79970759431711,1457.1427400335028
+3,0,"Sage, Mr. Douglas Bullen",male,?,8,2,CA. 2343,69.55,S,?,100,30.59690790302287,5557.897743
+3,0,"Sage, Mr. Frederick",male,?,8,2,CA. 2343,69.55,S,?,100,17.139612776539167,2109.472432474065
+3,0,"Sage, Mr. George John Jr",male,?,8,2,CA. 2343,69.55,S,?,10000,30.22055805004056,12219.410545133722
+3,0,"Sage, Mr. John George",male,?,1,9,CA. 2343,69.55,S,?,100,25.825331573522206,14241.476376484827
+3,0,"Sage, Mrs. John (Annie Bullen)",female,,1,9,CA. 2343,69.55,S,?,100,34.259840077179895,1548.588891
+3,0,"Salander, Mr. Karl Johan",male,24,0,0,7266,9.325,S,?,100,21.837443320773723,14349.170505729671
+3,1,"Salkjelsvik, Miss. Anna Kristine",female,21,0,0,343120,7.65,S,?,100,27.652437862678962,8077.360690382805
+3,0,"Salonen, Mr. Johan Werner",male,39,0,0,3101296,7.925,S,?,100,33.64056211020035,4843.702330331172
+3,0,"Samaan, Mr. Elias",male,?,2,0,2662,21.6792,C,?,100,17.050194559813583,1614.5000915043709
+3,0,"Samaan, Mr. Hanna",male,?,2,0,2662,21.6792,C,?,100,33.74456974472902,7759.051887021058
+3,0,"Samaan, Mr. Youssef",male,?,2,0,2662,21.6792,C,?,100,28.757714446016266,12020.475395115856
+3,1,"Sandstrom, Miss. Beatrice Irene",female,1,1,1,PP 9549,16.7,S,?,100,16.356741182103438,10752.753920367124
+3,1,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24,0,2,PP 9549,16.7,S,?,100,21.019271338936324,1228.2771662276195
+3,1,"Sandstrom, Miss. Marguerite Rut",female,4,1,1,PP 9549,16.7,S,?,100,29.16344177290563,1557.0766128346008
+3,1,"Sap, Mr. Julius",male,25,0,0,345768,9.5,S,?,100,16.347012029375435,6341.662598173238
+3,0,"Saundercock, Mr. William Henry",male,20,0,0,A/5. 2151,8.05,S,?,100,26.643409203525465,4781.712163695178
+3,0,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,S,?,100,21.917661139059135,3869.5726843126936
+3,0,"Scanlan, Mr. James",male,?,0,0,36209,7.725,Q,?,100,27.418310355349544,4574.565234176347
+3,0,"Sdycoff, Mr. Todor",male,?,0,0,349222,7.8958,S,?,10000,15.914840676250257,12150.499777804827
+3,0,"Shaughnessy, Mr. Patrick",male,?,0,0,370374,7.75,Q,?,10000,32.430736123047524,13973.806777661881
+3,1,"Sheerlinck, Mr. Jan Baptist",male,29,0,0,345779,9.5,S,?,100,34.46977938354794,6373.9890706497135
+3,0,"Shellard, Mr. Frederick William",male,?,0,0,C.A. 6212,15.1,S,?,100,34.37755710571383,13638.609530921207
+3,1,"Shine, Miss. Ellen Natalia",female,?,0,0,330968,7.7792,Q,?,100,29.993036634858495,5161.687668094289
+3,0,"Shorney, Mr. Charles Joseph",male,?,0,0,374910,8.05,S,?,100,17.60172480261264,7408.3363019849785
+3,0,"Simmons, Mr. John",male,?,0,0,SOTON/OQ 392082,8.05,S,?,100,30.16526391858045,3777.420468331996
+3,0,"Sirayanian, Mr. Orsen",male,22,0,0,2669,7.2292,C,?,100,15.49173832917603,9786.902611549738
+3,0,"Sirota, Mr. Maurice",male,?,0,0,392092,8.05,S,?,100,15.442471030579945,14695.22617003473
+3,0,"Sivic, Mr. Husein",male,40,0,0,349251,7.8958,S,?,100,21.472204382990824,9250.649893
+3,0,"Sivola, Mr. Antti Wilhelm",male,21,0,0,STON/O 2. 3101280,7.925,S,?,100,24.772863808093316,5688.3042196464585
+3,1,"Sjoblom, Miss. Anna Sofia",female,18,0,0,3101265,7.4958,S,?,100,30.408148356155863,9893.352966862662
+3,0,"Skoog, Master. Harald",male,4,3,2,347088,27.9,S,?,100,28.665907532130102,2282.3498377481196
+,0,"Skoog, Master. Karl Thorsten",male,10,3,2,347088,27.9,S,?,100,23.918054127534965,13385.55666384828
+3,0,"Skoog, Miss. Mabel",female,9,3,2,347088,27.9,S,?,100,20.472533325633318,7794.717286307628
+3,0,"Skoog, Miss. Margit Elizabeth",female,2,3,2,347088,27.9,S,?,100,34.94249000315422,7015.57126
+3,0,"Skoog, Mr. Wilhelm",male,40,1,4,347088,27.9,S,?,100,23.52362604471946,8995.039432576028
+,0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45,1,4,347088,27.9,S,?,100,24.02774048659351,9559.366010446336
+,0,"Slabenoff, Mr. Petco",male,?,0,0,349214,7.8958,S,?,100,18.272476423833382,1540.749190284439
+3,0,"Slocovski, Mr. Selman Francis",male,?,0,0,SOTON/OQ 392086,8.05,S,?,100,30.89619097499859,10397.949707739335
+3,0,"Smiljanic, Mr. Mile",male,?,0,0,315037,8.6625,S,?,100,28.873644515629774,4008.009364575179
+3,0,"Smith, Mr. Thomas",male,,0,0,384461,7.75,Q,?,100,19.41539225577521,10852.313171345551
+3,1,"Smyth, Miss. Julia",female,?,0,0,335432,7.7333,Q,?,100,16.647620912316853,12426.754518570853
+3,0,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19,0,0,348124,7.65,S,?,100,28.609986041494263,12157.398359511544
+3,0,"Somerton, Mr. Francis William",male,30,0,0,A.5. 18509,8.05,S,?,100,28.090224285622703,8511.264027414392
+3,0,"Spector, Mr. Woolf",male,?,0,0,A.5. 3236,8.05,S,?,10000,20.465190539964187,8042.463438505892
+3,0,"Spinner, Mr. Henry John",male,1050,0,0,STON/OQ. 369943,8.05,S,?,100,34.01727124500821,2571.701439
+3,0,"Staneff, Mr. Ivan",male,?,0,0,349208,7.8958,S,?,100,18.021157835618006,11742.519180845466
+3,0,"Stankovic, Mr. Ivan",male,33,0,0,349239,8.6625,C,?,100,23.646696020852037,4435.436016477358
+3,1,"Stanley, Miss. Amy Zillah Elsie",female,23,0,0,CA. 2314,7.55,S,?,100,33.872318403351976,7702.083630860225
+3,0,"Stanley, Mr. Edward Roland",male,21,0,0,A/4 45380,8.05,S,?,100,23.394546338522446,4621.974347448992
+3,0,"Storey, Mr. Thomas",male,60.5,0,0,3701,?,S,?,100,27.770518953281712,2440.5112634955503
+3,0,"Stoytcheff, Mr. Ilia",male,19,0,0,349205,7.8958,S,?,100,22.951887959255885,9628.586605
+3,0,"Strandberg, Miss. Ida Sofia",female,1050,0,0,7553,9.8375,S,?,100,20.48430405,1287.8145049321056
+3,1,"Stranden, Mr. Juho",male,31,0,0,STON/O 2. 3101288,7.925,S,?,100,34.67955295919656,11355.35589
+3,0,"Strilic, Mr. Ivan",male,27,0,0,315083,8.6625,S,?,100,23.18668012630086,5105.008531286192
+3,0,"Strom, Miss. Telma Matilda",female,2,0,1,347054,10.4625,S,?,100,32.881984073582686,501.95304856503714
+3,0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29,1,1,347054,10.4625,S,?,100,19.599092117821723,7911.372518939832
+3,1,"Sunderland, Mr. Victor Francis",male,16,0,0,SOTON/OQ 392089,8.05,S,?,100,19.262094080501665,1179.3526736502454
+3,1,"Sundman, Mr. Johan Julian",male,44,0,0,STON/O 2. 3101269,7.925,S,?,100,15.622681657690228,4504.458588403042
+3,0,"Sutehall, Mr. Henry Jr",male,25,0,0,SOTON/OQ 392076,7.05,S,?,100,28.033336507517703,10751.159068107885
+3,0,"Svensson, Mr. Johan",male,74,0,0,347060,7.775,S,?,100,22.370526874475225,1408.999513517055
+3,1,"Svensson, Mr. Johan Cervin",male,14,0,0,7538,9.225,S,?,100,32.28716499679274,12670.408139162033
+3,0,"Svensson, Mr. Olof",male,24,0,0,350035,7.7958,S,?,100,24.464198133831143,555.3888785494551
+,1,"Tenglin, Mr. Gunnar Isidor",male,,0,0,350033,7.7958,S,?,100,34.363868558294435,4078.946103427583
+3,0,"Theobald, Mr. Thomas Leonard",male,34,0,0,363294,8.05,S,?,100,18.71051031406242,11243.108814205036
+3,1,"Thomas, Master. Assad Alexander",male,1050,0,1,2625,8.5167,C,?,100,32.37246335911222,5085.917171074949
+3,0,"Thomas, Mr. Charles P",male,?,1,0,2621,6.4375,C,?,100,30.531937055834835,1977.4396269571962
+3,0,"Thomas, Mr. John",male,?,0,0,2681,6.4375,C,?,100,30.41843689288104,5723.391822606204
+3,0,"Thomas, Mr. Tannous",male,?,0,0,2684,7.225,C,?,100,31.895664562337753,4420.702653
+3,1,"Thomas, Mrs. Alexander (Thamine 'Thelma')",female,1050,1,1,2625,8.5167,C,?,100,30.220479818859978,12719.322581328046
+3,0,"Thomson, Mr. Alexander Morrison",male,?,0,0,32302,8.05,S,?,100,27.524406432628307,5043.544804984575
+3,0,"Thorneycroft, Mr. Percival",male,?,1,0,376564,16.1,S,?,100,17.624897553647752,11939.520840752104
+3,1,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,1,0,376564,16.1,S,?,100,15.650523589825038,13432.146099755653
+3,0,"Tikkanen, Mr. Juho",male,32,0,0,STON/O 2. 3101293,7.925,S,?,100,33.41695695631374,6790.352583859678
+,0,"Tobin, Mr. Roger",male,?,0,0,383121,7.75,Q,?,10000,27.33300629041476,13694.175585888685
+3,0,"Todoroff, Mr. Lalio",male,?,0,0,349216,7.8958,S,?,100,30.930745819523526,5971.111782466296
+3,0,"Tomlin, Mr. Ernest Portage",male,,0,0,364499,8.05,S,?,100,24.630447030251002,14479.137039106568
+3,0,"Torber, Mr. Ernst William",male,44,0,0,364511,8.05,S,?,100,17.346163779247888,1794.6981056208074
+,0,"Torfa, Mr. Assad",male,?,0,0,2673,7.2292,C,?,100,17.50371584405101,10461.77936429702
+3,1,"Tornquist, Mr. William Henry",male,,0,0,LINE,0,S,?,10000,28.711305744579427,7660.303586625466
+3,0,"Toufik, Mr. Nakli",male,?,0,0,2641,7.2292,C,?,100,23.606117897989254,6120.907679106883
+3,1,"Touma, Master. Georges Youssef",male,7,1,1,2650,15.2458,C,?,100,19.010494534006735,9674.322241854714
+3,1,"Touma, Miss. Maria Youssef",female,9,1,1,2650,15.2458,C,?,100,24.83189093482874,10705.927828697802
+3,1,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29,0,2,2650,15.2458,C,?,100,16.284178741502682,563.2674099294818
+3,0,"Turcin, Mr. Stjepan",male,36,0,0,349247,7.8958,S,?,100,26.639428038287974,2920.8197868343814
+3,1,"Turja, Miss. Anna Sofia",female,18,0,0,4138,9.8417,S,?,100,20.379868088701954,10839.167734197621
+3,1,"Turkula, Mrs. (Hedwig)",female,63,0,0,4134,9.5875,S,?,100,30.951182012743764,10162.588496883995
+3,0,"van Billiard, Master. James William",male,?,1,1,A/5. 851,14.5,S,?,100,21.207239178471475,14507.68882436582
+3,0,"van Billiard, Master. Walter John",male,11.5,1,1,A/5. 851,14.5,S,?,100,24.104402981636024,11535.047958636353
+3,0,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,S,?,100,15.232410798162013,14286.204262104402
+3,0,"Van Impe, Miss. Catharina",female,10,0,2,345773,24.15,S,?,100,16.448937755891176,10686.837272254701
+3,0,"Van Impe, Mr. Jean Baptiste",male,36,1,1,345773,24.15,S,?,100,22.849871128133696,4821.757025271926
+3,0,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30,1,1,345773,24.15,S,?,100,24.59877669434247,2027.7913726374188
+3,0,"van Melkebeke, Mr. Philemon",male,?,0,0,345777,9.5,S,?,100,27.000410962386074,11836.446018501567
+3,0,"Vande Velde, Mr. Johannes Joseph",male,33,0,0,345780,9.5,S,?,100,20.833251574186065,9840.163711
+3,0,"Vande Walle, Mr. Nestor Cyriel",male,28,0,0,345770,9.5,S,?,100,28.89963772253085,1198.6971797027952
+3,0,"Vanden Steen, Mr. Leo Peter",male,,0,0,345783,9.5,S,?,100,32.202447943784094,5720.731755564186
+3,0,"Vander Cruyssen, Mr. Victor",male,47,0,0,345765,9,S,?,100,30.597019777866997,14373.597324522148
+3,0,"Vander Planke, Miss. Augusta Maria",female,,2,0,345764,18,S,?,100,15.792376506967143,7755.8166127979175
+3,0,"Vander Planke, Mr. Julius",male,31,3,0,345763,18,S,?,100,24.610138945156578,6774.572472285718
+3,0,"Vander Planke, Mr. Leo Edmondus",male,16,2,0,345764,18,S,?,100,17.098603568363497,7136.6442748097625
+3,0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,1,0,345763,18,S,?,100,19.84090031725055,3528.799498074874
+3,1,"Vartanian, Mr. David",male,22,0,0,2658,7.225,C,?,100,34.73325186534293,5846.253977539531
+3,0,"Vendel, Mr. Olof Edvin",male,20,0,0,350416,7.8542,S,?,100,17.849910858030263,5862.292211814061
+3,0,"Vestrom, Miss. Hulda Amanda Adolfina",female,14,0,0,350406,7.8542,S,?,10000,24.97776306902712,1259.1477927183498
+3,0,"Vovk, Mr. Janko",male,22,0,0,349252,7.8958,S,?,100,27.363114686362383,11629.730613509815
+3,0,"Waelens, Mr. Achille",male,,0,0,345767,9,S,"Antwerp, Belgium / Stanton, OH",100,29.049299410882078,6539.314262606245
+3,0,"Ware, Mr. Frederick",male,?,0,0,359309,8.05,S,?,100,26.192973669738283,12421.608358838137
+3,0,"Warren, Mr. Charles William",male,,0,0,C.A. 49867,7.55,S,?,100,15.195416948383674,12830.046016238482
+3,0,"Webber, Mr. James",male,?,0,0,SOTON/OQ 3101316,8.05,S,?,100,21.529226164879837,3573.9137931305418
+3,0,"Wenzel, Mr. Linhart",male,32.5,0,0,345775,9.5,S,?,100,25.35423286769423,10031.625491466864
+,1,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38,0,0,2688,7.2292,C,?,100,16.757329982896668,7348.086160363235
+3,0,"Widegren, Mr. Carl/Charles Peter",male,51,0,0,347064,7.75,S,?,100,22.012538624183616,13262.272699861534
+3,0,"Wiklund, Mr. Jakob Alfred",male,18,1,0,3101267,6.4958,S,?,10000,15.66406217582733,3628.239848058585
+,0,"Wiklund, Mr. Karl Johan",male,21,1,0,3101266,6.4958,S,?,100,16.571569943100414,10328.291404495641
+3,1,"Wilkes, Mrs. James (Ellen Needs)",female,47,1,0,363272,7,S,?,100,22.938465524031923,9312.405772664477
+3,0,"Willer, Mr. Aaron ('Abi Weller')",male,?,0,0,3410,8.7125,S,?,100,17.654315080861206,4781.871424791575
+3,0,"Willey, Mr. Edward",male,?,0,0,S.O./P.P. 751,7.55,S,?,100,26.350816965231164,2480.713102942003
+3,0,"Williams, Mr. Howard Hugh 'Harry'",male,?,0,0,A/5 2466,8.05,S,?,100,28.789299382745316,9948.776527
+3,0,"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,S,?,100,31.011733982181656,11209.663142918795
+3,0,"Windelov, Mr. Einar",male,21,0,0,SOTON/OQ 3101317,7.25,S,?,100,19.003004884896203,5076.596484568575
+3,0,"Wirz, Mr. Albert",male,27,0,0,315154,8.6625,S,?,100,18.349651645181396,9850.072758
+3,0,"Wiseman, Mr. Phillippe",male,?,0,0,A/4. 34244,7.25,S,?,100,17.091356806688005,6229.398160366797
+3,0,"Wittevrongel, Mr. Camille",male,36,0,0,345771,9.5,S,?,100,27.728604990872732,10841.499807597957
+3,0,"Yasbeck, Mr. Antoni",male,27,1,0,2659,14.4542,C,?,100,29.129514529738024,3388.621486
+3,1,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,1050,1,0,2659,14.4542,C,?,100,15.63172289651284,13408.11753822453
+3,0,"Youseff, Mr. Gerious",male,45.5,0,0,2628,7.225,C,?,100,33.724244924873794,4667.4391487509065
+3,0,"Yousif, Mr. Wazli",male,?,0,0,2647,7.225,C,?,100,16.03942567302945,5832.896822464217
+3,0,"Yousseff, Mr. Gerious",male,?,0,0,2627,14.4583,C,?,100,25.82592670602141,1342.3333051650718
+3,0,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,C,?,100,29.18121038901833,2116.9270786585075
+3,0,"Zabour, Miss. Thamine",female,?,1,0,2665,14.4542,C,?,100,32.41938247492171,7979.997589328757
+3,0,"Zakarian, Mr. Mapriededer",male,26.5,0,0,2656,7.225,C,?,100,29.281738642648556,4380.093812555587
+3,0,"Zakarian, Mr. Ortin",male,27,0,0,2670,7.225,C,?,100,31.034561661395838,12614.46327326182
+3,0,"Zimmerman, Mr. Leo",male,1050,0,0,315082,7.875,S,?,100,21.789003850856123,713.0541354968307
+2,0,"Nesson, Mr. Israel",male,26,0,0,244368,13,S,"Boston, MA",400,31.296502274930244,5996.863705743075
+2,1,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45,1,1,F.C.C. 13529,26.25,S,"Ilford, Essex / Winnipeg, MB",400,16.60229693,5391.510428151843
+3,0,"Dooley, Mr. Patrick",male,32,0,0,370376,7.75,Q,"Ireland New York, NY",100,32.89633312121055,780.2506483
+3,0,"Ilmakangas, Miss. Ida Livija",female,27,1,0,STON/O2. 3101270,7.925,S,?,100,25.951847523074726,2303.341785507398
+3,1,"Moubarek, Master. Halim Gonios ('William George')",male,?,1,1,2661,15.2458,C,?,100,31.345955399249874,6497.818786320211
+3,1,"Sjoblom, Miss. Anna Sofia",female,18,0,0,3101265,7.4958,S,?,100,24.046365690366002,7646.536474487976
+3,0,"Danbom, Mr. Ernst Gilbert",male,34,1,1,347080,14.4,S,"Stanton, IA",100,27.8715539,6362.201335195602
+1,0,"Williams, Mr. Charles Duane",male,51,0,1,PC 17597,61.3792,C,"Geneva, Switzerland / Radnor, PA",500,25.528053218722263,8198.596337
+2,1,"Sincock, Miss. Maude",female,20,0,0,C.A. 33112,36.75,S,"Cornwall / Hancock, MI",400,29.631790435106637,9129.409286132382
+3,0,"O'Donoghue, Ms. Bridget",female,?,0,0,364856,7.75,Q,?,100,16.63259964061179,643.8954063536166
+3,0,"Caram, Mrs. Joseph (Maria Elias)",female,?,1,0,2689,14.4583,C,"Ottawa, ON",100,16.207041679811276,7229.3798120758065
+3,0,"McNeill, Miss. Bridget",female,?,0,0,370368,7.75,Q,?,100,19.94206468020293,14470.73899287003
+3,0,"Kiernan, Mr. John",male,?,1,0,367227,7.75,Q,?,100,18.190893602263767,8025.968061878456
+3,0,"Hagland, Mr. Ingvald Olai Olsen",male,1050,1,0,65303,19.9667,S,?,100,32.435671331844034,10324.362878154821
+3,1,"Healy, Miss. Hanora 'Nora'",female,?,0,0,370375,7.75,Q,?,100,19.384279747160885,5022.025939794807
+1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58,0,1,PC 17582,153.4625,S,"Greenwich, CT",10000,34.51730511638262,11722.874983215057
+3,0,"Wenzel, Mr. Linhart",male,32.5,0,0,345775,9.5,S,?,100,21.737915835422136,11707.361487203669
+3,0,"Webber, Mr. James",male,?,0,0,SOTON/OQ 3101316,8.05,S,?,100,18.642358313773986,8058.792690985015
+2,1,"Smith, Miss. Marion Elsie",female,40,0,0,31418,13,S,?,400,30.79397014284958,14652.200437548598
+3,0,"Connaghton, Mr. Michael",male,31,0,0,335097,7.75,Q,"Ireland Brooklyn, NY",100,28.17415551001752,2320.478114058474
+,0,"Assam, Mr. Ali",male,23,0,0,SOTON/O.Q. 3101309,7.05,S,?,100,24.96391432906278,745.7411408989244
+3,1,"Buckley, Mr. Daniel",male,,0,0,330920,7.8208,Q,"Kingwilliamstown, Co Cork, Ireland New York, NY",100,26.107271018752623,11667.294070477892
+1,0,"Borebank, Mr. John James",male,42,0,0,110489,26.55,S,"London / Winnipeg, MB",500,29.384035565445277,12203.755291790796
+3,1,"Badman, Miss. Emily Louisa",female,,0,0,A/4 31416,8.05,S,"London Skanteales, NY",100,19.569094826625975,2243.0048222483556
+1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,1050,0,0,17466,25.9292,S,"Brooklyn, NY",500,34.92667832113484,4350.951077899788
+3,0,"Moran, Mr. James",male,?,0,0,330877,8.4583,Q,?,100,34.49586324293566,754.5092688161192
+3,0,"Strom, Miss. Telma Matilda",female,2,0,1,347054,10.4625,S,?,100,28.00651372693874,4752.974856318188
+1,0,"Brewe, Dr. Arthur Jackson",male,?,0,0,112379,39.6,C,"Philadelphia, PA",500,18.990849018582903,11710.557171820737
+1,0,"Butt, Major. Archibald Willingham",male,45,0,0,113050,26.55,S,"Washington, DC",500,28.604564848625827,8010.427651832395
+2,0,"Fynney, Mr. Joseph J",male,35,0,0,239865,26,S,"Liverpool / Montreal, PQ",400,16.443968179583518,5547.386100940177
+3,0,"Risien, Mrs. Samuel (Emma)",female,?,0,0,364498,14.5,S,?,100,15.613050044116122,5890.219776141789
+1,0,"Head, Mr. Christopher",male,42,0,0,113038,42.5,S,London / Middlesex,500,20.153657770224275,519.6275728742883
+2,1,"Oxenham, Mr. Percy Thomas",male,22,0,0,W./C. 14260,10.5,S,"Pondersend, England / New Durham, NJ",400,24.252459134786328,4847.10765
+2,0,"Sharp, Mr. Percival James R",male,27,0,0,244358,26,S,"Hornsey, England",400,32.36545010816761,9873.651753749991
+3,0,"Davies, Mr. Joseph",male,17,2,0,A/4 48873,8.05,S,"West Bromwich, England Pontiac, MI",100,29.54338139532616,14625.819435337178
+1,1,"Saalfeld, Mr. Adolphe",male,?,0,0,19988,30.5,S,"Manchester, England",10000,29.85413042399962,12782.381991266542
+3,0,"O'Brien, Mr. Thomas",male,?,1,0,370365,15.5,Q,?,100,23.50986668896151,842.1269873601723
+1,0,"Baumann, Mr. John D",male,?,0,0,PC 17318,25.925,S,"New York, NY",500,21.91869985093926,13529.12876778517
+2,0,"Hickman, Mr. Stanley George",male,21,2,0,S.O.C. 14879,73.5,S,"West Hampstead, London / Neepawa, MB",400,22.420775259692054,11856.376992830075
+3,1,"Goldsmith, Master. Frank John William 'Frankie'",male,9,0,2,363291,20.525,S,"Strood, Kent, England Detroit, MI",100,34.752991274721154,11815.453791779217
+3,1,"Asplund, Master. Edvin Rojj Felix",male,3,4,2,347077,31.3875,S,"Sweden Worcester, MA",100,15.80218382824965,7140.938505551787
+1,1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54,1,1,33638,81.8583,S,"San Francisco, CA",500,32.34062992244897,6271.076747840291
+3,1,"Midtsjo, Mr. Karl Albert",male,21,0,0,345501,7.775,S,?,100,26.57350817144787,4892.278068081293
+3,0,"Christmann, Mr. Emil",male,29,0,0,343276,8.05,S,?,100,23.77230838379181,1452.5754548383038
+1,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48,1,3,PC 17608,262.375,C,"Haverford, PA / Cooperstown, NY",500,29.50515320830273,3809.412770658637
+3,0,"Meanwell, Miss. (Marion Ogden)",female,?,0,0,SOTON/O.Q. 392087,8.05,S,?,100,24.733378828494057,4075.752707181357
+,1,"West, Miss. Barbara J",female,0.9167,1,2,C.A. 34651,27.75,S,"Bournmouth, England",400,32.468464761633214,7519.117510797923
+2,0,"Greenberg, Mr. Samuel",male,52,0,0,250647,13,S,"Bronx, NY",400,33.01403728022517,11337.943895652063
+,1,"Quick, Miss. Phyllis May",female,2,1,1,26360,26,S,"Plymouth, Devon / Detroit, MI",400,23.434418537469107,7370.242511770226
+3,0,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48,1,3,W./C. 6608,34.375,S,"Rotherfield, Sussex, England Essex Co, MA",100,20.536555944701032,1338.7445169838288
+2,1,"Brown, Miss. Amelia 'Mildred'",female,1050,0,0,248733,13,S,"London / Montreal, PQ",400,26.847006571867244,14387.952114328957
+3,0,"Cacic, Miss. Marija",female,,0,0,315084,8.6625,S,?,100,33.24726691233382,14169.502626864627
+3,0,"Brocklebank, Mr. William Alfred",male,35,0,0,364512,8.05,S,"Broomfield, Chelmsford, England",100,19.21324378011333,11885.248375651921
+2,0,"Rogers, Mr. Reginald Harry",male,19,0,0,28004,10.5,S,?,400,27.459331671269656,14874.254572681199
+3,0,"Ford, Miss. Robina Maggie 'Ruby'",female,,2,2,W./C. 6608,34.375,S,"Rotherfield, Sussex, England Essex Co, MA",100,27.63120440185041,8394.993825603813
+1,1,"Bidois, Miss. Rosalie",female,42,0,0,PC 17757,227.525,C,?,500,29.66226044830562,14460.141078671488
+3,1,"Ayoub, Miss. Banoura",female,,0,0,2687,7.2292,C,"Syria Youngstown, OH",100,17.631353702545198,1596.2730889428863
+2,0,"Davies, Mr. Charles Henry",male,,0,0,S.O.C. 14879,73.5,S,"Lyndhurst, England",400,29.316499293641773,5802.370849789884
+2,1,"West, Miss. Constance Mirium",female,5,1,2,C.A. 34651,27.75,S,"Bournmouth, England",400,33.18065041331282,3768.0283860981044
+1,0,"Rothschild, Mr. Martin",male,55,1,0,PC 17603,59.4,C,"New York, NY",500,18.593662177404838,3339.5797199469152
+3,1,"Murphy, Miss. Nora",female,?,0,0,36568,15.5,Q,?,100,19.750866498477553,2541.642758943803
+3,1,"Salkjelsvik, Miss. Anna Kristine",female,21,0,0,343120,7.65,S,?,100,34.42790188083279,9524.997802706952
+3,0,"Bourke, Mrs. John (Catherine)",female,32,1,1,364849,15.5,Q,"Ireland Chicago, IL",10000,18.619539054189794,11829.166908335923
+3,0,"Duane, Mr. Frank",male,65,0,0,336439,7.75,Q,?,100,32.08770186739158,8885.326792
+3,0,"Leinonen, Mr. Antti Gustaf",male,32,0,0,STON/O 2. 3101292,7.925,S,?,100,24.845557128960696,2630.959289
